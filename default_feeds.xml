@@ -5,6 +5,10 @@
 			<url>http://feeds.wired.com/wired/index</url>
 	   </feed>
 		<feed>
+			<name>Computer News</name>
+			<url>http://www.computerweekly.com/rss/Latest-IT-news.xml</url>
+	   </feed>
+		<feed>
 			<name>CNET Tech</name>
 			<url>http://www.cnet.com/rss/news/</url>
 	   </feed>	   
