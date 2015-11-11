@@ -24,7 +24,8 @@
 			<name>PC World</name>
 			<url>http://www.pcworld.com/index.rss</url>
 	   </feed>
-	   	   <feed>Economics Times Tech</name>
+	   <feed>
+			<name>Economics Times Tech</name>
 			<url>http://tech.economictimes.indiatimes.com/rss/topstories</url>
 	   </feed>
 	   
