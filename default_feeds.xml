@@ -1,0 +1,52 @@
+<feeds>
+	<category type="Technology">
+		<feed>
+			<name>Wired</name>
+			<url>http://feeds.wired.com/wired/index</url>
+	   </feed>
+		<feed>
+			<name>CNET Tech</name>
+			<url>http://www.cnet.com/rss/news/</url>
+	   </feed>	   
+	   <feed>
+			<name>BBC Tech</name>
+			<url>http://feeds.bbci.co.uk/news/technology/rss.xml</url>
+	   </feed>
+	      <feed>
+			<name>Tech Crunch</name>
+			<url>http://feeds.feedburner.com/techcrunch</url>
+	   </feed>
+	</category>
+	<category type="Newspapers">
+		<feed>
+			<name>NDTV News</name>
+			<url>http://feeds.feedburner.com/NdtvNews-TopStories</url>
+		</feed>
+				<feed>
+			<name>Money Control News</name>
+			<url>http://www.moneycontrol.com/rss/MCtopnews.xml</url>
+		</feed>
+				<feed>
+			<name>Reuters News</name>
+			<url>http://feeds.reuters.com/reuters/INtopNews</url>
+		</feed>
+				<feed>
+			<name>Hindu News</name>
+			<url>http://www.thehindu.com/news/?service=rss</url>
+		</feed>
+	</category>
+	<category type="Sports">
+		<feed>
+			<name>ESPN News</name>
+			<url>http://www.espncricinfo.com/rss/content/story/feeds/0.xml</url>
+		</feed>
+		<feed>
+			<name>Fox Sports</name>
+			<url>http://api.foxsports.com/v1/rss?partnerKey=zBaFxRyGKCfxBagJG9b8pqLyndmvo7UU</url>
+		</feed>		
+		<feed>
+			<name>IBN Sports</name>
+			<url>http://www.ibnlive.com/rss/sports.xml</url>
+		</feed>		
+	</category>
+</feeds>
