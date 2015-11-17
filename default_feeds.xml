@@ -1,32 +1,32 @@
 <feeds>
 	<category type="Technology">
 		<feed>
-			<name>Wired</name>
-			<url>http://feeds.wired.com/wired/index</url>
+			<name>Tech News World</name>
+			<url>http://www.technewsworld.com/perl/syndication/rssfull.pl</url>
 	   </feed>
 		<feed>
-			<name>Computer News</name>
-			<url>http://www.computerweekly.com/rss/Latest-IT-news.xml</url>
+			<name>The Verge</name>
+			<url>http://www.theverge.com/tech/rss/index.xml</url>
 	   </feed>
-		<feed>
-			<name>CNET Tech</name>
-			<url>http://www.cnet.com/rss/news/</url>
+	    <feed>
+			<name>TechCrunch</name>
+			<url>http://techcrunch.com/feed/</url>
 	   </feed>	   
 	   <feed>
-			<name>BBC Tech</name>
-			<url>http://feeds.bbci.co.uk/news/technology/rss.xml</url>
-	   </feed>
-	      <feed>
-			<name>Tech Crunch</name>
-			<url>http://feeds.feedburner.com/techcrunch</url>
+			<name>WIRED</name>
+			<url>http://www.wired.com/feed/</url>
 	   </feed>
 	   <feed>
-			<name>PC World</name>
-			<url>http://www.pcworld.com/index.rss</url>
+			<name>ExtremeTech</name>
+			<url>http://www.extremetech.com/feed</url>
 	   </feed>
 	   <feed>
-			<name>Economics Times Tech</name>
-			<url>http://tech.economictimes.indiatimes.com/rss/topstories</url>
+			<name>Top Tech News</name>
+			<url>http://www.toptechnews.com/share/rss_feed.php</url>
+	   </feed>
+	   <feed>
+			<name>Geek</name>
+			<url>http://www.geek.com/feed/</url>
 	   </feed>
 	   
 	</category>
