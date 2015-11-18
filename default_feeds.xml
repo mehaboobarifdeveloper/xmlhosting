@@ -30,6 +30,20 @@
 	   </feed>
 	   
 	</category>
+	<category type="Sports">
+		<feed>
+			<name>ESPN News</name>
+			<url>http://www.espncricinfo.com/rss/content/story/feeds/0.xml</url>
+		</feed>
+		<feed>
+			<name>Fox Sports</name>
+			<url>http://api.foxsports.com/v1/rss?partnerKey=zBaFxRyGKCfxBagJG9b8pqLyndmvo7UU</url>
+		</feed>		
+		<feed>
+			<name>IBN Sports</name>
+			<url>http://www.ibnlive.com/rss/sports.xml</url>
+		</feed>		
+	</category>
 	<category type="Newspapers">
 		<feed>
 			<name>NDTV News</name>
@@ -48,18 +62,5 @@
 			<url>http://www.thehindu.com/news/?service=rss</url>
 		</feed>
 	</category>
-	<category type="Sports">
-		<feed>
-			<name>ESPN News</name>
-			<url>http://www.espncricinfo.com/rss/content/story/feeds/0.xml</url>
-		</feed>
-		<feed>
-			<name>Fox Sports</name>
-			<url>http://api.foxsports.com/v1/rss?partnerKey=zBaFxRyGKCfxBagJG9b8pqLyndmvo7UU</url>
-		</feed>		
-		<feed>
-			<name>IBN Sports</name>
-			<url>http://www.ibnlive.com/rss/sports.xml</url>
-		</feed>		
-	</category>
+
 </feeds>
