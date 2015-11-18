@@ -61,19 +61,19 @@
 			<url>http://images.apple.com/main/rss/hotnews/hotnews.rss</url>
 	   </feed>	   
 	   <feed>
-			<name>Apple - Mashable</name>
+			<name>Apple Mashable</name>
 			<url>http://feeds.mashable.com/Mashable</url>
 	   </feed>
 	   <feed>
-			<name>Apple - Telegraph</name>
+			<name>Apple Telegraph</name>
 			<url>http://www.telegraph.co.uk/technology/apple/rss</url>
 	   </feed>	   
 	   <feed>
-			<name>Linux.com</name>
+			<name>Linux dot com/name>
 			<url>https://www.linux.com/feeds/all-content</url>
 	   </feed>	 
 	   <feed>
-			<name>Linux.org</name>
+			<name>Linux dot org</name>
 			<url>http://www.linux.org/originalcontent</url>
 	   </feed>	 	   
 	   
@@ -83,15 +83,15 @@
 			<name>NDTV News</name>
 			<url>http://feeds.feedburner.com/NdtvNews-TopStories</url>
 		</feed>
-				<feed>
+		<feed>
 			<name>Money Control News</name>
 			<url>http://www.moneycontrol.com/rss/MCtopnews.xml</url>
 		</feed>
-				<feed>
+		<feed>
 			<name>Reuters News</name>
 			<url>http://feeds.reuters.com/reuters/INtopNews</url>
 		</feed>
-				<feed>
+		<feed>
 			<name>Hindu News</name>
 			<url>http://www.thehindu.com/news/?service=rss</url>
 		</feed>
