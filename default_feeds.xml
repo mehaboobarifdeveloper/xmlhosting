@@ -42,7 +42,7 @@
 	   </feed>
 	   <feed>
 			<name>Android Authority</name>
-			<url>http://feed.androidauthority.com/</url>
+			<url>http://feed.androidauthority.com</url>
 	   </feed>	 
 	   <feed>
 			<name>Phone Arena</name>
@@ -54,7 +54,7 @@
 	   </feed>
 	   <feed>
 			<name>Windows</name>
-			<url>https://news.microsoft.com/feed/</url>
+			<url>https://news.microsoft.com/feed</url>
 	   </feed>
 		   
 	</category>
