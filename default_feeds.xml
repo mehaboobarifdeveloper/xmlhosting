@@ -51,8 +51,35 @@
 	   <feed>
 			<name>Phone Arena</name>
 			<url>http://www.phonearena.com/feed/news</url>
-	   </feed>		   
-	   
+	   </feed>
+	   <feed>
+			<name>Windows Central</name>
+			<url>http://feeds.feedburner.com/wmexperts</url>
+	   </feed>
+	   <feed>
+			<name>Windows</name>
+			<url>https://news.microsoft.com/feed/</url>
+	   </feed>
+	   <feed>
+			<name>Apple Hot News</name>
+			<url>http://images.apple.com/main/rss/hotnews/hotnews.rss</url>
+	   </feed>	   
+	   <feed>
+			<name>Apple - Mashable</name>
+			<url>http://feeds.mashable.com/Mashable</url>
+	   </feed>
+	   <feed>
+			<name>Apple - Telegraph</name>
+			<url>http://www.telegraph.co.uk/technology/apple/rss</url>
+	   </feed>	   
+	   <feed>
+			<name>Linux.com</name>
+			<url>https://www.linux.com/feeds/all-content</url>
+	   </feed>	 
+	   <feed>
+			<name>Linux.org</name>
+			<url>http://www.linux.org/originalcontent</url>
+	   </feed>	 	   
 	   
 	</category>
 	<category type="Newspapers">
