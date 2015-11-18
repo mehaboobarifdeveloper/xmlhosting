@@ -57,10 +57,6 @@
 			<url>https://news.microsoft.com/feed/</url>
 	   </feed>
 	   <feed>
-			<name>Apple Hot News</name>
-			<url>http://images.apple.com/main/rss/hotnews/hotnews.rss</url>
-	   </feed>	   
-	   <feed>
 			<name>Apple Mashable</name>
 			<url>http://feeds.mashable.com/Mashable</url>
 	   </feed>
