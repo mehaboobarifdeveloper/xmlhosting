@@ -1,10 +1,10 @@
 <feeds>
 	<category type="Technology">
-		<feed>
+	    <feed>
 			<name>Tech News World</name>
 			<url>http://www.technewsworld.com/perl/syndication/rssfull.pl</url>
 	   </feed>
-		<feed>
+	    <feed>
 			<name>The Verge</name>
 			<url>http://www.theverge.com/tech/rss/index.xml</url>
 	   </feed>
@@ -44,10 +44,6 @@
 			<name>Android Authority</name>
 			<url>http://feed.androidauthority.com/</url>
 	   </feed>	 
-	   <feed>
-			<name>Android Authority</name>
-			<url>http://feed.androidauthority.com/</url>
-	   </feed>	
 	   <feed>
 			<name>Phone Arena</name>
 			<url>http://www.phonearena.com/feed/news</url>
