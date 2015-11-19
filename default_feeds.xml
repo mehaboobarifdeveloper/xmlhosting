@@ -1,10 +1,10 @@
 <feeds>
 	<category type="Technology">
-		<feed>
+	    <feed>
 			<name>Tech News World</name>
 			<url>http://www.technewsworld.com/perl/syndication/rssfull.pl</url>
 	   </feed>
-		<feed>
+	    <feed>
 			<name>The Verge</name>
 			<url>http://www.theverge.com/tech/rss/index.xml</url>
 	   </feed>
@@ -28,7 +28,68 @@
 			<name>Geek</name>
 			<url>http://www.geek.com/feed/</url>
 	   </feed>
-	   
+	   <feed>
+			<name>Yahoo Tech</name>
+			<url>https://www.yahoo.com/tech/rss</url>
+	   </feed>	
+	   <feed>
+			<name>Android Central</name>
+			<url>http://feeds.feedburner.com/androidcentral</url>
+	   </feed>
+	   <feed>
+			<name>Android Pit</name>
+			<url>https://www.androidpit.com/feed/main.xml</url>
+	   </feed>
+	   <feed>
+			<name>Android Authority</name>
+			<url>http://feed.androidauthority.com</url>
+	   </feed>	 
+	   <feed>
+			<name>Phone Arena</name>
+			<url>http://www.phonearena.com/feed/news</url>
+	   </feed>
+	   <feed>
+			<name>Windows Central</name>
+			<url>http://feeds.feedburner.com/wmexperts</url>
+	   </feed>
+	   <feed>
+			<name>Windows</name>
+			<url>https://news.microsoft.com/feed/</url>
+	   </feed>
+	   <feed>
+			<name>Apple Mashable</name>
+			<url>http://feeds.mashable.com/Mashable</url>
+	   </feed>
+	   <feed>
+			<name>Apple Telegraph</name>
+			<url>http://www.telegraph.co.uk/technology/apple/rss</url>
+	   </feed>	   
+	   <feed>
+			<name>Linux dot com/name>
+			<url>https://www.linux.com/feeds/all-content</url>
+	   </feed>	 
+	   <feed>
+			<name>Linux dot org</name>
+			<url>http://www.linux.org/originalcontent</url>
+	   </feed>	 	   
+	</category>
+	<category type="Newspapers">
+		<feed>
+			<name>NDTV News</name>
+			<url>http://feeds.feedburner.com/NdtvNews-TopStories</url>
+		</feed>
+		<feed>
+			<name>Money Control News</name>
+			<url>http://www.moneycontrol.com/rss/MCtopnews.xml</url>
+		</feed>
+		<feed>
+			<name>Reuters News</name>
+			<url>http://feeds.reuters.com/reuters/INtopNews</url>
+		</feed>
+		<feed>
+			<name>Hindu News</name>
+			<url>http://www.thehindu.com/news/?service=rss</url>
+		</feed>
 	</category>
 	<category type="Sports">
 		<feed>
@@ -44,23 +105,4 @@
 			<url>http://www.ibnlive.com/rss/sports.xml</url>
 		</feed>		
 	</category>
-	<category type="Newspapers">
-		<feed>
-			<name>NDTV News</name>
-			<url>http://feeds.feedburner.com/NdtvNews-TopStories</url>
-		</feed>
-				<feed>
-			<name>Money Control News</name>
-			<url>http://www.moneycontrol.com/rss/MCtopnews.xml</url>
-		</feed>
-				<feed>
-			<name>Reuters News</name>
-			<url>http://feeds.reuters.com/reuters/INtopNews</url>
-		</feed>
-				<feed>
-			<name>Hindu News</name>
-			<url>http://www.thehindu.com/news/?service=rss</url>
-		</feed>
-	</category>
-
 </feeds>
