@@ -56,22 +56,6 @@
 			<name>Windows</name>
 			<url>https://news.microsoft.com/feed/</url>
 	   </feed>
-	   <feed>
-			<name>Apple Mashable</name>
-			<url>http://feeds.mashable.com/Mashable</url>
-	   </feed>
-	   <feed>
-			<name>Apple Telegraph</name>
-			<url>http://www.telegraph.co.uk/technology/apple/rss</url>
-	   </feed>	   
-	   <feed>
-			<name>Linux dot com/name>
-			<url>https://www.linux.com/feeds/all-content</url>
-	   </feed>	 
-	   <feed>
-			<name>Linux dot org</name>
-			<url>http://www.linux.org/originalcontent</url>
-	   </feed>	 	   
 	</category>
 	<category type="Newspapers">
 		<feed>
