@@ -60,6 +60,10 @@
 			<name>Apple News</name>
 			<url>http://images.apple.com/main/rss/hotnews/hotnews.rss</url>
 	   </feed>
+	   <feed>
+	   		<name>Islam News</name>
+			<url>https://en.wikipedia.org/w/index.php?action=history&feed=atom&title=ISLAM</url>
+	   </feed>
 	</category>
 	<category type="Newspapers">
 		<feed>
