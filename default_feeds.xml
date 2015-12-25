@@ -62,7 +62,7 @@
 	   </feed>
 	   <feed>
 	   		<name>Islam News</name>
-			<url>https://en.wikipedia.org/w/index.php?action=history&feed=atom&title=ISLAM</url>
+			<url>https://en.wikipedia.org/w/index.php?action=history&amp;feed=atom&amp;title=ISLAM</url>
 	   </feed>
 	</category>
 	<category type="Newspapers">
