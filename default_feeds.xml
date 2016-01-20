@@ -4551,5 +4551,397 @@
 		<url>http://newindianexpress.com/cities/?widgetName=rssfeed&amp;widgetId=276210&amp;getXmlFeed=true</url>
 	</feed>
 		
+	</category>
+	
+	<category type="Science News">
+	<feed>
+		<name> Scientific American â€“ News.</name>
+		<url>http://rss.sciam.com/ScientificAmerican-News</url>
+	</feed>
+	<feed>
+		<name> Basic Science RSS Feeds.</name>
+		<url>http://www.scientificamerican.com/page.cfm?section=rsscategory&amp;alias=basic-science</url>
+	</feed>
+	<feed>
+		<name> Science News RSS Feeds.</name>
+		<url>http://www.sciencenews.org/view/page/id/45/title/syndication</url>
+	</feed>
+	<feed>
+		<name> Science Daily.</name>
+		<url>http://www.sciencedaily.com/newsfeeds.htm</url>
+	</feed>
+	<feed>
+		<name> EurekAlert! RSS Feeds.</name>
+		<url>http://www.eurekalert.org/rss.php</url>
+	</feed>
+	<feed>
+		<name> Science News Daily.</name>
+		<url>http://www.sciencenewsdaily.org/</url>
+	</feed>
+	<feed>
+		<name> Science RSS Feeds.</name>
+		<url>http://www.sciencemag.org/rss/</url>
+	</feed>
+	<feed>
+		<name> AAAS RSS Feeds.</name>
+		<url>http://www.aaas.org/news/rss/</url>
+	</feed>
+	<feed>
+		<name> New Scientist Online News.</name>
+		<url>http://feeds.newscientist.com/science-news</url>
+	</feed>
+	<feed>
+		<name> Today on New Scientist â€“ Short Sharp Science.</name>
+		<url>http://feeds.newscientist.com/today-on-ns</url>
+	</feed>
+	<feed>
+		<name> LA Times â€“ Science.</name>
+		<url>http://feeds.latimes.com/latimes/news/science</url>
+	</feed>
+	<feed>
+		<name> NYT Science.</name>
+		<url>http://feeds.nytimes.com/nyt/rss/Science</url>
+	</feed>
+	<feed>
+		<name> National Academiesâ€™ RSS News Feeds.</name>
+		<url>http://www.nationalacademies.org/about/rss.html</url>
+	</feed>
+	<feed>
+		<name> BBC News Science &amp; Environment.</name>
+		<url>http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/sci/tech/rss.xml</url>
+	</feed>
+	<feed>
+		<name> NPR Topics: Science.</name>
+		<url>http://www.npr.org/rss/rss.php?id=1007</url>
+	</feed>
+	<feed>
+		<name> News from The Scientist.</name>
+		<url>http://feeds.feedburner.com/NewsFromTheScientist</url>
+	</feed>
+	<feed>
+		<name> AP RSS News Feeds.</name>
+		<url>http://hosted.ap.org/dynamic/fronts/RSS?SITE=AP&amp;SECTION=HOME</url>
+	</feed>
+	<feed>
+		<name> Christian Science Monitor Science.</name>
+		<url>http://rss.csmonitor.com/feeds/science</url>
+	</feed>
+	<feed>
+		<name> RSS feeds on msnbc.com.</name>
+		<url>http://www.msnbc.msn.com/id/5216556/ns/rss_feeds/?page=2&amp;#TechScience</url>
+	</feed>
+	<feed>
+		<name> NOVA scienceNOW Podcasting and RSS.</name>
+		<url>http://www.pbs.org/wgbh/nova/sciencenow/rss/</url>
+	</feed>
+	<feed>
+		<name> Reuters: Science News.</name>
+		<url>http://feeds.reuters.com/reuters/scienceNews</url>
+	</feed>
+	<feed>
+		<name> Popular Mechanics: RSS.</name>
+		<url>http://www.popularmechanics.com/rss/</url>
+	</feed>
+	<feed>
+		<name> Slashdot.</name>
+		<url>http://science.slashdot.org/</url>
+	</feed>
+	<feed>
+		<name> New Scientist â€“ Physics &amp; Math.</name>
+		<url>http://feeds.newscientist.com/physics-math</url>
+	</feed>
+	<feed>
+		<name> physicsworld.com: all content.</name>
+		<url>http://feeds.feedburner.com/PhysicsWorld</url>
+	</feed>
+	<feed>
+		<name> Physics Today News Picks.</name>
+		<url>http://www.physicstoday.org/rss.html</url>
+	</feed>
+	<feed>
+		<name> AMNH Science News RSS feed.</name>
+		<url>http://www.amnh.org/science/papers/feed.php</url>
+	</feed>
+	<feed>
+		<name> American Institute of Physics RSS feeds.</name>
+		<url>http://www.aip.org/aip/rss.html</url>
+	</feed>
+	<feed>
+		<name> NatureNews â€“ Physics.</name>
+		<url>http://feeds.nature.com/news/rss/news_s13</url>
+	</feed>
+	<feed>
+		<name> NatureNews â€“ Chemistry.</name>
+		<url>http://feeds.nature.com/news/rss/news_s5</url>
+	</feed>
+	<feed>
+		<name> Chemical &amp; Engineering News: Latest News.</name>
+		<url>http://feeds.feedburner.com/cen_latestnews</url>
+	</feed>
+	<feed>
+		<name> Chemistry World.</name>
+		<url>http://www.rsc.org/chemistryworld/index.asp</url>
+	</feed>
+	<feed>
+		<name> cerncourier: CERN Courier.</name>
+		<url>http://feeds.feedburner.com/CernCourier</url>
+	</feed>
+	<feed>
+		<name> NatureNews â€“ Archaeology and anthropology.</name>
+		<url>http://feeds.nature.com/news/rss/news_s17</url>
+	</feed>
+	<feed>
+		<name> NatureNews â€“ Evolution and palaeontology.</name>
+		<url>http://feeds.nature.com/news/rss/news_s22</url>
+	</feed>
+	<feed>
+		<name> NatureNews â€“ Biotechnology.</name>
+		<url>http://feeds.nature.com/news/rss/news_s1</url>
+	</feed>
+	<feed>
+		<name> NatureNews â€“ Cell and molecular biology.</name>
+		<url>http://feeds.nature.com/news/rss/news_s4</url>
+	</feed>
+	<feed>
+		<name> Evolution RSS Feeds.</name>
+		<url>http://www.scientificamerican.com/page.cfm?section=rsscategory&amp;alias=evolution</url>
+	</feed>
+	<feed>
+		<name> Biological Sciences (BIO) â€“ News.</name>
+		<url>http://www.nsf.gov/news/index.jsp?org=BIO</url>
+	</feed>
+	<feed>
+		<name> Biology News Net RSS Feeds.</name>
+		<url>http://www.biologynews.net/rss.php</url>
+	</feed>
+	<feed>
+		<name> Biology RSS Feeds.</name>
+		<url>http://www.scientificamerican.com/page.cfm?section=rsscategory&amp;alias=biology</url>
+	</feed>
+	<feed>
+		<name> Biology/Biochemistry News.</name>
+		<url>http://www.medicalnewstoday.com/sections/biology-biochemistry/</url>
+	</feed>
+	<feed>
+		<name> ScienceBlogs Channel: Life Science.</name>
+		<url>http://feeds.feedburner.com/ScienceblogsChannelLifeScience</url>
+	</feed>
+	<feed>
+		<name> NASA Science RSS Feeds.</name>
+		<url>http://nasascience.nasa.gov/science-news/rss-feeds</url>
+	</feed>
+	<feed>
+		<name> Space RSS Feeds.</name>
+		<url>http://www.scientificamerican.com/page.cfm?section=rsscategory&amp;alias=space</url>
+	</feed>
+	<feed>
+		<name> New Scientist â€“ Space.</name>
+		<url>http://feeds.newscientist.com/space</url>
+	</feed>
+	<feed>
+		<name> NYT Space &amp; Cosmos.</name>
+		<url>http://feeds.nytimes.com/nyt/rss/Space</url>
+	</feed>
+	<feed>
+		<name> Yahoo! Space.</name>
+		<url>http://rss.news.yahoo.com/rss/space</url>
+	</feed>
+	<feed>
+		<name> NatureNews â€“ Space and astronomy.</name>
+		<url>http://feeds.nature.com/news/rss/news_s15</url>
+	</feed>
+	<feed>
+		<name> NPR Topics: Space.</name>
+		<url>http://www.npr.org/rss/rss.php?id=1026</url>
+	</feed>
+	<feed>
+		<name> CNN.com â€“ Science &amp; Space.</name>
+		<url>http://rss.cnn.com/rss/cnn_space.rss</url>
+	</feed>
+	<feed>
+		<name> Astronomy.</name>
+		<url>http://www.astronomy.com/asy/default.aspx</url>
+	</feed>
+	<feed>
+		<name> Bad Astronomy.</name>
+		<url>http://feeds.feedburner.com/BadAstronomyBlog</url>
+	</feed>
+	<feed>
+		<name> Energy &amp; Sustainability RSS Feeds.</name>
+		<url>http://www.scientificamerican.com/page.cfm?section=rsscategory&amp;alias=energy-and-sustainability</url>
+	</feed>
+	<feed>
+		<name> RealClimate.</name>
+		<url>http://feeds.feedburner.com/realclimate/HYVV</url>
+	</feed>
+	<feed>
+		<name> New Scientist â€“ Environment.</name>
+		<url>http://feeds.newscientist.com/environment</url>
+	</feed>
+	<feed>
+		<name> NYT Environment.</name>
+		<url>http://feeds.nytimes.com/nyt/rss/Environment</url>
+	</feed>
+	<feed>
+		<name> Yahoo! Environment.</name>
+		<url>http://rss.news.yahoo.com/rss/environment</url>
+	</feed>
+	<feed>
+		<name> NatureNews â€“ Earth and Environment.</name>
+		<url>http://feeds.nature.com/news/rss/news_s7</url>
+	</feed>
+	<feed>
+		<name> NPR Topics: Environment.</name>
+		<url>http://www.npr.org/rss/rss.php?id=1025</url>
+	</feed>
+	<feed>
+		<name> Reuters: Environment.</name>
+		<url>http://feeds.reuters.com/reuters/environment</url>
+	</feed>
+	<feed>
+		<name> The Environmental News Network RSS.</name>
+		<url>http://www.enn.com/rss_feeds</url>
+	</feed>
+	<feed>
+		<name> Grist â€“ the Latest from Grist.</name>
+		<url>http://feeds.grist.org/rss/gristfeed</url>
+	</feed>
+	<feed>
+		<name> EcoEarth.Info.</name>
+		<url>http://www.ecoearth.info/</url>
+	</feed>
+	<feed>
+		<name> Mind &amp; Brain RSS Feeds.</name>
+		<url>http://www.scientificamerican.com/page.cfm?section=rsscategory&amp;alias=mind-and-brain</url>
+	</feed>
+	<feed>
+		<name> Mind Hacks.</name>
+		<url>http://www.mindhacks.com/</url>
+	</feed>
+	<feed>
+		<name> NatureNews â€“ Brain and Behavior.</name>
+		<url>http://feeds.nature.com/news/rss/news_s2</url>
+	</feed>
+	<feed>
+		<name> Neurology.</name>
+		<url>http://www.neurology.org/rss/</url>
+	</feed>
+	<feed>
+		<name> Journal of Child Neurology.</name>
+		<url>http://jcn.sagepub.com/rss/</url>
+	</feed>
+	<feed>
+		<name> NeuroBlogger.</name>
+		<url>http://neuroblogger.com/</url>
+	</feed>
+	<feed>
+		<name> Neuroscience News.</name>
+		<url>http://www.neurosciencenews.com/</url>
+	</feed>
+	<feed>
+		<name> Medscape Neurology Headlines.</name>
+		<url>http://www.medscape.com/neurology?src=rss</url>
+	</feed>
+	<feed>
+		<name> MedWorm Nature Neuroscience.</name>
+		<url>http://www.medworm.com/rss/search.php?qu=Nature+Neuroscience&amp;t=Nature+Neuroscience&amp;s=Search&amp;f=source</url>
+	</feed>
+	<feed>
+		<name> The Frontal Cortex.</name>
+		<url>http://feeds.feedburner.com/scienceblogs/wDAM</url>
+	</feed>
+	<feed>
+		<name> World of Psychology.</name>
+		<url>http://psychcentral.com/blog/</url>
+	</feed>
+	<feed>
+		<name> Health &amp; Medicine RSS Feeds.</name>
+		<url>http://www.scientificamerican.com/page.cfm?section=rsscategory&amp;alias=health-and-medicine</url>
+	</feed>
+	<feed>
+		<name> New Scientist â€“ Health.</name>
+		<url>http://feeds.newscientist.com/health</url>
+	</feed>
+	<feed>
+		<name> NatureNews â€“ Health and medicine.</name>
+		<url>http://feeds.nature.com/news/rss/news_s10</url>
+	</feed>
+	<feed>
+		<name> NPR Topics: Health Care.</name>
+		<url>http://www.npr.org/rss/rss.php?id=1027</url>
+	</feed>
+	<feed>
+		<name> CNN.com â€“ Health.</name>
+		<url>http://rss.cnn.com/rss/cnn_health.rss</url>
+	</feed>
+	<feed>
+		<name> Reuters: Health News.</name>
+		<url>http://feeds.reuters.com/reuters/healthNews</url>
+	</feed>
+	<feed>
+		<name> Collective Imagination.</name>
+		<url>http://feeds.feedburner.com/CollectiveImagination</url>
+	</feed>
+	<feed>
+		<name> White Coat Underground.</name>
+		<url>http://feeds2.feedburner.com/scienceblogs/whitecoatunderground</url>
+	</feed>
+	<feed>
+		<name> Open Medicine.</name>
+		<url>http://blog.openmedicine.ca/</url>
+	</feed>
+	<feed>
+		<name> Effect Measure.</name>
+		<url>http://feeds.feedburner.com/scienceblogs/AyaJ</url>
+	</feed>
+	<feed>
+		<name> Technology RSS Feeds.</name>
+		<url>http://www.scientificamerican.com/page.cfm?section=rsscategory&amp;alias=technology</url>
+	</feed>
+	<feed>
+		<name> Moreover Technologies Free RSS News Feeds.</name>
+		<url>http://w.moreover.com/public/free-rss/rss-feeds.html</url>
+	</feed>
+	<feed>
+		<name> New Scientist â€“ Tech.</name>
+		<url>http://feeds.newscientist.com/tech</url>
+	</feed>
+	<feed>
+		<name> LA Times â€“ Technology News.</name>
+		<url>http://feeds.latimes.com/latimes/technology</url>
+	</feed>
+	<feed>
+		<name> NYT Technology.</name>
+		<url>http://feeds.nytimes.com/nyt/rss/Technology</url>
+	</feed>
+	<feed>
+		<name> Wired RSS Feeds.</name>
+		<url>http://www.wired.com/services/rss</url>
+	</feed>
+	<feed>
+		<name> NatureNews â€“ Technology.</name>
+		<url>http://feeds.nature.com/news/rss/news_s16</url>
+	</feed>
+	<feed>
+		<name> NPR Topics: Technology.</name>
+		<url>http://www.npr.org/rss/rss.php?id=1019</url>
+	</feed>
+	<feed>
+		<name> Technology Review.</name>
+		<url>http://www.technologyreview.com/corp/rss.aspx</url>
+	</feed>
+	<feed>
+		<name> CNN.com â€“ Technology.</name>
+		<url>http://rss.cnn.com/rss/cnn_tech.rss</url>
+	</feed>
+	<feed>
+		<name> Reuters: Technology News.</name>
+		<url>http://feeds.reuters.com/reuters/technologyNews</url>
+	</feed>
+	<feed>
+		<name> Nanowerk Nanotechnology News Feeds.</name>
+		<url>http://www.nanowerk.com/newsfeeds.html</url>
+	</feed>
+		
 	</category>	
 </feeds>
