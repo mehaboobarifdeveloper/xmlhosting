@@ -1,16 +1,12 @@
 <feeds>
 	<category type="Technology">
-	    <feed>
-			<name>Tech News World</name>
-			<url>http://www.technewsworld.com/perl/syndication/rssfull.pl</url>
-	   </feed>
-	    <feed>
-			<name>The Verge</name>
-			<url>http://www.theverge.com/tech/rss/index.xml</url>
-	   </feed>
-	    <feed>
+	   <feed>
 			<name>TechCrunch</name>
 			<url>http://techcrunch.com/feed/</url>
+	   </feed>	   
+		<feed>
+			<name>The Next Web</name>
+			<url>http://feeds2.feedburner.com/thenextweb</url>
 	   </feed>	   
 	   <feed>
 			<name>WIRED</name>
@@ -21,49 +17,57 @@
 			<url>http://www.extremetech.com/feed</url>
 	   </feed>
 	   <feed>
-			<name>Top Tech News</name>
-			<url>http://www.toptechnews.com/share/rss_feed.php</url>
-	   </feed>
-	   <feed>
 			<name>Geek</name>
 			<url>http://www.geek.com/feed/</url>
-	   </feed>
-	   <feed>
-			<name>Yahoo Tech</name>
-			<url>https://www.yahoo.com/tech/rss</url>
-	   </feed>	
-	   <feed>
-			<name>Android Central</name>
-			<url>http://feeds.feedburner.com/androidcentral</url>
 	   </feed>
 	   <feed>
 			<name>Android Pit</name>
 			<url>https://www.androidpit.com/feed/main.xml</url>
 	   </feed>
 	   <feed>
-			<name>Android Authority</name>
-			<url>http://feed.androidauthority.com</url>
-	   </feed>	 
-	   <feed>
-			<name>Phone Arena</name>
-			<url>http://www.phonearena.com/feed/news</url>
-	   </feed>
-	   <feed>
 			<name>Windows Central</name>
 			<url>http://feeds.feedburner.com/wmexperts</url>
-	   </feed>
-	   <feed>
-			<name>Windows</name>
-			<url>https://news.microsoft.com/feed/</url>
 	   </feed>
 	   <feed>
 			<name>Apple News</name>
 			<url>http://images.apple.com/main/rss/hotnews/hotnews.rss</url>
 	   </feed>
 	   <feed>
-	   		<name>Islam News</name>
-			<url>https://en.wikipedia.org/w/index.php?action=history&amp;feed=rss&amp;title=ISLAM</url>
+			<name>Tech News World</name>
+			<url>http://www.technewsworld.com/perl/syndication/rssfull.pl</url>
+	   </feed>	   
+	   <feed>
+			<name>Top Tech News</name>
+			<url>http://www.toptechnews.com/share/rss_feed.php</url>
+	   </feed>	   
+	   <feed>
+			<name>Android Central</name>
+			<url>http://feeds.feedburner.com/androidcentral</url>
+	   </feed>	   
+	   <feed>
+			<name>Android Authority</name>
+			<url>http://feed.androidauthority.com</url>
+	   </feed>		
+		<feed>
+			<name>Phone Arena</name>
+			<url>http://www.phonearena.com/feed/news</url>
 	   </feed>
+		<feed>
+			<name>Gizmodo</name>
+			<url>http://www.gizmodo.in/rss_section_feeds/2147477989.cms</url>
+	   </feed>
+		<feed>
+			<name>Mashable</name>
+			<url>http://feeds.mashable.com/Mashable</url>
+	   </feed>
+		<feed>
+			<name>Digital Trends</name>
+			<url>http://www.digitaltrends.com/feed/</url>
+	   </feed>
+		<feed>
+			<name>Technorati</name>
+			<url>http://technorati.com/feed/</url>
+	   </feed>	   
 	</category>
 	<category type="Newspapers">
 		<feed>
@@ -82,7 +86,10 @@
 			<name>Hindu News</name>
 			<url>http://www.thehindu.com/news/?service=rss</url>
 		</feed>
-		
+	   <feed>
+			<name>Yahoo Tech</name>
+			<url>https://www.yahoo.com/tech/rss</url>
+	   </feed>			
 	</category>
 	<category type="Sports">
 		<feed>
