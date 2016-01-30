@@ -69,15 +69,11 @@
 			<url>http://technorati.com/feed/</url>
 	   </feed>	   
 	</category>
-	<category type="Entertainment Globlal">
+	<category type="Entertainment">
 		<feed>
 			<name>MovieWeb</name>
 			<url>http://movieweb.com/rss/all-news/</url>
 		</feed>
-		<feed>
-			<name>TMZ</name>
-			<url>hhttp://www.tmz.com/rss.xml</url>
-		</feed>		
 		<feed>
 			<name>People Magazine</name>
 			<url>http://feeds.people.com/people/headlines</url>
@@ -98,7 +94,22 @@
 			<name>Comingsoon</name>
 			<url>http://www.comingsoon.net/feed</url>
 		</feed>		
-		
+	  <feed>
+			<name>India TV News Entertainment</name>
+			<url>http://www.indiatvnews.com/rssfeed/masala_entertainment_news.xml</url>
+	   </feed>
+	   <feed>
+			<name>indiantelevision.com</name>
+			<url>http://www.indiantelevision.com/rss/itv.xml</url>
+	   </feed>
+	   <feed>
+			<name>ifairer</name>
+			<url>http://www.ifairer.com/rss-feeds/entertainment.php</url>
+	   </feed>
+	   <feed>
+			<name>FirstPost</name>
+			<url>http://feeds.feedburner.com/firstpost/xfJh?utm_source=fp_footer</url>
+	   </feed>	   
 	</category>
 	<category type="Newspapers">
 		<feed>
@@ -120,7 +131,8 @@
 	   <feed>
 			<name>Yahoo Tech</name>
 			<url>https://www.yahoo.com/tech/rss</url>
-	   </feed>			
+	   </feed>
+	   
 	</category>
 	<category type="Sports">
 		<feed>
