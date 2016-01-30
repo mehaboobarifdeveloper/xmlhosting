@@ -129,11 +129,25 @@
 			<url>http://www.thehindu.com/news/?service=rss</url>
 		</feed>
 	   <feed>
-			<name>Yahoo Tech</name>
-			<url>https://www.yahoo.com/tech/rss</url>
+			<name>Forbes</name>
+			<url>http://forbesindia.com/rssfeed/rss_all.xml</url>
 	   </feed>
-	   
+	  
 	</category>
+	<category type="Business">
+	   <feed>
+			<name>Business Insider</name>
+			<url>http://www.businessinsider.in/rss_section_feeds/2147477994.cms</url>
+	   </feed>
+	   <feed>
+			<name>Forbes</name>
+			<url>http://forbesindia.com/rssfeed/rss_all.xml</url>
+	   </feed>	   
+	   <feed>
+			<name>The Guardian</name>
+			<url>http://www.theguardian.com/world/india/rss</url>
+	   </feed>	   
+	</category>			
 	<category type="Sports">
 		<feed>
 			<name>ESPN News</name>
