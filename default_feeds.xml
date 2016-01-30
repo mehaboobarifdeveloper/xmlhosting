@@ -69,6 +69,37 @@
 			<url>http://technorati.com/feed/</url>
 	   </feed>	   
 	</category>
+	<category type="Entertainment Globlal">
+		<feed>
+			<name>MovieWeb</name>
+			<url>http://movieweb.com/rss/all-news/</url>
+		</feed>
+		<feed>
+			<name>TMZ</name>
+			<url>hhttp://www.tmz.com/rss.xml</url>
+		</feed>		
+		<feed>
+			<name>People Magazine</name>
+			<url>http://feeds.people.com/people/headlines</url>
+		</feed>		
+		<feed>
+			<name>First Showing</name>
+			<url>http://www.firstshowing.net/feed/</url>
+		</feed>	
+		<feed>
+			<name>Film Fare</name>
+			<url>http://www.filmfare.com/feeds/feeds.xml</url>
+		</feed>	
+		<feed>
+			<name>Gawker</name>
+			<url>http://feeds.gawker.com/gawker/full#_ga=1.209450322.1115599229.1454124423</url>
+		</feed>
+		<feed>
+			<name>Comingsoon</name>
+			<url>http://www.comingsoon.net/feed</url>
+		</feed>		
+		
+	</category>
 	<category type="Newspapers">
 		<feed>
 			<name>NDTV News</name>
