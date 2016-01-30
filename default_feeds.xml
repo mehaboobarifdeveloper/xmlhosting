@@ -147,7 +147,20 @@
 			<name>The Guardian</name>
 			<url>http://www.theguardian.com/world/india/rss</url>
 	   </feed>	   
+	</category>
+	<category type="Aggreagated/Mix and Match News">
+	   <feed>
+			<name>Tech Meme</name>
+			<url>http://www.techmeme.com/feed.xml</url>
+	   </feed>
+	   <feed>
+			<name>Reuters</name>
+			<url>http://feeds.reuters.com/reuters/INtopNews</url>
+	   </feed>	   
+	 
 	</category>			
+	
+
 	<category type="Sports">
 		<feed>
 			<name>ESPN News</name>
