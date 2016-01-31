@@ -136,6 +136,7 @@
 			<name>Hindu News</name>
 			<url>http://www.thehindu.com/news/?service=rss</url>
 		</feed>
+	</category>		
 	<category type="Movie Reviews">
 		<feed>
 			<name>Top Movie Reviews - IBNLive</name>
