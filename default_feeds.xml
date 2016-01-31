@@ -198,6 +198,14 @@
 			<url>http://www.ibnlive.com/rss/sports.xml</url>
 		</feed>		
 	</category>
+	<category type="Religion">
+		<feed>
+			<name>Quran</name>
+			<url>http://binsalem.hipcast.com/rss/quran.xml</url>
+		</feed>
+
+	</category>	
+	http://binsalem.hipcast.com/rss/quran.xml
 	<category type="Testing">
 	<feed>
 		<name>Flickrblog</name>
