@@ -77,7 +77,11 @@
 		<feed>
 			<name>People Magazine</name>
 			<url>http://feeds.people.com/people/headlines</url>
-		</feed>		
+		</feed>	
+		<feed>
+			<name>IBNLIVE-TV</name>
+			<url>http://www.ibnlive.com/rss/tv.xml</url>
+		</feed>			
 		<feed>
 			<name>First Showing</name>
 			<url>http://www.firstshowing.net/feed/</url>
@@ -117,6 +121,10 @@
 			<url>http://feeds.feedburner.com/NdtvNews-TopStories</url>
 		</feed>
 		<feed>
+			<name>IBNLIVE News</name>
+			<url>http://www.ibnlive.com/rss/buzz.xml</url>
+		</feed>
+		<feed>
 			<name>Money Control News</name>
 			<url>http://www.moneycontrol.com/rss/MCtopnews.xml</url>
 		</feed>
@@ -128,11 +136,15 @@
 			<name>Hindu News</name>
 			<url>http://www.thehindu.com/news/?service=rss</url>
 		</feed>
-	   <feed>
-			<name>Forbes</name>
-			<url>http://forbesindia.com/rssfeed/rss_all.xml</url>
-	   </feed>
-	  
+	<category type="Movie Reviews">
+		<feed>
+			<name>Top Movie Reviews - IBNLive</name>
+			<url>http://www.ibnlive.com/rss/reviews.xml</url>
+		</feed>
+		<feed>
+			<name>South Cinema News</name>
+			<url>http://www.ibnlive.com/rss/south-cinema.xml</url>
+		</feed>
 	</category>
 	<category type="Business">
 	   <feed>
@@ -142,6 +154,11 @@
 	   <feed>
 			<name>Forbes</name>
 			<url>http://forbesindia.com/rssfeed/rss_all.xml</url>
+	   </feed>	   
+	   
+	   <feed>
+			<name>IBNLIVE - Business</name>
+			<url>http://www.ibnlive.com/rss/business.xml</url>
 	   </feed>	   
 	   <feed>
 			<name>The Guardian</name>
@@ -166,6 +183,12 @@
 			<name>ESPN News</name>
 			<url>http://www.espncricinfo.com/rss/content/story/feeds/0.xml</url>
 		</feed>
+		<feed>
+			<name>IBNLIVE-Sports</name>
+			<url>http://www.ibnlive.com/rss/sports.xml</url>
+		</feed>		
+		
+		
 		<feed>
 			<name>Fox Sports</name>
 			<url>http://api.foxsports.com/v1/rss?partnerKey=zBaFxRyGKCfxBagJG9b8pqLyndmvo7UU</url>
