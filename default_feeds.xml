@@ -1,4 +1,87 @@
 <feeds>
+	<category type="Health">
+	<feed>
+		<name> Healthy Lifestyle Guide</name>
+		<url>http://fitnessweightlosscenter.com/healthylifestylefeed</url>
+	</feed>
+	<feed>
+		<name> Acupuncture Holistic MMA Blog</name>
+		<url>http://www.mmaacupuncture.com/acupuncture_mma/feed/</url>
+	</feed>
+	<feed>
+		<name> How To Gain Weight and Build Muscle Fast</name>
+		<url>http://timernstfitness.blogspot.com/feeds/posts/default?alt=rss</url>
+	</feed>
+	<feed>
+		<name> Skechers Blog</name>
+		<url>http://blog.skechers.com/feed</url>
+	</feed>
+	<feed>
+		<name> Enlightenment</name>
+		<url>http://www.enlightenmentpodcast.com/feed</url>
+	</feed>
+	<feed>
+		<name> Squires Fitness Blog</name>
+		<url>http://squiresfitness.com/feed/</url>
+	</feed>
+	<feed>
+		<name> FYI Living</name>
+		<url>http://fyiliving.com/feed/</url>
+	</feed>
+	<feed>
+		<name> Kim Vazquez: How to Transform Your Mind and Your Life</name>
+		<url>http://www.kimvazquez.com/feed</url>
+	</feed>
+	<feed>
+		<name> The Skinny on Being Fat</name>
+		<url>http://skinnyfatgirl11.blogspot.com/feeds/posts/default?alt=rss</url>
+	</feed>
+	<feed>
+		<name> Teen Health and Wellness</name>
+		<url>http://www.teenhealthandwellness.com/rss/inthenews.xml</url>
+	</feed>
+	<feed>
+		<name> FREE Exercise Workout Videos Online</name>
+		<url>http://www.workoutz.com/rss.php</url>
+	</feed>
+	<feed>
+		<name> Antioxidants: Anti Aging Super Foods</name>
+		<url>http://www.antioxidants-anti-aging-super-foods.com/Antioxidants.xml</url>
+	</feed>
+	<feed>
+		<name> BBC News: Health</name>
+		<url>http://news.bbc.co.uk/rss/newsonline_world_edition/health/rss091.xml</url>
+	</feed>
+	<feed>
+		<name> Journal of Clinical Investigation</name>
+		<url>http://www.jci.org/rss/current.xml</url>
+	</feed>
+	<feed>
+		<name> International Journal for Quality in Health Care</name>
+		<url>http://intqhc.oxfordjournals.org/rss/current.xml</url>
+	</feed>
+	<feed>
+		<name> Human Reproduction Update</name>
+		<url>http://humupd.oxfordjournals.org/rss/current.xml</url>
+	</feed>
+	<feed>
+		<name> New England Journal of Medicine</name>
+		<url>http://content.nejm.org/rss/current.xml</url>
+	</feed>
+	<feed>
+		<name> Journal of Medical Internet Research</name>
+		<url>http://www.jmir.org/rss.xml</url>
+	</feed>
+	<feed>
+		<name> British Medical Bulletin</name>
+		<url>http://bmb.oxfordjournals.org/rss/current.xml</url>
+	</feed>
+	<feed>
+		<name> Topix.net - Health News</name>
+		<url>http://www.topix.net/rss/health/health.xml</url>
+	</feed>		
+		</category>
+			
 	<category type="Technology">
 	   <feed>
 			<name>TechCrunch</name>
