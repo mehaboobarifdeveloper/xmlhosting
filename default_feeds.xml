@@ -80,8 +80,85 @@
 		<name> Topix.net - Health News</name>
 		<url>http://www.topix.net/rss/health/health.xml</url>
 	</feed>		
-		</category>
-			
+</category>
+<category type="Science">
+	<feed>
+		<name> Tech Buzz</name>
+		<url>http://feeds.feedburner.com/TechBuzzCenter</url>
+	</feed>
+	<feed>
+		<name> Technology News Center</name>
+		<url>http://technewscenter.com/rss.cfm</url>
+	</feed>
+	<feed>
+		<name> Science Forums</name>
+		<url>http://feeds.feedburner.com/sfn-blogs</url>
+	</feed>
+	<feed>
+		<name> Science News and Information at Sciguru.com</name>
+		<url>http://www.sciguru.com/RSS.xml</url>
+	</feed>
+	<feed>
+		<name> Brighter Planet Blog</name>
+		<url>http://feeds.feedburner.com/brighterplanet</url>
+	</feed>
+	<feed>
+		<name> News and information about humankind's exploration of the universe</name>
+		<url>http://planetary.org/rss/news.xml</url>
+	</feed>
+	<feed>
+		<name> Latest News from SETI@HOME</name>
+		<url>http://setiathome.berkeley.edu/rss_main.php</url>
+	</feed>
+	<feed>
+		<name> Sciencebase</name>
+		<url>http://www.sciencebase.com/sciencebase.xml</url>
+	</feed>
+	<feed>
+		<name> Yahoo! News: Science</name>
+		<url>http://rss.news.yahoo.com/rss/science</url>
+	</feed>
+	<feed>
+		<name> ScienceDaily Headlines</name>
+		<url>http://www.sciencedaily.com/newsfeed.xml</url>
+	</feed>
+	<feed>
+		<name> Newswise: SciNews</name>
+		<url>http://www.newswise.com/rss/scinews.rss</url>
+	</feed>
+	<feed>
+		<name> Nature: News</name>
+		<url>http://www.nature.com/news/rss.rdf</url>
+	</feed>
+	<feed>
+		<name> Google News: SciTech</name>
+		<url>http://news.google.com/news?topic=t&amp;output=rss</url>
+	</feed>
+	<feed>
+		<name> Brightsurf Science News</name>
+		<url>http://www.brightsurf.com/rss_feed.xml</url>
+	</feed>
+	<feed>
+		<name> BBC News: Science/Nature</name>
+		<url>http://news.bbc.co.uk/rss/newsonline_world_edition/science/nature/rss.xml</url>
+	</feed>
+	<feed>
+		<name> PhysOrg.com</name>
+		<url>http://www.physorg.com/physorg.rss</url>
+	</feed>
+	<feed>
+		<name> Informaticopia</name>
+		<url>http://www.rodspace.co.uk/blog/atom.xml</url>
+	</feed>
+	<feed>
+		<name> Future Technologies Blog</name>
+		<url>http://futuretag.com/blog/RSS</url>
+	</feed>
+	<feed>
+		<name> Organic Matter</name>
+		<url>http://www.organicmatter.net/node/feed</url>
+	</feed>
+</category>		
 	<category type="Technology">
 	   <feed>
 			<name>TechCrunch</name>
