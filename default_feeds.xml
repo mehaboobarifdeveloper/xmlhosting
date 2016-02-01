@@ -1,46 +1,4 @@
 <feeds>
-  <category type="Reference">
-	<feed>
-		<name> Reference - definition of reference by The Free Dictionary</name>
-		<url>http://www.thefreedictionary.com/reference</url>
-	</feed>
-	<feed>
-		<name> C/C++ Reference</name>
-		<url>http://en.cppreference.com/</url>
-	</feed>
-	<feed>
-		<name> Oxford Reference - Answers with Authority</name>
-		<url>http://www.oxfordreference.com/</url>
-	</feed>
-	<feed>
-		<name> Browse - Oxford Reference</name>
-		<url>http://www.oxfordreference.com/browse</url>
-	</feed>
-	<feed>
-		<name> Git - Reference</name>
-		<url>https://git-scm.com/docs</url>
-	</feed>
-	<feed>
-		<name> PHP: References Explained - Manual</name>
-		<url>http://php.net/manual/en/language.references.php</url>
-	</feed>
-	<feed>
-		<name> PHP: Language Reference - Manual</name>
-		<url>http://php.net/manual/en/langref.php</url>
-	</feed>
-	<feed>
-		<name> Reference Universe - Paratext</name>
-		<url>http://www.paratext.com/reference-universe/</url>
-	</feed>
-	<feed>
-		<name> WordPress â€º Reference | WordPress Developer Resources</name>
-		<url>https://developer.wordpress.org/reference/</url>
-	</feed>
-	<feed>
-		<name> Reference - DataTables</name>
-		<url>https://www.datatables.net/reference/</url>
-	</feed>
- </category>
  <category type="Arts">
 	<feed>
 		<name> Arts - The New York Times</name>
@@ -59,16 +17,8 @@
 		<url>http://arts.mit.edu/feed/</url>
 	</feed>
 	<feed>
-		<name> Who Should Pay for the Arts in America? - The Atlantic</name>
-		<url>http://feeds.feedburner.com/TheAtlantic</url>
-	</feed>
-	<feed>
 		<name> Illinois Arts Council Agency</name>
 		<url>http://www.arts.illinois.gov/rss.xml</url>
-	</feed>
-	<feed>
-		<name> Queens Council on the Arts</name>
-		<url>http://www.queenscouncilarts.org/home?format=RSS</url>
 	</feed>
 	<feed>
 		<name> Performing and Visual Arts News and Commentary - HuffPost Arts</name>
@@ -109,10 +59,6 @@
 		<url>http://business.usa.gov/rss.xml</url>
 	</feed>
 	<feed>
-		<name> What is a business? definition and meaning - BusinessDictionary.com</name>
-		<url>http://feeds.feedburner.com/BDTermOfTheDay</url>
-	</feed>
-	<feed>
 		<name> Business - Boston.com</name>
 		<url>http://feeds.boston.com/boston/topstories</url>
 	</feed>
@@ -126,10 +72,6 @@
 	</feed>	
   </category>
   <category type="Computers">
-	<feed>
-		<name> Computers</name>
-		<url>http://feeds.feedburner.com/OfficeDepot</url>
-	</feed>
 	<feed>
 		<name> Computers | An Open Access Journal from MDPI - MDPI.com</name>
 		<url>http://www.mdpi.com/rss</url>
@@ -159,10 +101,6 @@
 		<url>http://s1.dlnws.com/dealnews/rss/todays-edition.xml</url>
 	</feed>
 	<feed>
-		<name> Desktop Computers / Desktop PCs: All in One Computers</name>
-		<url>http://www.newegg.com/Product/RSS.aspx?Submit=RSSCategorydeals&amp;Depa=3</url>
-	</feed>
-	<feed>
 		<name> Results for Computers</name>
 		<url>https://www.govdeals.com/rss/RSSCategory.cfm?&amp;searchPg=Category&amp;additionalParams=true&amp;sortOption=ad&amp;timing=BySimple&amp;timingType=&amp;category=29</url>
 	</feed>
@@ -175,10 +113,6 @@
 	<feed>
 		<name> Education Week American Education News Site of Record</name>
 		<url>http://feeds.feedburner.com/EducationWeekNewsAndInformationAboutEducationIssues</url>
-	</feed>
-	<feed>
-		<name> Education - The Atlantic</name>
-		<url>http://feeds.feedburner.com/TheAtlantic</url>
 	</feed>
 	<feed>
 		<name> Arizona Department of Education | The Official Website of the ...</name>
@@ -201,10 +135,6 @@
 		<url>http://www.ei-ie.org/en/rss</url>
 	</feed>
 	<feed>
-		<name> NEA - NEA Home</name>
-		<url>http://www.nea.org/home/rssfeeds.htm</url>
-	</feed>
-	<feed>
 		<name> National Center for Education Statistics (NCES) Home Page</name>
 		<url>http://nces.ed.gov/whatsnew/whatsnew_rss.asp</url>
 	</feed>
@@ -221,10 +151,6 @@
 	<feed>
 		<name> Entertainment - Mashable</name>
 		<url>http://feeds.mashable.com/Mashable</url>
-	</feed>
-	<feed>
-		<name> entertainment - Reddit</name>
-		<url>https://www.reddit.com/r/entertainment/.rss</url>
 	</feed>
 	<feed>
 		<name> Entertainment News</name>
@@ -261,14 +187,6 @@
 		<url>http://feeds.armorgames.com/armorgames</url>
 	</feed>
 	<feed>
-		<name> Quality Gaming Content and Discussion -- /r/Games - Reddit</name>
-		<url>https://www.reddit.com/r/Games/.rss</url>
-	</feed>
-	<feed>
-		<name> PrimaryGames: Free Games and Videos for Kids</name>
-		<url>http://feeds.feedburner.com/primarygames/rss</url>
-	</feed>
-	<feed>
 		<name> Play Free Games by Nitrome</name>
 		<url>http://www.nitrome.com/interchange/gamedata/rss/game-releases.php</url>
 	</feed>
@@ -279,14 +197,6 @@
 	<feed>
 		<name> Forbes - Games Information and Games News - Forbes.com</name>
 		<url>http://www.forbes.com/games/feed2/</url>
-	</feed>
-	<feed>
-		<name> Games | Technology | The Guardian</name>
-		<url>http://www.theguardian.com/id/rss</url>
-	</feed>
-	<feed>
-		<name>AARP.org: Free Online Games</name>
-		<url>http://search.aarp.org/rss/section//?recsPerPage=99</url>
 	</feed>
   </category>
   <category type="Health">  
@@ -301,10 +211,6 @@
 	<feed>
 		<name> Forbes - Health Information and Health News - Forbes.com</name>
 		<url>http://www.forbes.com/health/feed2/</url>
-	</feed>
-	<feed>
-		<name> Health Information | National Institutes of Health (NIH)</name>
-		<url>https://www.nih.gov/taxonomy/term/1/all/feed</url>
 	</feed>
 	<feed>
 		<name> Health News - The New York Times</name>
@@ -333,32 +239,12 @@
   </category>	
   <category type="Kids">
 	<feed>
-		<name> K.I.D.S./Fashion Delivers - A Children and Family CharityKIDS ...</name>
-		<url>http://www.donateproduct.com/home-10/feed/</url>
-	</feed>
-	<feed>
-		<name> Horton's Kids</name>
-		<url>http://www.hortonskids.org/feed/</url>
-	</feed>
-	<feed>
 		<name> Rosie's Theater Kids | "We're Rehearsing for Life!"</name>
 		<url>https://rosiestheaterkids.org/feed/</url>
 	</feed>
 	<feed>
-		<name> Kids Konnected - Home</name>
-		<url>http://kidskonnected.org/home/feed/</url>
-	</feed>
-	<feed>
-		<name> Kids Against Hunger</name>
-		<url>http://kidsagainsthunger.org/?format=feed&amp;type=rss</url>
-	</feed>
-	<feed>
 		<name> Kids.Woot: Toys</name>
 		<url>http://kids.woot.com/blog/feed.rss</url>
-	</feed>
-	<feed>
-		<name> Kids | Multnomah County Library</name>
-		<url>https://multcolib.org/news/510/rss.xml</url>
 	</feed>
 	<feed>
 		<name> Michigan eLibrary (MeL) - Home</name>
@@ -385,10 +271,6 @@
 	<feed>
 		<name> Lifestyle - definition of lifestyle by The Free Dictionary</name>
 		<url>http://www.thefreedictionary.com/_/WoD/rss.aspx</url>
-	</feed>
-	<feed>
-		<name> LifeStylesÂ® Condoms : Condom Contraception</name>
-		<url>http://www.lifestyles.com/feed/</url>
 	</feed>
 	<feed>
 		<name> Lifestyle - Mashable</name>
@@ -445,10 +327,6 @@
 		<url>https://www.reddit.com/r/news/.rss</url>
 	</feed>
 	<feed>
-		<name> News - Salon.com</name>
-		<url>http://www.salon.com/feed/</url>
-	</feed>
-	<feed>
 		<name> News - Entertainment</name>
 		<url>http://www.mtv.com/news/feed/</url>
 	</feed>
@@ -457,110 +335,18 @@
 		<url>http://www.slate.com/articles/news_and_politics.fulltext.all.rss</url>
 	</feed>
   </category>
-  <category type="Recreation">
-	<feed>
-		<name> UConn Recreation: Home</name>
-		<url>http://recreation.uconn.edu/feed/</url>
-	</feed>
-	<feed>
-		<name> Recreation - definition of recreation by The Free Dictionary</name>
-		<url>http://www.thefreedictionary.com/_/WoD/rss.aspx</url>
-	</feed>
-	<feed>
-		<name> Hours - Rutgers Recreation - Rutgers University</name>
-		<url>http://recreation.rutgers.edu/feed/</url>
-	</feed>
-	<feed>
-		<name> Recreation Programs | San Francisco Recreation and Park</name>
-		<url>http://sfrecpark.org/feed/</url>
-	</feed>
-	<feed>
-		<name> Student Recreation Facility | Campus Recreation</name>
-		<url>http://recreation.uic.edu/feed/</url>
-	</feed>
-	<feed>
-		<name> Recreation | San Francisco Brand Strategy and Design Agency</name>
-		<url>http://recsf.com/feed/</url>
-	</feed>
-	<feed>
-		<name> Recreation | City of Takoma Park</name>
-		<url>http://takomaparkmd.gov/feed/</url>
-	</feed>
-	<feed>
-		<name> Recreation | Wellesley College</name>
-		<url>http://www.wellesley.edu/athletics/recreation/feed</url>
-	</feed>
-	<feed>
-		<name> Parks &amp; Recreation - The City of Portland</name>
-		<url>https://www.portlandoregon.gov/rss.cfm?c=38277</url>
-	</feed>
-  </category>
-  <category type="Regional">
-	<feed>
-		<name> Regional Studies - Volume 50</name>
-		<url>http://www.tandfonline.com/action/showFeed?ui=0&amp;mi=l1r8ql&amp;ai=2b4&amp;jc=cres20&amp;type=etoc&amp;feed=rss</url>
-	</feed>
-	<feed>
-		<name> Regional Science and Urban Economics - ScienceDirect.com</name>
-		<url>http://rss.sciencedirect.com/publication/science/271675</url>
-	</feed>
-	<feed>
-		<name> Regional Greenhouse Gas Initiative (RGGI) CO2 Budget Trading ...</name>
-		<url>http://feeds.feedburner.com/</url>
-	</feed>
-	<feed>
-		<name> Westside Regional Center | Empower People with Developmental ...</name>
-		<url>http://www.westsiderc.org/home-page/feed/</url>
-	</feed>
-	<feed>
-		<name> BEA Regional Economic Accounts</name>
-		<url>http://www.bea.gov/rss/rss.xml</url>
-	</feed>
-	<feed>
-		<name> Regional Arts Commission: RAC</name>
-		<url>http://racstl.org/feed/</url>
-	</feed>
-	<feed>
-		<name> European Urban and Regional Studies</name>
-		<url>http://eur.sagepub.com/rss/current.xml</url>
-	</feed>
-	<feed>
-		<name> Regional Science - Home</name>
-		<url>http://www.regionalscience.org/index.php?format=feed&amp;type=rss</url>
-	</feed>
-	<feed>
-		<name> Golden Gate Regional Center</name>
-		<url>http://www.ggrc.org/index.php?format=feed&amp;type=rss</url>
-	</feed>
-  </category>
   <category type="Science">
 	<feed>
 		<name>Science</name>
 		<url>http://www.sciencemag.org/rss/current.xml</url>
 	</feed>
 	<feed>
-		<name> Science Daily</name>
-		<url>http://www.sciencedaily.com/rss/</url>
-	</feed>
-	<feed>
 		<name> Science | WIRED</name>
 		<url>http://www.wired.com/feed/</url>
 	</feed>
 	<feed>
-		<name> Discovery Science</name>
-		<url>http://www.sciencechannel.com/tv-shows/feed/</url>
-	</feed>
-	<feed>
-		<name> Science - Reddit</name>
-		<url>https://www.reddit.com/r/science/.rss</url>
-	</feed>
-	<feed>
 		<name> Science | The Guardian</name>
 		<url>https://www.theguardian.com/science/rss</url>
-	</feed>
-	<feed>
-		<name> Science | Education | The Guardian</name>
-		<url>http://www.theguardian.com/id/rss</url>
 	</feed>
 	<feed>
 		<name> Science News</name>
@@ -581,16 +367,8 @@
 		<url>http://theshopsatwailea.com/feed/</url>
 	</feed>
 	<feed>
-		<name> Shopping | Official Travel Site for Scottsdale</name>
-		<url>http://www.experiencescottsdale.com/shopping/feed/</url>
-	</feed>
-	<feed>
 		<name> Shopping - The Magnificent Mile - Chicago</name>
 		<url>http://www.themagnificentmile.com/shopping/feed/</url>
-	</feed>
-	<feed>
-		<name> Shopping: Fashion</name>
-		<url>http://www.vogue.com/fashion/shopping/fashion/shopping/feed/</url>
 	</feed>
 	<feed>
 		<name> Shop - National Harbor</name>
@@ -601,10 +379,6 @@
 		<url>http://www.harristeeter.com/other/rss.aspx?type=blog</url>
 	</feed>
 	<feed>
-		<name> Shopping is More Fun in the Square | Sundance Square</name>
-		<url>http://sundancesquare.com/feed/</url>
-	</feed>
-	<feed>
 		<name> Shopping - Discover Stillwater</name>
 		<url>http://www.discoverstillwater.com/feed/</url>
 	</feed>
@@ -612,54 +386,8 @@
 		<name> ALDI US - Shopping at ALDI</name>
 		<url>https://www.aldi.us/en/rss.xml</url>
 	</feed>
-	<feed>
-		<name> Shopping - Racked</name>
-		<url>http://www.racked.com/rss/index.xml</url>
-	</feed>
+
   </category>
-  <category type="Society">  
-	
-	<feed>
-		<name> Society6 | Affordable Art Prints</name>
-		<url>https://feeds.society6.com/popular</url>
-	</feed>
-	<feed>
-		<name> Internet Society | Internet Issues</name>
-		<url>http://www.internetsociety.org/headlines/rss</url>
-	</feed>
-	<feed>
-		<name> Society - definition of society by The Free Dictionary</name>
-		<url>http://www.thefreedictionary.com/_/WoD/rss.aspx</url>
-	</feed>
-	<feed>
-		<name> The Humane Society of the United States : The Humane Society of ...</name>
-		<url>http://www.humanesociety.org/</url>
-	</feed>
-	<feed>
-		<name> Society of Professional Journalists | Improving and protecting ...</name>
-		<url>http://spj.org/rss_news.rss?T=S</url>
-	</feed>
-	<feed>
-		<name> Society - Top Documentary Films</name>
-		<url>http://feeds.topdocumentaryfilms.com/TopDocumentaryFilms</url>
-	</feed>
-	<feed>
-		<name> Society of American Archivists</name>
-		<url>http://www2.archivists.org/rss.xml</url>
-	</feed>
-	<feed>
-		<name> The Planetary Society: Homepage</name>
-		<url>http://www.planetary.org/system/rss/channel.jsp?feedID=328434498</url>
-	</feed>
-	<feed>
-		<name> Adopt a Dog - Arizona Humane Society</name>
-		<url>http://www.azhumane.org/feed/</url>
-	</feed>
-	<feed>
-		<name> Society</name>
-		<url>http://www.societysalons.com/home?format=RSS</url>
-	</feed>
-   </category>
    <category type="Sports">
 	<feed>
 		<name> Sports - CBSSports.com Sports News</name>
@@ -714,10 +442,6 @@
 	<feed>
 		<name> World Bank Group</name>
 		<url>http://www.worldbank.org/rss.xml</url>
-	</feed>
-	<feed>
-		<name> World of Warcraft - Battle.net</name>
-		<url>http://us.battle.net/wow/en/feed/news</url>
 	</feed>
 	<feed>
 		<name> World news and comment from the Guardian | The Guardian</name>
