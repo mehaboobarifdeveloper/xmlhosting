@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<feeds>
   <category type="Reference">
 	<feed>
 		<name> Reference - definition of reference by The Free Dictionary</name>
@@ -744,4 +743,5 @@
 		<name> World - The New York Times</name>
 		<url>http://www.nytimes.com/services/xml/rss/nyt/World.xml</url>
 	</feed>
-   </category>
+   </category>	
+</feeds>
