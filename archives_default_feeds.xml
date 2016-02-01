@@ -1,0 +1,5215 @@
+<feeds>
+	<category type="Health">
+	<feed>
+		<name> Healthy Lifestyle Guide</name>
+		<url>http://fitnessweightlosscenter.com/healthylifestylefeed</url>
+	</feed>
+	<feed>
+		<name> Acupuncture Holistic MMA Blog</name>
+		<url>http://www.mmaacupuncture.com/acupuncture_mma/feed/</url>
+	</feed>
+	<feed>
+		<name> How To Gain Weight and Build Muscle Fast</name>
+		<url>http://timernstfitness.blogspot.com/feeds/posts/default?alt=rss</url>
+	</feed>
+	<feed>
+		<name> Skechers Blog</name>
+		<url>http://blog.skechers.com/feed</url>
+	</feed>
+	<feed>
+		<name> Enlightenment</name>
+		<url>http://www.enlightenmentpodcast.com/feed</url>
+	</feed>
+	<feed>
+		<name> Squires Fitness Blog</name>
+		<url>http://squiresfitness.com/feed/</url>
+	</feed>
+	<feed>
+		<name> FYI Living</name>
+		<url>http://fyiliving.com/feed/</url>
+	</feed>
+	<feed>
+		<name> Kim Vazquez: How to Transform Your Mind and Your Life</name>
+		<url>http://www.kimvazquez.com/feed</url>
+	</feed>
+	<feed>
+		<name> The Skinny on Being Fat</name>
+		<url>http://skinnyfatgirl11.blogspot.com/feeds/posts/default?alt=rss</url>
+	</feed>
+	<feed>
+		<name> Teen Health and Wellness</name>
+		<url>http://www.teenhealthandwellness.com/rss/inthenews.xml</url>
+	</feed>
+	<feed>
+		<name> FREE Exercise Workout Videos Online</name>
+		<url>http://www.workoutz.com/rss.php</url>
+	</feed>
+	<feed>
+		<name> Antioxidants: Anti Aging Super Foods</name>
+		<url>http://www.antioxidants-anti-aging-super-foods.com/Antioxidants.xml</url>
+	</feed>
+	<feed>
+		<name> BBC News: Health</name>
+		<url>http://news.bbc.co.uk/rss/newsonline_world_edition/health/rss091.xml</url>
+	</feed>
+	<feed>
+		<name> Journal of Clinical Investigation</name>
+		<url>http://www.jci.org/rss/current.xml</url>
+	</feed>
+	<feed>
+		<name> International Journal for Quality in Health Care</name>
+		<url>http://intqhc.oxfordjournals.org/rss/current.xml</url>
+	</feed>
+	<feed>
+		<name> Human Reproduction Update</name>
+		<url>http://humupd.oxfordjournals.org/rss/current.xml</url>
+	</feed>
+	<feed>
+		<name> New England Journal of Medicine</name>
+		<url>http://content.nejm.org/rss/current.xml</url>
+	</feed>
+	<feed>
+		<name> Journal of Medical Internet Research</name>
+		<url>http://www.jmir.org/rss.xml</url>
+	</feed>
+	<feed>
+		<name> British Medical Bulletin</name>
+		<url>http://bmb.oxfordjournals.org/rss/current.xml</url>
+	</feed>
+	<feed>
+		<name> Topix.net - Health News</name>
+		<url>http://www.topix.net/rss/health/health.xml</url>
+	</feed>		
+</category>
+<category type="Science">
+	<feed>
+		<name> Tech Buzz</name>
+		<url>http://feeds.feedburner.com/TechBuzzCenter</url>
+	</feed>
+	<feed>
+		<name> Technology News Center</name>
+		<url>http://technewscenter.com/rss.cfm</url>
+	</feed>
+	<feed>
+		<name> Science Forums</name>
+		<url>http://feeds.feedburner.com/sfn-blogs</url>
+	</feed>
+	<feed>
+		<name> Science News and Information at Sciguru.com</name>
+		<url>http://www.sciguru.com/RSS.xml</url>
+	</feed>
+	<feed>
+		<name> Brighter Planet Blog</name>
+		<url>http://feeds.feedburner.com/brighterplanet</url>
+	</feed>
+	<feed>
+		<name> News and information about humankind's exploration of the universe</name>
+		<url>http://planetary.org/rss/news.xml</url>
+	</feed>
+	<feed>
+		<name> Latest News from SETI@HOME</name>
+		<url>http://setiathome.berkeley.edu/rss_main.php</url>
+	</feed>
+	<feed>
+		<name> Sciencebase</name>
+		<url>http://www.sciencebase.com/sciencebase.xml</url>
+	</feed>
+	<feed>
+		<name> Yahoo! News: Science</name>
+		<url>http://rss.news.yahoo.com/rss/science</url>
+	</feed>
+	<feed>
+		<name> ScienceDaily Headlines</name>
+		<url>http://www.sciencedaily.com/newsfeed.xml</url>
+	</feed>
+	<feed>
+		<name> Newswise: SciNews</name>
+		<url>http://www.newswise.com/rss/scinews.rss</url>
+	</feed>
+	<feed>
+		<name> Nature: News</name>
+		<url>http://www.nature.com/news/rss.rdf</url>
+	</feed>
+	<feed>
+		<name> Google News: SciTech</name>
+		<url>http://news.google.com/news?topic=t&amp;output=rss</url>
+	</feed>
+	<feed>
+		<name> Brightsurf Science News</name>
+		<url>http://www.brightsurf.com/rss_feed.xml</url>
+	</feed>
+	<feed>
+		<name> BBC News: Science/Nature</name>
+		<url>http://news.bbc.co.uk/rss/newsonline_world_edition/science/nature/rss.xml</url>
+	</feed>
+	<feed>
+		<name> PhysOrg.com</name>
+		<url>http://www.physorg.com/physorg.rss</url>
+	</feed>
+	<feed>
+		<name> Informaticopia</name>
+		<url>http://www.rodspace.co.uk/blog/atom.xml</url>
+	</feed>
+	<feed>
+		<name> Future Technologies Blog</name>
+		<url>http://futuretag.com/blog/RSS</url>
+	</feed>
+	<feed>
+		<name> Organic Matter</name>
+		<url>http://www.organicmatter.net/node/feed</url>
+	</feed>
+</category>		
+	<category type="Technology">
+	   <feed>
+			<name>TechCrunch</name>
+			<url>http://techcrunch.com/feed/</url>
+	   </feed>	   
+		<feed>
+			<name>The Next Web</name>
+			<url>http://feeds2.feedburner.com/thenextweb</url>
+	   </feed>	   
+	   <feed>
+			<name>WIRED</name>
+			<url>http://www.wired.com/feed/</url>
+	   </feed>
+	   <feed>
+			<name>ExtremeTech</name>
+			<url>http://www.extremetech.com/feed</url>
+	   </feed>
+	   <feed>
+			<name>Geek</name>
+			<url>http://www.geek.com/feed/</url>
+	   </feed>
+	   <feed>
+			<name>Android Pit</name>
+			<url>https://www.androidpit.com/feed/main.xml</url>
+	   </feed>
+	   <feed>
+			<name>Windows Central</name>
+			<url>http://feeds.feedburner.com/wmexperts</url>
+	   </feed>
+	   <feed>
+			<name>Apple News</name>
+			<url>http://images.apple.com/main/rss/hotnews/hotnews.rss</url>
+	   </feed>
+	   <feed>
+			<name>Tech News World</name>
+			<url>http://www.technewsworld.com/perl/syndication/rssfull.pl</url>
+	   </feed>	   
+	   <feed>
+			<name>Top Tech News</name>
+			<url>http://www.toptechnews.com/share/rss_feed.php</url>
+	   </feed>	   
+	   <feed>
+			<name>Android Central</name>
+			<url>http://feeds.feedburner.com/androidcentral</url>
+	   </feed>	   
+	   <feed>
+			<name>Android Authority</name>
+			<url>http://feed.androidauthority.com</url>
+	   </feed>		
+		<feed>
+			<name>Phone Arena</name>
+			<url>http://www.phonearena.com/feed/news</url>
+	   </feed>
+		<feed>
+			<name>Gizmodo</name>
+			<url>http://www.gizmodo.in/rss_section_feeds/2147477989.cms</url>
+	   </feed>
+		<feed>
+			<name>Mashable</name>
+			<url>http://feeds.mashable.com/Mashable</url>
+	   </feed>
+		<feed>
+			<name>Digital Trends</name>
+			<url>http://www.digitaltrends.com/feed/</url>
+	   </feed>
+		<feed>
+			<name>Technorati</name>
+			<url>http://technorati.com/feed/</url>
+	   </feed>	   
+	</category>
+	<category type="Entertainment">
+		<feed>
+			<name>MovieWeb</name>
+			<url>http://movieweb.com/rss/all-news/</url>
+		</feed>
+		<feed>
+			<name>People Magazine</name>
+			<url>http://feeds.people.com/people/headlines</url>
+		</feed>	
+		<feed>
+			<name>IBNLIVE-TV</name>
+			<url>http://www.ibnlive.com/rss/tv.xml</url>
+		</feed>			
+		<feed>
+			<name>First Showing</name>
+			<url>http://www.firstshowing.net/feed/</url>
+		</feed>	
+		<feed>
+			<name>Film Fare</name>
+			<url>http://www.filmfare.com/feeds/feeds.xml</url>
+		</feed>	
+		<feed>
+			<name>Gawker</name>
+			<url>http://feeds.gawker.com/gawker/full#_ga=1.209450322.1115599229.1454124423</url>
+		</feed>
+		<feed>
+			<name>Comingsoon</name>
+			<url>http://www.comingsoon.net/feed</url>
+		</feed>		
+	  <feed>
+			<name>India TV News Entertainment</name>
+			<url>http://www.indiatvnews.com/rssfeed/masala_entertainment_news.xml</url>
+	   </feed>
+	   <feed>
+			<name>indiantelevision.com</name>
+			<url>http://www.indiantelevision.com/rss/itv.xml</url>
+	   </feed>
+	   <feed>
+			<name>ifairer</name>
+			<url>http://www.ifairer.com/rss-feeds/entertainment.php</url>
+	   </feed>
+	   <feed>
+			<name>FirstPost</name>
+			<url>http://feeds.feedburner.com/firstpost/xfJh?utm_source=fp_footer</url>
+	   </feed>	   
+	</category>
+	<category type="NewsBuzzz">
+		<feed>
+			<name>NDTV News</name>
+			<url>http://feeds.feedburner.com/NdtvNews-TopStories</url>
+		</feed>
+		<feed>
+			<name>IBNLIVE News</name>
+			<url>http://www.ibnlive.com/rss/buzz.xml</url>
+		</feed>
+		<feed>
+			<name>Money Control News</name>
+			<url>http://www.moneycontrol.com/rss/MCtopnews.xml</url>
+		</feed>
+		<feed>
+			<name>Reuters News</name>
+			<url>http://feeds.reuters.com/reuters/INtopNews</url>
+		</feed>
+		<feed>
+			<name>Hindu News</name>
+			<url>http://www.thehindu.com/news/?service=rss</url>
+		</feed>
+	</category>		
+	<category type="Movie Reviews">
+		<feed>
+			<name>Top Movie Reviews - IBNLive</name>
+			<url>http://www.ibnlive.com/rss/reviews.xml</url>
+		</feed>
+		<feed>
+			<name>South Cinema News</name>
+			<url>http://www.ibnlive.com/rss/south-cinema.xml</url>
+		</feed>
+	</category>
+	<category type="Business">
+	   <feed>
+			<name>Business Insider</name>
+			<url>http://www.businessinsider.in/rss_section_feeds/2147477994.cms</url>
+	   </feed>
+	   <feed>
+			<name>Forbes</name>
+			<url>http://forbesindia.com/rssfeed/rss_all.xml</url>
+	   </feed>	   
+	   
+	   <feed>
+			<name>IBNLIVE - Business</name>
+			<url>http://www.ibnlive.com/rss/business.xml</url>
+	   </feed>	   
+	   <feed>
+			<name>The Guardian</name>
+			<url>http://www.theguardian.com/world/india/rss</url>
+	   </feed>	   
+	</category>
+	<category type="Aggreagated/Mix and Match News">
+	   <feed>
+			<name>Tech Meme</name>
+			<url>http://www.techmeme.com/feed.xml</url>
+	   </feed>
+	   <feed>
+			<name>Reuters</name>
+			<url>http://feeds.reuters.com/reuters/INtopNews</url>
+	   </feed>	   
+	 
+	</category>			
+	
+
+	<category type="Sports">
+		<feed>
+			<name>ESPN News</name>
+			<url>http://www.espncricinfo.com/rss/content/story/feeds/0.xml</url>
+		</feed>
+		<feed>
+			<name>IBNLIVE-Sports</name>
+			<url>http://www.ibnlive.com/rss/sports.xml</url>
+		</feed>		
+		
+		
+		<feed>
+			<name>Fox Sports</name>
+			<url>http://api.foxsports.com/v1/rss?partnerKey=zBaFxRyGKCfxBagJG9b8pqLyndmvo7UU</url>
+		</feed>		
+		<feed>
+			<name>IBN Sports</name>
+			<url>http://www.ibnlive.com/rss/sports.xml</url>
+		</feed>		
+	</category>
+	<category type="Religion">
+		<feed>
+			<name>Quran</name>
+			<url>http://binsalem.hipcast.com/rss/quran.xml</url>
+		</feed>
+
+	</category>	
+	<category type="Testing">
+	<feed>
+		<name>Flickrblog</name>
+		<url>http://feeds.feedburner.com/Flickrblog</url>
+	</feed>
+	<feed>
+		<name>hackaday</name>
+		<url>http://feeds.feedburner.com/hackaday/LgoM?format=xml</url>
+	</feed>
+	<feed>
+		<name>Multiplex</name>
+		<url>http://feeds.feedburner.com/Multiplex</url>
+	</feed>
+	<feed>
+		<name>PolymerClayDaily</name>
+		<url>http://feeds.feedburner.com/PolymerClayDaily</url>
+	</feed>
+	<feed>
+		<name>JLPT2.rss</name>
+		<url>http://feeds.feedburner.com/JLPT2.rss</url>
+	</feed>
+	<feed>
+		<name>SchlockRSS?format=xml</name>
+		<url>http://feeds.feedburner.com/SchlockRSS?format=xml</url>
+	</feed>
+	<feed>
+		<name>smittenkitchen</name>
+		<url>http://feeds.feedburner.com/smittenkitchen</url>
+	</feed>
+	<feed>
+		<name>TobiasBuckell</name>
+		<url>http://feeds.feedburner.com/TobiasBuckell</url>
+	</feed>
+	<feed>
+		<name>gizmodo</name>
+		<url>http://feeds.gawker.com/gizmodo/full</url>
+	</feed>
+	<feed>
+		<name>rss</name>
+		<url>http://feedblog.ameba.jp/rss/ameblo/katokazuki-blog/rss20.xml</url>
+	</feed>
+	<feed>
+		<name>JLPT1.rss</name>
+		<url>http://feeds.feedburner.com/JLPT1.rss</url>
+	</feed>
+	<feed>
+		<name>pwcooks</name>
+		<url>http://feeds.feedburner.com/pwcooks</url>
+	</feed>
+	<feed>
+		<name>crooksandliars</name>
+		<url>http://feeds.feedburner.com/crooksandliars/YaCP</url>
+	</feed>
+	<feed>
+		<name>unclutterer</name>
+		<url>http://feeds.feedburner.com/unclutterer</url>
+	</feed>
+	<feed>
+		<name>Livesciencecom?format=xml</name>
+		<url>http://feeds.livescience.com/Livesciencecom?format=xml</url>
+	</feed>
+	<feed>
+		<name>saidthegramophone</name>
+		<url>http://feeds.feedburner.com/saidthegramophone/stg</url>
+	</feed>
+	<feed>
+		<name>LookingForGroup</name>
+		<url>http://feeds.feedburner.com/LookingForGroup</url>
+	</feed>
+	<feed>
+		<name>JLPT3.rss</name>
+		<url>http://feeds.feedburner.com/JLPT3.rss</url>
+	</feed>
+	<feed>
+		<name>foksuk</name>
+		<url>http://feeds.feedburner.com/foksuk/gLTI</url>
+	</feed>
+	<feed>
+		<name>notmartha</name>
+		<url>http://feeds.feedburner.com/notmartha</url>
+	</feed>
+	<feed>
+		<name>ZooBorns</name>
+		<url>http://feeds.feedburner.com/ZooBorns</url>
+	</feed>
+	<feed>
+		<name>marginalrevolution</name>
+		<url>http://feeds.feedburner.com/marginalrevolution/feed</url>
+	</feed>
+	<feed>
+		<name>Ikeahacker</name>
+		<url>http://feeds.feedburner.com/Ikeahacker</url>
+	</feed>
+	<feed>
+		<name>4dancing</name>
+		<url>http://feeds.feedburner.com/4dancing</url>
+	</feed>
+	<feed>
+		<name>WhatJapanThinks</name>
+		<url>http://feeds.feedburner.com/WhatJapanThinks</url>
+	</feed>
+	<feed>
+		<name>JLPT4.rss</name>
+		<url>http://feeds.feedburner.com/JLPT4.rss</url>
+	</feed>
+	<feed>
+		<name>za7gorami</name>
+		<url>http://feeds2.feedburner.com/za7gorami</url>
+	</feed>
+	<feed>
+		<name>uclick</name>
+		<url>http://feedproxy.google.com/uclick/doonesbury</url>
+	</feed>
+	<feed>
+		<name>kolbin</name>
+		<url>http://feeds.feedburner.com/kolbin/rfmI</url>
+	</feed>
+	<feed>
+		<name>rsspect</name>
+		<url>http://feeds2.feedburner.com/rsspect/fJur</url>
+	</feed>
+	<feed>
+		<name>www.stengazeta.net</name>
+		<url>http://www.stengazeta.net/export/all.rss</url>
+	</feed>
+	<feed>
+		<name>freethoughtblogs.com</name>
+		<url>http://freethoughtblogs.com/pharyngula/feed/</url>
+	</feed>
+	<feed>
+		<name>www.giantitp.com</name>
+		<url>http://www.giantitp.com/comics/comics.rss</url>
+	</feed>
+	<feed>
+		<name>www.electoral-vote.com</name>
+		<url>http://www.electoral-vote.com/index.rss</url>
+	</feed>
+	<feed>
+		<name>www.savagechickens.com</name>
+		<url>http://www.savagechickens.com/blog/atom.xml</url>
+	</feed>
+	<feed>
+		<name>www.scienceblog.com</name>
+		<url>http://www.scienceblog.com/cms/rss.xml</url>
+	</feed>
+	<feed>
+		<name>cdn.cad-comic.com</name>
+		<url>http://cdn.cad-comic.com/rss.xml</url>
+	</feed>
+	<feed>
+		<name>stopfake.org</name>
+		<url>http://stopfake.org/?feed=rss2</url>
+	</feed>
+	<feed>
+		<name>scepsis.ru</name>
+		<url>http://scepsis.ru/news/feed.xml</url>
+	</feed>
+	<feed>
+		<name>www.damninteresting.com</name>
+		<url>http://www.damninteresting.com/?feed=rss2</url>
+	</feed>
+	<feed>
+		<name>lj.rossia.org</name>
+		<url>http://lj.rossia.org/users/aculeata/data/atom</url>
+	</feed>
+	<feed>
+		<name>www.antipope.org</name>
+		<url>http://www.antipope.org/charlie/blog-static/index.xml</url>
+	</feed>
+	<feed>
+		<name>mithgol.ru</name>
+		<url>http://mithgol.ru/Live/Journal/Feedcast/MtWFido/</url>
+	</feed>
+	<feed>
+		<name>thewilliambeckettblog.com</name>
+		<url>http://thewilliambeckettblog.com/rss</url>
+	</feed>
+	<feed>
+		<name>www.slickdeals.net</name>
+		<url>http://www.slickdeals.net/rss.php</url>
+	</feed>
+	<feed>
+		<name>interglacial.com</name>
+		<url>http://interglacial.com/rss/bob_the_angry_flower.rss</url>
+	</feed>
+	<feed>
+		<name>rss.netflix.com</name>
+		<url>http://rss.netflix.com/NewReleasesRSS</url>
+	</feed>
+	<feed>
+		<name>www.guardian.co.uk</name>
+		<url>http://www.guardian.co.uk/rssfeed/0,,1,00.xml</url>
+	</feed>
+	<feed>
+		<name>theoatmeal.com</name>
+		<url>http://theoatmeal.com/feed/rss</url>
+	</feed>
+	<feed>
+		<name>www.peremeny.ru</name>
+		<url>http://www.peremeny.ru/blog/?feed=rss2</url>
+	</feed>
+	<feed>
+		<name>dreamcafe.com</name>
+		<url>http://dreamcafe.com/words/feed/</url>
+	</feed>
+	<feed>
+		<name>hrenovina.net</name>
+		<url>http://hrenovina.net/feed</url>
+	</feed>
+	<feed>
+		<name>www.dailycoyote.net</name>
+		<url>http://www.dailycoyote.net/index.php/?feed=rss2</url>
+	</feed>
+	<feed>
+		<name>yaplog.jp</name>
+		<url>http://yaplog.jp/ap-sendai/index1_0.rdf</url>
+	</feed>
+	<feed>
+		<name>www.law.cornell.edu</name>
+		<url>http://www.law.cornell.edu/supct/rss/supct_recent.rss</url>
+	</feed>
+	<feed>
+		<name>www.slovomania.ru</name>
+		<url>http://www.slovomania.ru/dnevnik/feed/atom/</url>
+	</feed>
+	<feed>
+		<name>www.biblegateway.com</name>
+		<url>http://www.biblegateway.com/usage/votd/rss/votd.rdf?31</url>
+	</feed>
+	<feed>
+		<name>www.opennet.ru</name>
+		<url>http://www.opennet.ru/opennews/opennews_6.rss</url>
+	</feed>
+	<feed>
+		<name>www.kith.org</name>
+		<url>http://www.kith.org/journals/jed/index.xml</url>
+	</feed>
+	<feed>
+		<name>www.morrissey-solo.com</name>
+		<url>http://www.morrissey-solo.com/morrissey-solo.rss</url>
+	</feed>
+	<feed>
+		<name>rss.cnn.com</name>
+		<url>http://rss.cnn.com/rss/cnn_topstories.rss</url>
+	</feed>
+	<feed>
+		<name>plato.stanford.edu</name>
+		<url>http://plato.stanford.edu/rss/sep.xml</url>
+	</feed>
+	<feed>
+		<name>www.democracynow.org</name>
+		<url>http://www.democracynow.org/democracynow.rss</url>
+	</feed>
+	<feed>
+		<name>www.marinagiller.com</name>
+		<url>http://www.marinagiller.com/feeds/posts/default?alt=rss</url>
+	</feed>
+	<feed>
+		<name>www.gutenberg.org</name>
+		<url>http://www.gutenberg.org/feeds/today.rss</url>
+	</feed>
+	<feed>
+		<name>www.richardherring.com</name>
+		<url>http://www.richardherring.com/warmingup/rss.php</url>
+	</feed>
+	<feed>
+		<name>lookwayup.com</name>
+		<url>http://lookwayup.com/lwu.exe/lwu/rss;lang=Deu</url>
+	</feed>
+	<feed>
+		<name>www.languagehat.com</name>
+		<url>http://www.languagehat.com/index.rdf</url>
+	</feed>
+	<feed>
+		<name>www.kremlin.ru</name>
+		<url>http://www.kremlin.ru/export/images.xml</url>
+	</feed>
+	<feed>
+		<name>www.sciencedaily.com</name>
+		<url>http://www.sciencedaily.com/newsfeed.xml</url>
+	</feed>
+	<feed>
+		<name>100dorog.ru</name>
+		<url>http://100dorog.ru/rss.aspx?m=stories</url>
+	</feed>
+	<feed>
+		<name>www.starwars.com</name>
+		<url>http://www.starwars.com/data/headlines.xml</url>
+	</feed>
+	<feed>
+		<name>www.filmz.ru</name>
+		<url>http://www.filmz.ru/rss/files/news1.xml</url>
+	</feed>
+	<feed>
+		<name>www.cheriepriest.com</name>
+		<url>http://www.cheriepriest.com/feed/atom/</url>
+	</feed>
+	<feed>
+		<name>www.recountal.org</name>
+		<url>http://www.recountal.org/feeds/qwantz.rdf</url>
+	</feed>
+	<feed>
+		<name>girlsareprettyforever.tumblr.com</name>
+		<url>http://girlsareprettyforever.tumblr.com/rss</url>
+	</feed>
+	<feed>
+		<name>wrongquestions.blogspot.com</name>
+		<url>http://wrongquestions.blogspot.com/atom.xml</url>
+	</feed>
+	<feed>
+		<name>rssblog.ameba.jp</name>
+		<url>http://rssblog.ameba.jp/pnish-tuti/rss.html</url>
+	</feed>
+	<feed>
+		<name>xml.weather.yahoo.com</name>
+		<url>http://xml.weather.yahoo.com/forecastrss?p=22302</url>
+	</feed>
+	<feed>
+		<name>rudepundit.blogspot.com</name>
+		<url>http://rudepundit.blogspot.com/atom.xml</url>
+	</feed>
+	<feed>
+		<name>rssblog.ameba.jp</name>
+		<url>http://rssblog.ameba.jp/nagayama-takashi/rss20.xml</url>
+	</feed>
+	<feed>
+		<name>garfieldminusgarfield.net</name>
+		<url>http://garfieldminusgarfield.net/rss</url>
+	</feed>
+	<feed>
+		<name>basicinstructions.net</name>
+		<url>http://basicinstructions.net/basic-instructions/atom.xml</url>
+	</feed>
+	<feed>
+		<name>www.charter97.org</name>
+		<url>http://www.charter97.org/ru/rss/all/</url>
+	</feed>
+	<feed>
+		<name>www.woot.com</name>
+		<url>http://www.woot.com/blog/rss.aspx</url>
+	</feed>
+	<feed>
+		<name>www.alistapart.com</name>
+		<url>http://www.alistapart.com/rss.xml</url>
+	</feed>
+	<feed>
+		<name>xml.weather.yahoo.com</name>
+		<url>http://xml.weather.yahoo.com/forecastrss?p=USMD0237&amp;u=c</url>
+	</feed>
+	<feed>
+		<name>www.perezhilton.com</name>
+		<url>http://www.perezhilton.com/index.xml</url>
+	</feed>
+	<feed>
+		<name>www.ocremix.org</name>
+		<url>http://www.ocremix.org/feeds/ten20/</url>
+	</feed>
+	<feed>
+		<name>www.hunkdujour.com</name>
+		<url>http://www.hunkdujour.com/hunks/rss/</url>
+	</feed>
+	<feed>
+		<name>svpressa.ru</name>
+		<url>http://svpressa.ru/xml/news.xml</url>
+	</feed>
+	<feed>
+		<name>craftster.org</name>
+		<url>http://craftster.org/blog/wp-rss2.php</url>
+	</feed>
+	<feed>
+		<name>ko-ko-ko.tumblr.com</name>
+		<url>http://ko-ko-ko.tumblr.com/rss</url>
+	</feed>
+	<feed>
+		<name>www.style-files.com</name>
+		<url>http://www.style-files.com/feed/</url>
+	</feed>
+	<feed>
+		<name>www.inosmi.ru</name>
+		<url>http://www.inosmi.ru/misc/export/xml/rss/translation.xml</url>
+	</feed>
+	<feed>
+		<name>asylums.insanejournal.com</name>
+		<url>http://asylums.insanejournal.com/daily_deviant/data/atom</url>
+	</feed>
+	<feed>
+		<name>mocoloco.com</name>
+		<url>http://mocoloco.com/index.rdf</url>
+	</feed>
+	<feed>
+		<name>www.nature.com</name>
+		<url>http://www.nature.com/news/rss.rdf</url>
+	</feed>
+	<feed>
+		<name>www.austenblog.com</name>
+		<url>http://www.austenblog.com/feed/</url>
+	</feed>
+	<feed>
+		<name>zygmantovich.com</name>
+		<url>http://zygmantovich.com/?feed=rss2</url>
+	</feed>
+	<feed>
+		<name>scans-daily.dreamwidth.org</name>
+		<url>http://scans-daily.dreamwidth.org/data/rss</url>
+	</feed>
+	<feed>
+		<name>mightygodking.com</name>
+		<url>http://mightygodking.com/index.php/feed/</url>
+	</feed>
+	<feed>
+		<name>www.rasse1.com</name>
+		<url>http://www.rasse1.com/?feed=rss2</url>
+	</feed>
+	<feed>
+		<name>yaplog.jp</name>
+		<url>http://yaplog.jp/ap-hiroshima/index1_0.rdf</url>
+	</feed>
+	<feed>
+		<name>www.risk.ru</name>
+		<url>http://www.risk.ru/rss/</url>
+	</feed>
+	<feed>
+		<name>www.sheldoncomics.com</name>
+		<url>http://www.sheldoncomics.com/index.xml</url>
+	</feed>
+	<feed>
+		<name>www.sfgate.com</name>
+		<url>http://www.sfgate.com/rss/feeds/morford.xml</url>
+	</feed>
+	<feed>
+		<name>www.csifiles.com</name>
+		<url>http://www.csifiles.com/headlines/rss.xml</url>
+	</feed>
+	<feed>
+		<name>www.iphones.ru</name>
+		<url>http://www.iphones.ru/feed/</url>
+	</feed>
+	<feed>
+		<name>www.motherjones.com</name>
+		<url>http://www.motherjones.com/cgi-bin/rss.cgi</url>
+	</feed>
+	<feed>
+		<name>nonadventures.com</name>
+		<url>http://nonadventures.com/feed/</url>
+	</feed>
+	<feed>
+		<name>www.searchengines.ru</name>
+		<url>http://www.searchengines.ru/index.xml</url>
+	</feed>
+	<feed>
+		<name>www.vedomosti.ru</name>
+		<url>http://www.vedomosti.ru/newspaper/out/rss.xml</url>
+	</feed>
+	<feed>
+		<name>lj.rossia.org</name>
+		<url>http://lj.rossia.org/users/tiphareth/data/rss</url>
+	</feed>
+	<feed>
+		<name>lambda-the-ultimate.org</name>
+		<url>http://lambda-the-ultimate.org/node/feed</url>
+	</feed>
+	<feed>
+		<name>elementy.ru</name>
+		<url>http://elementy.ru/rss/news</url>
+	</feed>
+	<feed>
+		<name>www.engadget.com</name>
+		<url>http://www.engadget.com/rss.xml</url>
+	</feed>
+	<feed>
+		<name>www.dailycoyote.net</name>
+		<url>http://www.dailycoyote.net/?feed=rss2</url>
+	</feed>
+	<feed>
+		<name>www.travel.ru</name>
+		<url>http://www.travel.ru/export/rss/visa.rss</url>
+	</feed>
+	<feed>
+		<name>www.slate.com</name>
+		<url>http://www.slate.com/blogs/bad_astronomy.fulltext.all.10.rss</url>
+	</feed>
+	<feed>
+		<name>vmpress.exblog.jp</name>
+		<url>http://vmpress.exblog.jp/index.xml</url>
+	</feed>
+	<feed>
+		<name>blog.dahr.ru</name>
+		<url>http://blog.dahr.ru/wp-rss2.php</url>
+	</feed>
+	<feed>
+		<name>www.pitchforkmedia.com</name>
+		<url>http://www.pitchforkmedia.com/rss/news</url>
+	</feed>
+	<feed>
+		<name>www.oed.com</name>
+		<url>http://www.oed.com/rss/wordoftheday</url>
+	</feed>
+	<feed>
+		<name>modblog.bmezine.com</name>
+		<url>http://modblog.bmezine.com/feed/</url>
+	</feed>
+	<feed>
+		<name>www.arghink.com</name>
+		<url>http://www.arghink.com/feed/</url>
+	</feed>
+	<feed>
+		<name>www.feministe.us</name>
+		<url>http://www.feministe.us/blog/feed/</url>
+	</feed>
+	<feed>
+		<name>www.exler.ru</name>
+		<url>http://www.exler.ru/rss.xml</url>
+	</feed>
+	<feed>
+		<name>improbable.com</name>
+		<url>http://improbable.com/feed/</url>
+	</feed>
+	<feed>
+		<name>blog.stanis.ru</name>
+		<url>http://blog.stanis.ru/?action=rss</url>
+	</feed>
+	<feed>
+		<name>windling.typepad.com</name>
+		<url>http://windling.typepad.com/blog/rss.xml</url>
+	</feed>
+	<feed>
+		<name>yaplog.jp</name>
+		<url>http://yaplog.jp/ap-nagoya/index1_0.rdf</url>
+	</feed>
+	<feed>
+		<name>www.ebsqart.com</name>
+		<url>http://www.ebsqart.com/RSS/RSSAOTD.asp</url>
+	</feed>
+	<feed>
+		<name>thebloggess.com</name>
+		<url>http://thebloggess.com/feed/</url>
+	</feed>
+	<feed>
+		<name>postsecret.com</name>
+		<url>http://postsecret.com/feed/</url>
+	</feed>
+	<feed>
+		<name>www.xkcd.com</name>
+		<url>http://www.xkcd.com/rss.xml</url>
+	</feed>
+	<feed>
+		<name>www.dictionary.com</name>
+		<url>http://www.dictionary.com/wordoftheday/wotd.rss</url>
+	</feed>
+	<feed>
+		<name>penny-arcade.com</name>
+		<url>http://penny-arcade.com/feed</url>
+	</feed>
+	<feed>
+		<name>www.avclub.com</name>
+		<url>http://www.avclub.com/feed/savage-love/</url>
+	</feed>
+	<feed>
+		<name>www.overheardinnewyork.com</name>
+		<url>http://www.overheardinnewyork.com/feed</url>
+	</feed>
+	<feed>
+		<name>rsspect.com</name>
+		<url>http://rsspect.com/rss/qwantz.xml</url>
+	</feed>
+	<feed>
+		<name>www.snopes.com</name>
+		<url>http://www.snopes.com/info/whatsnew.xml</url>
+	</feed>
+	<feed>
+		<name>ICanHasCheezburger</name>
+		<url>http://feeds.feedburner.com/ICanHasCheezburger</url>
+	</feed>
+	<feed>
+		<name>www.somethingpositive.net</name>
+		<url>http://www.somethingpositive.net/sp.xml</url>
+	</feed>
+	<feed>
+		<name>wilwheaton.net</name>
+		<url>http://wilwheaton.net/feed/</url>
+	</feed>
+	<feed>
+		<name>www.dorktower.com</name>
+		<url>http://www.dorktower.com/feed/</url>
+	</feed>
+	<feed>
+		<name>novate</name>
+		<url>http://feeds.feedburner.com/novate</url>
+	</feed>
+	<feed>
+		<name>comicfeeds.chrisbenard.net</name>
+		<url>http://comicfeeds.chrisbenard.net/view/dilbert/default</url>
+	</feed>
+	<feed>
+		<name>etoday.ru</name>
+		<url>http://etoday.ru/rss/index.xml</url>
+	</feed>
+	<feed>
+		<name>bash.org.ru</name>
+		<url>http://bash.org.ru/rss/</url>
+	</feed>
+	<feed>
+		<name>www.theonion.com</name>
+		<url>http://www.theonion.com/content/feeds/weekly</url>
+	</feed>
+	<feed>
+		<name>kulturologia</name>
+		<url>http://feeds.feedburner.com/kulturologia</url>
+	</feed>
+	<feed>
+		<name>www.anekdot.ru</name>
+		<url>http://www.anekdot.ru/rss/export.xml</url>
+	</feed>
+	<feed>
+		<name>www.phdcomics.com</name>
+		<url>http://www.phdcomics.com/gradfeed.php</url>
+	</feed>
+	<feed>
+		<name>www.bestweekever.tv</name>
+		<url>http://www.bestweekever.tv/feed/</url>
+	</feed>
+	<feed>
+		<name>designcollector.net</name>
+		<url>http://designcollector.net/rss.xml</url>
+	</feed>
+	<feed>
+		<name>corpuscula.blogspot.com</name>
+		<url>http://corpuscula.blogspot.com/feeds/posts/default?alt=rss</url>
+	</feed>
+	<feed>
+		<name>lleo.aha.ru</name>
+		<url>http://lleo.aha.ru/dnevnik/rss.xml</url>
+	</feed>
+	<feed>
+		<name>muzey-factov.ru</name>
+		<url>http://muzey-factov.ru/rss/</url>
+	</feed>
+	<feed>
+		<name>CakeWrecks</name>
+		<url>http://feeds.feedburner.com/CakeWrecks</url>
+	</feed>
+	<feed>
+		<name>www.whedonesque.com</name>
+		<url>http://www.whedonesque.com/rss.xml.php</url>
+	</feed>
+	<feed>
+		<name>wondermark.blogspot.com</name>
+		<url>http://wondermark.blogspot.com/atom.xml</url>
+	</feed>
+	<feed>
+		<name>catandgirl.com</name>
+		<url>http://catandgirl.com/?feed=rss2</url>
+	</feed>
+	<feed>
+		<name>www.twolumps.net</name>
+		<url>http://www.twolumps.net/comic.rss</url>
+	</feed>
+	<feed>
+		<name>www.girlgeniusonline.com</name>
+		<url>http://www.girlgeniusonline.com/ggmain.rss</url>
+	</feed>
+	<feed>
+		<name>www.thinkgeek.com</name>
+		<url>http://www.thinkgeek.com/thinkgeek.rdf</url>
+	</feed>
+	<feed>
+		<name>Unshelfeed</name>
+		<url>http://feeds.feedburner.com/Unshelfeed</url>
+	</feed>
+	<feed>
+		<name>www.urbandictionary.com</name>
+		<url>http://www.urbandictionary.com/daily.rss</url>
+	</feed>
+	<feed>
+		<name>www.dieselsweeties.com</name>
+		<url>http://www.dieselsweeties.com/ds-unifeed.xml</url>
+	</feed>
+	<feed>
+		<name>informer.travel.ru</name>
+		<url>http://informer.travel.ru/rss/avia_sp.xml</url>
+	</feed>
+	<feed>
+		<name>news.nationalgeographic.com</name>
+		<url>http://news.nationalgeographic.com/index.rss</url>
+	</feed>
+	<feed>
+		<name>uclick</name>
+		<url>http://feedproxy.google.com/uclick/calvinandhobbes</url>
+	</feed>
+	<feed>
+		<name>www.psychologytoday.com</name>
+		<url>http://www.psychologytoday.com/collections/feed</url>
+	</feed>
+	<feed>
+		<name>www.megatokyo.com</name>
+		<url>http://www.megatokyo.com/rss/megatokyo.xml</url>
+	</feed>
+	<feed>
+		<name>www.quotationspage.com</name>
+		<url>http://www.quotationspage.com/data/qotd.rss</url>
+	</feed>
+	<feed>
+		<name>wordsmith.org</name>
+		<url>http://wordsmith.org/awad/rss1.xml</url>
+	</feed>
+	<feed>
+		<name>www.margaretcho.com</name>
+		<url>http://www.margaretcho.com/content/feed/</url>
+	</feed>
+	<feed>
+		<name>lj.rossia.org</name>
+		<url>http://lj.rossia.org/users/tiphareth/data/atom</url>
+	</feed>
+	<feed>
+		<name>www.bbc.co.uk</name>
+		<url>http://www.bbc.co.uk/blogs/doctorwho/rss</url>
+	</feed>
+	<feed>
+		<name>garfieldminusgarfield.tumblr.com</name>
+		<url>http://garfieldminusgarfield.tumblr.com/rss</url>
+	</feed>
+	<feed>
+		<name>page2rss.com</name>
+		<url>http://page2rss.com/rss/af8685f2732a2e9fb1d4c5e85f6d2348</url>
+	</feed>
+	<feed>
+		<name>rss.sciam.com</name>
+		<url>http://rss.sciam.com/ScientificAmerican-News</url>
+	</feed>
+	<feed>
+		<name>www.achewood.com</name>
+		<url>http://www.achewood.com/rss.php</url>
+	</feed>
+	<feed>
+		<name>www.irregularwebcomic.net</name>
+		<url>http://www.irregularwebcomic.net/rss3.xml</url>
+	</feed>
+	<feed>
+		<name>nielsenhayden.com</name>
+		<url>http://nielsenhayden.com/makinglight/atom.xml</url>
+	</feed>
+	<feed>
+		<name>boingboing</name>
+		<url>http://feeds.boingboing.net/boingboing/iBag</url>
+	</feed>
+	<feed>
+		<name>TheSartorialist</name>
+		<url>http://feeds.feedburner.com/TheSartorialist</url>
+	</feed>
+	<feed>
+		<name>Explosm</name>
+		<url>http://feeds.feedburner.com/Explosm</url>
+	</feed>
+	<feed>
+		<name>www.merriam-webster.com</name>
+		<url>http://www.merriam-webster.com/word/index.xml</url>
+	</feed>
+	<feed>
+		<name>www.pepysdiary.com</name>
+		<url>http://www.pepysdiary.com/syndication/rdf.php</url>
+	</feed>
+	<feed>
+		<name>www.dailykitten.com</name>
+		<url>http://www.dailykitten.com/feed/</url>
+	</feed>
+	<feed>
+		<name>metkere</name>
+		<url>http://feeds.feedburner.com/metkere</url>
+	</feed>
+	<feed>
+		<name>scalzi.com</name>
+		<url>http://scalzi.com/whatever/?feed=rss2</url>
+	</feed>
+	<feed>
+		<name>languagelog.ldc.upenn.edu</name>
+		<url>http://languagelog.ldc.upenn.edu/nll/?feed=atom</url>
+	</feed>
+	<feed>
+		<name>dilbert.com</name>
+		<url>http://dilbert.com/blog/entry.feed/</url>
+	</feed>
+	<feed>
+		<name>www.animenewsnetwork.com</name>
+		<url>http://www.animenewsnetwork.com/newsfeed/rss.xml</url>
+	</feed>
+	<feed>
+		<name>www.theonering.net</name>
+		<url>http://www.theonering.net/cgi-bin/lotr2rdf.cgi</url>
+	</feed>
+	<feed>
+		<name>bg.ru</name>
+		<url>http://bg.ru/index.rss</url>
+	</feed>
+	<feed>
+		<name>AnniSanni</name>
+		<url>http://feeds.feedburner.com/AnniSanni</url>
+	</feed>
+	<feed>
+		<name>jdramacity.blogspot.com</name>
+		<url>http://jdramacity.blogspot.com/feeds/posts/default</url>
+	</feed>
+	<feed>
+		<name>rss.slashdot.org</name>
+		<url>http://rss.slashdot.org/Slashdot/slashdot/to</url>
+	</feed>
+	<feed>
+		<name>www.darthsanddroids.net</name>
+		<url>http://www.darthsanddroids.net/rss.xml</url>
+	</feed>
+	<feed>
+		<name>TheWildhuntWeblog</name>
+		<url>http://feeds.feedburner.com/TheWildhuntWeblog</url>
+	</feed>
+	<feed>
+		<name>science-news</name>
+		<url>http://feeds.newscientist.com/science-news</url>
+	</feed>
+	<feed>
+		<name>www.artlebedev.ru</name>
+		<url>http://www.artlebedev.ru/news.rdf</url>
+	</feed>
+	<feed>
+		<name>Grafchitaru</name>
+		<url>http://feeds.feedburner.com/Grafchitaru</url>
+	</feed>
+	<feed>
+		<name>sluggy_freelance</name>
+		<url>http://feeds.feedburner.com/sluggy_freelance</url>
+	</feed>
+	<feed>
+		<name>typepad</name>
+		<url>http://feeds.feedburner.com/typepad/CuteOverload</url>
+	</feed>
+	<feed>
+		<name>bugtraq.ru</name>
+		<url>http://bugtraq.ru/export/yandex.txt</url>
+	</feed>
+	<feed>
+		<name>spletnik.ru</name>
+		<url>http://spletnik.ru/rss/main</url>
+	</feed>
+	<feed>
+		<name>matthewdaniel.com</name>
+		<url>http://matthewdaniel.com/feeds/muttscomics.rss</url>
+	</feed>
+	<feed>
+		<name>roem.ru</name>
+		<url>http://roem.ru/rss/</url>
+	</feed>
+	<feed>
+		<name>www.giantitp.com</name>
+		<url>http://www.giantitp.com/comics/oots.rss</url>
+	</feed>
+	<feed>
+		<name>scatoday.net</name>
+		<url>http://scatoday.net/node/feed</url>
+	</feed>
+	<feed>
+		<name>PolyamoryInTheNews</name>
+		<url>http://feeds.feedburner.com/PolyamoryInTheNews</url>
+	</feed>
+	<feed>
+		<name>IHasAHotdog</name>
+		<url>http://feeds.feedburner.com/IHasAHotdog?format=xml</url>
+	</feed>
+	<feed>
+		<name>peopleofdesign.ru</name>
+		<url>http://peopleofdesign.ru/feed/</url>
+	</feed>
+	<feed>
+		<name>dirty.ru</name>
+		<url>http://dirty.ru/rss.xml</url>
+	</feed>
+	<feed>
+		<name>www.blastr.com</name>
+		<url>http://www.blastr.com/atom.xml</url>
+	</feed>
+	<feed>
+		<name>googleblog.blogspot.com</name>
+		<url>http://googleblog.blogspot.com/atom.xml</url>
+	</feed>
+	<feed>
+		<name>www.libo.ru</name>
+		<url>http://www.libo.ru/rss2.php</url>
+	</feed>
+	<feed>
+		<name>interglacial.com</name>
+		<url>http://interglacial.com/rss/new_yorker_cartoon.rss</url>
+	</feed>
+	<feed>
+		<name>www.gateworld.net</name>
+		<url>http://www.gateworld.net/news/rss_gateworld.xml</url>
+	</feed>
+	<feed>
+		<name>www.getrichslowly.org</name>
+		<url>http://www.getrichslowly.org/blog/feed/</url>
+	</feed>
+	<feed>
+		<name>lifehacker</name>
+		<url>http://feeds.gawker.com/lifehacker/full</url>
+	</feed>
+	<feed>
+		<name>failblog</name>
+		<url>http://feeds.feedburner.com/failblog</url>
+	</feed>
+	<feed>
+		<name>www.quotationspage.com</name>
+		<url>http://www.quotationspage.com/data/mqotd.rss</url>
+	</feed>
+	<feed>
+		<name>pvponline.com</name>
+		<url>http://pvponline.com/feed</url>
+	</feed>
+	<feed>
+		<name>www.somethingawful.com</name>
+		<url>http://www.somethingawful.com/rss/index.rss.xml</url>
+	</feed>
+	<feed>
+		<name>www.yarnharlot.ca</name>
+		<url>http://www.yarnharlot.ca/feed/</url>
+	</feed>
+	<feed>
+		<name>www.kokokokids.ru</name>
+		<url>http://www.kokokokids.ru/feeds/posts/default?alt=rss</url>
+	</feed>
+	<feed>
+		<name>gothic-charm-school.com</name>
+		<url>http://gothic-charm-school.com/charm/wp-rss.php</url>
+	</feed>
+	<feed>
+		<name>vs-t.ru</name>
+		<url>http://vs-t.ru/feed/atom/</url>
+	</feed>
+	<feed>
+		<name>www.mindhacks.com</name>
+		<url>http://www.mindhacks.com/index.rdf</url>
+	</feed>
+	</category>
+	
+	<category type="Indian Newspapers">
+	<feed>
+		<name> Achievement-Idealism</name>
+		<url>http://kannadaprabha.com/sectionrss-176.html</url>
+	</feed>
+	<feed>
+		<name> Agriculture-Environment</name>
+		<url>http://kannadaprabha.com/sectionrss-173.html</url>
+	</feed>
+	<feed>
+		<name> All Beyond Business Stories</name>
+		<url>http://www.business-standard.com/rss/beyond-business-104.rss</url>
+	</feed>
+	<feed>
+		<name> All Budget Stories</name>
+		<url>http://www.business-standard.com/rss/budget-110.rss</url>
+	</feed>
+	<feed>
+		<name> All Companies Stories</name>
+		<url>http://www.business-standard.com/rss/companies-101.rss</url>
+	</feed>
+	<feed>
+		<name> All Current Affairs Stories</name>
+		<url>http://www.business-standard.com/rss/current-affairs-115.rss</url>
+	</feed>
+	<feed>
+		<name> All Economy &amp; Policy Stories</name>
+		<url>http://www.business-standard.com/rss/economy-policy-102.rss</url>
+	</feed>
+	<feed>
+		<name> All Finance Stories</name>
+		<url>http://www.business-standard.com/rss/finance-103.rss</url>
+	</feed>
+	<feed>
+		<name> All International Stories</name>
+		<url>http://www.business-standard.com/rss/international-116.rss</url>
+	</feed>
+	<feed>
+		<name> All Management Stories</name>
+		<url>http://www.business-standard.com/rss/management-107.rss</url>
+	</feed>
+	<feed>
+		<name> All Markets Stories</name>
+		<url>http://www.business-standard.com/rss/markets-106.rss</url>
+	</feed>
+	<feed>
+		<name> All News-IANS Stories</name>
+		<url>http://www.business-standard.com/rss/news-ians-150.rss</url>
+	</feed>
+	<feed>
+		<name> All Opinion Stories</name>
+		<url>http://www.business-standard.com/rss/opinion-105.rss</url>
+	</feed>
+	<feed>
+		<name> All PF Stories</name>
+		<url>http://www.business-standard.com/rss/pf-114.rss</url>
+	</feed>
+	<feed>
+		<name> All Specials Stories</name>
+		<url>http://www.business-standard.com/rss/specials-109.rss</url>
+	</feed>
+	<feed>
+		<name> All Technology Stories</name>
+		<url>http://www.business-standard.com/rss/technology-108.rss</url>
+	</feed>
+	<feed>
+		<name> Art-Literature</name>
+		<url>http://kannadaprabha.com/sectionrss-161.html</url>
+	</feed>
+	<feed>
+		<name> Asia News Network: Business</name>
+		<url>http://www.asianewsnet.net/rss/rssbiz.php</url>
+	</feed>
+	<feed>
+		<name> Asia News Network: Editorials</name>
+		<url>http://www.asianewsnet.net/rss/rssedit.php</url>
+	</feed>
+	<feed>
+		<name> Asia News Network: News</name>
+		<url>http://www.asianewsnet.net/rss/rssnews.php</url>
+	</feed>
+	<feed>
+		<name> Asian Age: Bengaluru</name>
+		<url>http://dc.asianage.com/rss/30458</url>
+	</feed>
+	<feed>
+		<name> Asian Age: Bengaluru</name>
+		<url>http://dc.asianage.com/rss/30459</url>
+	</feed>
+	<feed>
+		<name> Asian Age: Books</name>
+		<url>http://dc.asianage.com/rss/81</url>
+	</feed>
+	<feed>
+		<name> Asian Age: Business</name>
+		<url>http://dc.asianage.com/rss/43</url>
+	</feed>
+	<feed>
+		<name> Asian Age: Chennai</name>
+		<url>http://dc.asianage.com/rss/30457</url>
+	</feed>
+	<feed>
+		<name> Asian Age: Delhi</name>
+		<url>http://dc.asianage.com/rss/40</url>
+	</feed>
+	<feed>
+		<name> Asian Age: Editorial</name>
+		<url>http://dc.asianage.com/rss/79</url>
+	</feed>
+	<feed>
+		<name> Asian Age: Entertainment</name>
+		<url>http://dc.asianage.com/rss/44</url>
+	</feed>
+	<feed>
+		<name> Asian Age: Hyderabad</name>
+		<url>http://dc.asianage.com/rss/30460</url>
+	</feed>
+	<feed>
+		<name> Asian Age: India</name>
+		<url>http://dc.asianage.com/rss/38</url>
+	</feed>
+	<feed>
+		<name> Asian Age: International</name>
+		<url>http://dc.asianage.com/rss/37</url>
+	</feed>
+	<feed>
+		<name> Asian Age: Kids and Teens</name>
+		<url>http://dc.asianage.com/rss/54</url>
+	</feed>
+	<feed>
+		<name> Asian Age: Kolkatta</name>
+		<url>http://dc.asianage.com/rss/41</url>
+	</feed>
+	<feed>
+		<name> Asian Age: Letters to editor</name>
+		<url>http://dc.asianage.com/rss/78</url>
+	</feed>
+	<feed>
+		<name> Asian Age: Life and Style</name>
+		<url>http://dc.asianage.com/rss/53</url>
+	</feed>
+	<feed>
+		<name> Asian Age: Movies</name>
+		<url>http://dc.asianage.com/rss/45</url>
+	</feed>
+	<feed>
+		<name> Asian Age: Mumbai</name>
+		<url>http://dc.asianage.com/rss/39</url>
+	</feed>
+	<feed>
+		<name> Asian Age: Mumbai</name>
+		<url>http://dc.asianage.com/rss/42</url>
+	</feed>
+	<feed>
+		<name> Asian Age: Newsmaker</name>
+		<url>http://dc.asianage.com/rss/80</url>
+	</feed>
+	<feed>
+		<name> Asian Age: Opinion</name>
+		<url>http://dc.asianage.com/rss/77</url>
+	</feed>
+	<feed>
+		<name> Asian Age: Sports</name>
+		<url>http://dc.asianage.com/rss/66</url>
+	</feed>
+	<feed>
+		<name> Asian Age: Travel</name>
+		<url>http://dc.asianage.com/rss/65</url>
+	</feed>
+	<feed>
+		<name> Assam Times</name>
+		<url>http://www.assamtimes.org/rss.xml</url>
+	</feed>
+	<feed>
+		<name> Assorted Sources</name>
+		<url>http://newsrack.in/crawled.feeds/fixit.rss.xml</url>
+	</feed>
+	<feed>
+		<name> Astrology</name>
+		<url>http://kannadaprabha.com/sectionrss-107.html</url>
+	</feed>
+	<feed>
+		<name> BBC-Hindi: India</name>
+		<url>http://feeds.bbc.co.uk/hindi/regionalnews/index.xml</url>
+	</feed>
+	<feed>
+		<name> Bagalkot</name>
+		<url>http://kannadaprabha.com/sectionrss-133.html</url>
+	</feed>
+	<feed>
+		<name> Bangalore</name>
+		<url>http://kannadaprabha.com/sectionrss-131.html</url>
+	</feed>
+	<feed>
+		<name> Bangalore Rural</name>
+		<url>http://kannadaprabha.com/sectionrss-132.html</url>
+	</feed>
+	<feed>
+		<name> Belgaum</name>
+		<url>http://kannadaprabha.com/sectionrss-134.html</url>
+	</feed>
+	<feed>
+		<name> Bellary</name>
+		<url>http://kannadaprabha.com/sectionrss-135.html</url>
+	</feed>
+	<feed>
+		<name> Bidar</name>
+		<url>http://kannadaprabha.com/sectionrss-136.html</url>
+	</feed>
+	<feed>
+		<name> Bijapur</name>
+		<url>http://kannadaprabha.com/sectionrss-137.html</url>
+	</feed>
+	<feed>
+		<name> Blogs</name>
+		<url>http://www.business-standard.com/rss/opinion-blogs-10514.rss</url>
+	</feed>
+	<feed>
+		<name> Bollywood</name>
+		<url>http://kannadaprabha.com/sectionrss-180.html</url>
+	</feed>
+	<feed>
+		<name> Book Reviews</name>
+		<url>http://outlookindia.com/rss/features/reviews</url>
+	</feed>
+	<feed>
+		<name> Books</name>
+		<url>http://outlookindia.com/rss/section/books</url>
+	</feed>
+	<feed>
+		<name> Books</name>
+		<url>http://www.business-standard.com/rss/beyond-business-books-10405.rss</url>
+	</feed>
+	<feed>
+		<name> Books &amp; Ideas</name>
+		<url>http://www.business-standard.com/rss/management-books-ideas-10704.rss</url>
+	</feed>
+	<feed>
+		<name> Business</name>
+		<url>http://kannadaprabha.com/sectionrss-5.html</url>
+	</feed>
+	<feed>
+		<name> Business</name>
+		<url>http://outlookindia.com/rss/section/business</url>
+	</feed>
+	<feed>
+		<name> Business Law &amp; Taxation</name>
+		<url>http://www.business-standard.com/rss/opinion-business-law-taxation-10512.rss</url>
+	</feed>
+	<feed>
+		<name> Business Standard</name>
+		<url>http://newsrack.in/crawled.feeds/bs.rss.xml</url>
+	</feed>
+	<feed>
+		<name> CNN-IBN Top Stories</name>
+		<url>http://www.ibnlive.com/xml/top.xml</url>
+	</feed>
+	<feed>
+		<name> CNN-IBN: Business</name>
+		<url>http://www.ibnlive.com/xml/rss/business.xml</url>
+	</feed>
+	<feed>
+		<name> CNN-IBN: Health</name>
+		<url>http://www.ibnlive.com/xml/rss/health.xml</url>
+	</feed>
+	<feed>
+		<name> CNN-IBN: India</name>
+		<url>http://www.ibnlive.com/xml/rss/india.xml</url>
+	</feed>
+	<feed>
+		<name> CNN-IBN: Lifestyle</name>
+		<url>http://www.ibnlive.com/xml/rss/lifestyle.xml</url>
+	</feed>
+	<feed>
+		<name> CNN-IBN: Politics</name>
+		<url>http://www.ibnlive.com/xml/rss/politics.xml</url>
+	</feed>
+	<feed>
+		<name> CNN-IBN: Sci-Tech</name>
+		<url>http://www.ibnlive.com/xml/rss/sci-tech.xml</url>
+	</feed>
+	<feed>
+		<name> CNN-IBN: Showbiz</name>
+		<url>http://www.ibnlive.com/xml/rss/showbiz.xml</url>
+	</feed>
+	<feed>
+		<name> CNN-IBN: Sports</name>
+		<url>http://www.ibnlive.com/xml/rss/sports.xml</url>
+	</feed>
+	<feed>
+		<name> CNN-IBN: World</name>
+		<url>http://www.ibnlive.com/xml/rss/world.xml</url>
+	</feed>
+	<feed>
+		<name> CRICKET: Columnists</name>
+		<url>http://cricket.indiatimes.com/rssfeeds/865590.cms</url>
+	</feed>
+	<feed>
+		<name> CRICKET: Features</name>
+		<url>http://cricket.indiatimes.com/rssfeeds/865566.cms</url>
+	</feed>
+	<feed>
+		<name> CRICKET: Indian Cricket News</name>
+		<url>http://cricket.indiatimes.com/rssfeeds/865073.cms</url>
+	</feed>
+	<feed>
+		<name> CRICKET: International News</name>
+		<url>http://cricket.indiatimes.com/rssfeeds/865209.cms</url>
+	</feed>
+	<feed>
+		<name> CRICKET: Interviews</name>
+		<url>http://cricket.indiatimes.com/rssfeeds/865632.cms</url>
+	</feed>
+	<feed>
+		<name> CRICKET: News</name>
+		<url>http://cricket.indiatimes.com/rssfeeds/864838.cms</url>
+	</feed>
+	<feed>
+		<name> Central Chronicle</name>
+		<url>http://www.centralchronicle.com/feed</url>
+	</feed>
+	<feed>
+		<name> Central Chronicle Â» Bhopal</name>
+		<url>http://www.centralchronicle.com/bhopal-news/feed</url>
+	</feed>
+	<feed>
+		<name> Central Chronicle Â» Business</name>
+		<url>http://www.centralchronicle.com/business-news/feed</url>
+	</feed>
+	<feed>
+		<name> Central Chronicle Â» Editorial</name>
+		<url>http://www.centralchronicle.com/editorial/feed</url>
+	</feed>
+	<feed>
+		<name> Central Chronicle Â» Madhya Pradesh</name>
+		<url>http://www.centralchronicle.com/madhya-pradesh-news/feed</url>
+	</feed>
+	<feed>
+		<name> Central Chronicle Â» Nation</name>
+		<url>http://www.centralchronicle.com/national-news/feed</url>
+	</feed>
+	<feed>
+		<name> Central Chronicle Â» Photo Gallery</name>
+		<url>http://www.centralchronicle.com/photogallery/feed</url>
+	</feed>
+	<feed>
+		<name> Central Chronicle Â» Technology</name>
+		<url>http://www.centralchronicle.com/technology-news/feed</url>
+	</feed>
+	<feed>
+		<name> Chamarajanagar</name>
+		<url>http://kannadaprabha.com/sectionrss-138.html</url>
+	</feed>
+	<feed>
+		<name> Chikkamagalur</name>
+		<url>http://kannadaprabha.com/sectionrss-139.html</url>
+	</feed>
+	<feed>
+		<name> Chinese</name>
+		<url>http://www.business-standard.com/rss/opinion-chinese-10506.rss</url>
+	</feed>
+	<feed>
+		<name> Chitradurga</name>
+		<url>http://kannadaprabha.com/sectionrss-140.html</url>
+	</feed>
+	<feed>
+		<name> Cinema-Showbiz</name>
+		<url>http://www.business-standard.com/rss/news-ians-cinema-showbiz-15004.rss</url>
+	</feed>
+	<feed>
+		<name> Citizen Matters</name>
+		<url>http://bangalore.citizenmatters.in/rss</url>
+	</feed>
+	<feed>
+		<name> Columnists</name>
+		<url>http://www.business-standard.com/rss/finance-columnists-10307.rss</url>
+	</feed>
+	<feed>
+		<name> Columns</name>
+		<url>http://kannadaprabha.com/sectionrss-91.html</url>
+	</feed>
+	<feed>
+		<name> Columns</name>
+		<url>http://www.business-standard.com/rss/management-columns-10705.rss</url>
+	</feed>
+	<feed>
+		<name> Columns</name>
+		<url>http://www.business-standard.com/rss/beyond-business-columns-10408.rss</url>
+	</feed>
+	<feed>
+		<name> Columns</name>
+		<url>http://www.business-standard.com/rss/opinion-columns-10502.rss</url>
+	</feed>
+	<feed>
+		<name> Columns</name>
+		<url>http://www.business-standard.com/rss/current-affairs-columns-11504.rss</url>
+	</feed>
+	<feed>
+		<name> Commodities</name>
+		<url>http://www.business-standard.com/rss/markets-commodities-10608.rss</url>
+	</feed>
+	<feed>
+		<name> Cover Stories</name>
+		<url>http://outlookindia.com/rss/features/cover</url>
+	</feed>
+	<feed>
+		<name> DNA: Bangalore</name>
+		<url>http://newsrack.in/crawled.feeds/dna.blr.rss.xml</url>
+	</feed>
+	<feed>
+		<name> DNA: Evolutions</name>
+		<url>http://www.dnaindia.com/syndication/rss,catid-5.xml</url>
+	</feed>
+	<feed>
+		<name> DNA: Health</name>
+		<url>http://www.dnaindia.com/syndication/rss,catid-1058783.xml</url>
+	</feed>
+	<feed>
+		<name> DNA: India</name>
+		<url>http://www.dnaindia.com/syndication/rss,catID-2.xml</url>
+	</feed>
+	<feed>
+		<name> DNA: Money</name>
+		<url>http://www.dnaindia.com/syndication/rss,catID-4.xml</url>
+	</feed>
+	<feed>
+		<name> DNA: Mumbai</name>
+		<url>http://www.dnaindia.com/syndication/rss,catID-1.xml</url>
+	</feed>
+	<feed>
+		<name> DNA: Opinion</name>
+		<url>http://www.dnaindia.com/syndication/rss,catID-19.xml</url>
+	</feed>
+	<feed>
+		<name> DNA: Popular News</name>
+		<url>http://www.dnaindia.com/syndication/rss_popular.xml</url>
+	</feed>
+	<feed>
+		<name> DNA: Recent Columns</name>
+		<url>http://www.dnaindia.com/syndication/rss_column.xml</url>
+	</feed>
+	<feed>
+		<name> DNA: Top News</name>
+		<url>http://www.dnaindia.com/syndication/rss,catID-0.xml</url>
+	</feed>
+	<feed>
+		<name> DNA: Top News</name>
+		<url>http://www.dnaindia.com/syndication/rss_topnews.xml</url>
+	</feed>
+	<feed>
+		<name> DNA: Urban Tales</name>
+		<url>http://www.dnaindia.com/syndication/rss,catid-1122228.xml</url>
+	</feed>
+	<feed>
+		<name> DNA: Wide Angle</name>
+		<url>http://www.dnaindia.com/syndication/rss,catid-1148452.xml</url>
+	</feed>
+	<feed>
+		<name> Daily News &amp; Analysis</name>
+		<url>http://www.dnaindia.com/rss.xml</url>
+	</feed>
+	<feed>
+		<name> Dakshina Kannada</name>
+		<url>http://kannadaprabha.com/sectionrss-141.html</url>
+	</feed>
+	<feed>
+		<name> Davanagere</name>
+		<url>http://kannadaprabha.com/sectionrss-142.html</url>
+	</feed>
+	<feed>
+		<name> Deccan Chronicle: Bangalore</name>
+		<url>http://www.deccanchronicle.com/city/bengaluru/rss.xml</url>
+	</feed>
+	<feed>
+		<name> Deccan Chronicle: Business</name>
+		<url>http://www.deccanchronicle.com/rss/business/rss.xml</url>
+	</feed>
+	<feed>
+		<name> Deccan Chronicle: Cities</name>
+		<url>http://www.deccanchronicle.com/rss/cities/rss.xml</url>
+	</feed>
+	<feed>
+		<name> Deccan Chronicle: Comment</name>
+		<url>http://www.deccanchronicle.com/rss/dc-comment/rss.xml</url>
+	</feed>
+	<feed>
+		<name> Deccan Chronicle: Education</name>
+		<url>http://www.deccanchronicle.com/rss/Education/rss.xml</url>
+	</feed>
+	<feed>
+		<name> Deccan Chronicle: Lifestyle</name>
+		<url>http://www.deccanchronicle.com/rss/lifestyle/rss.xml</url>
+	</feed>
+	<feed>
+		<name> Deccan Chronicle: Nation</name>
+		<url>http://www.deccanchronicle.com/rss/nation/rss.xml</url>
+	</feed>
+	<feed>
+		<name> Deccan Chronicle: Op Ed</name>
+		<url>http://www.deccanchronicle.com/rss/Op-ed/rss.xml</url>
+	</feed>
+	<feed>
+		<name> Deccan Chronicle: Sci/Tech</name>
+		<url>http://www.deccanchronicle.com/rss/SCI-TECH/rss.xml</url>
+	</feed>
+	<feed>
+		<name> Deccan Chronicle: Showbiz</name>
+		<url>http://www.deccanchronicle.com/rss/Showbiz/rss.xml</url>
+	</feed>
+	<feed>
+		<name> Deccan Chronicle: Sport</name>
+		<url>http://www.deccanchronicle.com/rss/sports/rss.xml</url>
+	</feed>
+	<feed>
+		<name> Deccan Chronicle: Teens</name>
+		<url>http://www.deccanchronicle.com/rss/Teens/rss.xml</url>
+	</feed>
+	<feed>
+		<name> Deccan Chronicle: World</name>
+		<url>http://www.deccanchronicle.com/rss/world/rss.xml</url>
+	</feed>
+	<feed>
+		<name> Deccan Herald - Analysis</name>
+		<url>http://www.deccanherald.com/rss/analysis.rss</url>
+	</feed>
+	<feed>
+		<name> Deccan Herald - Business</name>
+		<url>http://www.deccanherald.com/rss/business.rss</url>
+	</feed>
+	<feed>
+		<name> Deccan Herald - Columns</name>
+		<url>http://www.deccanherald.com/rss/columns.rss</url>
+	</feed>
+	<feed>
+		<name> Deccan Herald - Entertainment</name>
+		<url>http://www.deccanherald.com/rss/entertainment.rss</url>
+	</feed>
+	<feed>
+		<name> Deccan Herald - New Delhi</name>
+		<url>http://www.deccanherald.com/rss/delhi.rss</url>
+	</feed>
+	<feed>
+		<name> Deccan Herald - Opinion</name>
+		<url>http://www.deccanherald.com/rss/opinion.rss</url>
+	</feed>
+	<feed>
+		<name> Deccan Herald - Sports</name>
+		<url>http://www.deccanherald.com/rss/sports.rss</url>
+	</feed>
+	<feed>
+		<name> Deccan Herald - Supplements</name>
+		<url>http://www.deccanherald.com/rss/supplements.rss</url>
+	</feed>
+	<feed>
+		<name> Defence</name>
+		<url>http://www.business-standard.com/rss/specials-defence-11901.rss</url>
+	</feed>
+	<feed>
+		<name> Defence</name>
+		<url>http://www.business-standard.com/rss/specials-defence-10974.rss</url>
+	</feed>
+	<feed>
+		<name> Dharwad</name>
+		<url>http://kannadaprabha.com/sectionrss-143.html</url>
+	</feed>
+	<feed>
+		<name> Doordarshan</name>
+		<url>http://www.ddinews.gov.in/rssCMS</url>
+	</feed>
+	<feed>
+		<name> Down to Earth</name>
+		<url>http://www.downtoearth.org.in/rss.xml</url>
+	</feed>
+	<feed>
+		<name> ET: Advertising</name>
+		<url>http://economictimes.indiatimes.com/rssfeeds/13357077.cms</url>
+	</feed>
+	<feed>
+		<name> ET: Agriculture</name>
+		<url>http://economictimes.indiatimes.com/rssfeeds/1202099874.cms</url>
+	</feed>
+	<feed>
+		<name> ET: Auto</name>
+		<url>http://economictimes.indiatimes.com/rssfeeds/13359675.cms</url>
+	</feed>
+	<feed>
+		<name> ET: BPO</name>
+		<url>http://economictimes.indiatimes.com/rssfeeds/26865660.cms</url>
+	</feed>
+	<feed>
+		<name> ET: Banking</name>
+		<url>http://economictimes.indiatimes.com/rssfeeds/13358319.cms</url>
+	</feed>
+	<feed>
+		<name> ET: Big Bucks: Investment</name>
+		<url>http://economictimes.indiatimes.com/rssfeeds/2026181286.cms</url>
+	</feed>
+	<feed>
+		<name> ET: Biotech</name>
+		<url>http://economictimes.indiatimes.com/rssfeeds/13358090.cms</url>
+	</feed>
+	<feed>
+		<name> ET: Brand Equity</name>
+		<url>http://economictimes.indiatimes.com/rssfeeds/287662.cms</url>
+	</feed>
+	<feed>
+		<name> ET: Cars</name>
+		<url>http://economictimes.indiatimes.com/rssfeeds/575221.cms</url>
+	</feed>
+	<feed>
+		<name> ET: Consultancy / Audit</name>
+		<url>http://economictimes.indiatimes.com/rssfeeds/13357085.cms</url>
+	</feed>
+	<feed>
+		<name> ET: Consumer Products</name>
+		<url>http://economictimes.indiatimes.com/rssfeeds/13358859.cms</url>
+	</feed>
+	<feed>
+		<name> ET: Corporate Dossier</name>
+		<url>http://economictimes.indiatimes.com/rssfeeds/121385957.cms</url>
+	</feed>
+	<feed>
+		<name> ET: Economy/Finance</name>
+		<url>http://economictimes.indiatimes.com/rssfeeds/1286551815.cms</url>
+	</feed>
+	<feed>
+		<name> ET: Education</name>
+		<url>http://economictimes.indiatimes.com/rssfeeds/25466841.cms</url>
+	</feed>
+	<feed>
+		<name> ET: Electronics</name>
+		<url>http://economictimes.indiatimes.com/rssfeeds/13358854.cms</url>
+	</feed>
+	<feed>
+		<name> ET: Engineering</name>
+		<url>http://economictimes.indiatimes.com/rssfeeds/13357919.cms</url>
+	</feed>
+	<feed>
+		<name> ET: Entertainment</name>
+		<url>http://economictimes.indiatimes.com/rssfeeds/13357410.cms</url>
+	</feed>
+	<feed>
+		<name> ET: FMCG</name>
+		<url>http://economictimes.indiatimes.com/rssfeeds/13358807.cms</url>
+	</feed>
+	<feed>
+		<name> ET: Fashion / Cosmetics</name>
+		<url>http://economictimes.indiatimes.com/rssfeeds/13358817.cms</url>
+	</feed>
+	<feed>
+		<name> ET: Finance / Insurance</name>
+		<url>http://economictimes.indiatimes.com/rssfeeds/13358311.cms</url>
+	</feed>
+	<feed>
+		<name> ET: Food</name>
+		<url>http://economictimes.indiatimes.com/rssfeeds/13358793.cms</url>
+	</feed>
+	<feed>
+		<name> ET: Foreign Trade</name>
+		<url>http://economictimes.indiatimes.com/rssfeeds/1200949414.cms</url>
+	</feed>
+	<feed>
+		<name> ET: Gadgets</name>
+		<url>http://economictimes.indiatimes.com/rssfeeds/129134.cms</url>
+	</feed>
+	<feed>
+		<name> ET: Global Markets</name>
+		<url>http://economictimes.indiatimes.com/rssfeeds/12872390.cms</url>
+	</feed>
+	<feed>
+		<name> ET: Healthcare</name>
+		<url>http://economictimes.indiatimes.com/rssfeeds/13358070.cms</url>
+	</feed>
+	<feed>
+		<name> ET: IETS</name>
+		<url>http://economictimes.indiatimes.com/rssfeeds/40274504.cms</url>
+	</feed>
+	<feed>
+		<name> ET: IPOs</name>
+		<url>http://economictimes.indiatimes.com/rssfeeds/14655708.cms</url>
+	</feed>
+	<feed>
+		<name> ET: Indicators</name>
+		<url>http://economictimes.indiatimes.com/rssfeeds/344531568.cms</url>
+	</feed>
+	<feed>
+		<name> ET: Infotech</name>
+		<url>http://economictimes.indiatimes.com/rssfeeds/13357549.cms</url>
+	</feed>
+	<feed>
+		<name> ET: Infrastructure</name>
+		<url>http://economictimes.indiatimes.com/rssfeeds/1135557951.cms</url>
+	</feed>
+	<feed>
+		<name> ET: Insurance</name>
+		<url>http://economictimes.indiatimes.com/rssfeeds/13358304.cms</url>
+	</feed>
+	<feed>
+		<name> ET: Jobs</name>
+		<url>http://economictimes.indiatimes.com/rssfeeds/107115.cms</url>
+	</feed>
+	<feed>
+		<name> ET: Media</name>
+		<url>http://economictimes.indiatimes.com/rssfeeds/13357396.cms</url>
+	</feed>
+	<feed>
+		<name> ET: Mutual Funds</name>
+		<url>http://economictimes.indiatimes.com/rssfeeds/1107225967.cms</url>
+	</feed>
+	<feed>
+		<name> ET: Oil &amp; Gas</name>
+		<url>http://economictimes.indiatimes.com/rssfeeds/13358368.cms</url>
+	</feed>
+	<feed>
+		<name> ET: Opinion</name>
+		<url>http://economictimes.indiatimes.com/rssfeeds/897228639.cms</url>
+	</feed>
+	<feed>
+		<name> ET: Petrochem</name>
+		<url>http://economictimes.indiatimes.com/rssfeeds/13357719.cms</url>
+	</feed>
+	<feed>
+		<name> ET: Pharma</name>
+		<url>http://economictimes.indiatimes.com/rssfeeds/13358057.cms</url>
+	</feed>
+	<feed>
+		<name> ET: Policy</name>
+		<url>http://economictimes.indiatimes.com/rssfeeds/1106944246.cms</url>
+	</feed>
+	<feed>
+		<name> ET: Power</name>
+		<url>http://economictimes.indiatimes.com/rssfeeds/13358361.cms</url>
+	</feed>
+	<feed>
+		<name> ET: Retailing</name>
+		<url>http://economictimes.indiatimes.com/rssfeeds/13356992.cms</url>
+	</feed>
+	<feed>
+		<name> ET: Software</name>
+		<url>http://economictimes.indiatimes.com/rssfeeds/13357555.cms</url>
+	</feed>
+	<feed>
+		<name> ET: Steel</name>
+		<url>http://economictimes.indiatimes.com/rssfeeds/13357699.cms</url>
+	</feed>
+	<feed>
+		<name> ET: Stocks News</name>
+		<url>http://economictimes.indiatimes.com/rssfeeds/14655678.cms</url>
+	</feed>
+	<feed>
+		<name> ET: Telecom</name>
+		<url>http://economictimes.indiatimes.com/rssfeeds/542990.cms</url>
+	</feed>
+	<feed>
+		<name> ET: Transportation</name>
+		<url>http://economictimes.indiatimes.com/rssfeeds/13354027.cms</url>
+	</feed>
+	<feed>
+		<name> ET: Travel</name>
+		<url>http://economictimes.indiatimes.com/rssfeeds/13356984.cms</url>
+	</feed>
+	<feed>
+		<name> ET: Two Wheelers</name>
+		<url>http://economictimes.indiatimes.com/rssfeeds/13359633.cms</url>
+	</feed>
+	<feed>
+		<name> Economic Survey 2013</name>
+		<url>http://www.business-standard.com/rss/budget-economic-survey-2013-11006.rss</url>
+	</feed>
+	<feed>
+		<name> Editorial</name>
+		<url>http://www.business-standard.com/rss/opinion-editorial-10501.rss</url>
+	</feed>
+	<feed>
+		<name> Editorial</name>
+		<url>http://kannadaprabha.com/sectionrss-38.html</url>
+	</feed>
+	<feed>
+		<name> Editorials</name>
+		<url>http://www.business-standard.com/rss/finance-editorials-10308.rss</url>
+	</feed>
+	<feed>
+		<name> Edits</name>
+		<url>http://www.business-standard.com/rss/current-affairs-edits-11505.rss</url>
+	</feed>
+	<feed>
+		<name> Education</name>
+		<url>http://www.business-standard.com/rss/news-ians-education-15009.rss</url>
+	</feed>
+	<feed>
+		<name> Essays</name>
+		<url>http://outlookindia.com/rss/features/essays</url>
+	</feed>
+	<feed>
+		<name> Express India-- Front Page</name>
+		<url>http://www.expressindia.com/syndications/ei.xml</url>
+	</feed>
+	<feed>
+		<name> Feature</name>
+		<url>http://kannadaprabha.com/sectionrss-177.html</url>
+	</feed>
+	<feed>
+		<name> Features</name>
+		<url>http://www.business-standard.com/rss/pf-features-11402.rss</url>
+	</feed>
+	<feed>
+		<name> Features</name>
+		<url>http://www.business-standard.com/rss/finance-features-10302.rss</url>
+	</feed>
+	<feed>
+		<name> Features</name>
+		<url>http://www.business-standard.com/rss/beyond-business-features-10402.rss</url>
+	</feed>
+	<feed>
+		<name> Features</name>
+		<url>http://www.business-standard.com/rss/companies-features-10102.rss</url>
+	</feed>
+	<feed>
+		<name> Features</name>
+		<url>http://www.business-standard.com/rss/international-features-11602.rss</url>
+	</feed>
+	<feed>
+		<name> Features</name>
+		<url>http://www.business-standard.com/rss/economy-policy-features-10202.rss</url>
+	</feed>
+	<feed>
+		<name> Features</name>
+		<url>http://www.business-standard.com/rss/markets-features-10610.rss</url>
+	</feed>
+	<feed>
+		<name> Features</name>
+		<url>http://www.business-standard.com/rss/management-features-10702.rss</url>
+	</feed>
+	<feed>
+		<name> Features</name>
+		<url>http://www.business-standard.com/rss/technology-features-10802.rss</url>
+	</feed>
+	<feed>
+		<name> Features</name>
+		<url>http://www.business-standard.com/rss/current-affairs-features-11502.rss</url>
+	</feed>
+	<feed>
+		<name> Financial Chronicle</name>
+		<url>http://www.mydigitalfc.com/rss.xml</url>
+	</feed>
+	<feed>
+		<name> Financial Express: Front Page</name>
+		<url>http://www.expressindia.com/syndications/fe.xml</url>
+	</feed>
+	<feed>
+		<name> Financial Times India</name>
+		<url>http://www.ft.com/rss/world/asiapacific/india</url>
+	</feed>
+	<feed>
+		<name> Financial Times India: Business</name>
+		<url>http://www.ft.com/rss/world/asiapacific/india/business</url>
+	</feed>
+	<feed>
+		<name> Financial Times India: Economy</name>
+		<url>http://www.ft.com/rss/world/asiapacific/india/economy</url>
+	</feed>
+	<feed>
+		<name> Financial Times India: Finance</name>
+		<url>http://www.ft.com/rss/world/asiapacific/india/finance</url>
+	</feed>
+	<feed>
+		<name> Financial Times India: Politics</name>
+		<url>http://www.ft.com/rss/world/asiapacific/india/politics</url>
+	</feed>
+	<feed>
+		<name> Financial Times India: Regulation</name>
+		<url>http://www.ft.com/rss/world/asiapacific/india/regulation</url>
+	</feed>
+	<feed>
+		<name> Financial Times India: Society</name>
+		<url>http://www.ft.com/rss/world/asiapacific/india/society</url>
+	</feed>
+	<feed>
+		<name> Financial X-Ray</name>
+		<url>http://www.business-standard.com/rss/opinion-financial-x-ray-10503.rss</url>
+	</feed>
+	<feed>
+		<name> FirstPost: Blogs</name>
+		<url>http://www.firstpost.com/blogs/feed</url>
+	</feed>
+	<feed>
+		<name> FirstPost: Bollywood</name>
+		<url>http://www.firstpost.com/bollywood/feed</url>
+	</feed>
+	<feed>
+		<name> FirstPost: Business</name>
+		<url>http://www.firstpost.com/business/feed</url>
+	</feed>
+	<feed>
+		<name> FirstPost: Economy</name>
+		<url>http://www.firstpost.com/economy/feed</url>
+	</feed>
+	<feed>
+		<name> FirstPost: India</name>
+		<url>http://www.firstpost.com/india/feed</url>
+	</feed>
+	<feed>
+		<name> FirstPost: Investing</name>
+		<url>http://www.firstpost.com/investing/feed</url>
+	</feed>
+	<feed>
+		<name> FirstPost: Life</name>
+		<url>http://www.firstpost.com/living/feed</url>
+	</feed>
+	<feed>
+		<name> FirstPost: Mumbai</name>
+		<url>http://www.firstpost.com/mumbai/feed</url>
+	</feed>
+	<feed>
+		<name> FirstPost: New Delhi</name>
+		<url>http://www.firstpost.com/delhi/feed</url>
+	</feed>
+	<feed>
+		<name> FirstPost: Politics</name>
+		<url>http://www.firstpost.com/politics/feed</url>
+	</feed>
+	<feed>
+		<name> FirstPost: Sports</name>
+		<url>http://www.firstpost.com/sports/feed</url>
+	</feed>
+	<feed>
+		<name> FirstPost: Tech</name>
+		<url>http://www.firstpost.com/tech/feed</url>
+	</feed>
+	<feed>
+		<name> FirstPost: Travel</name>
+		<url>http://www.firstpost.com/travel/feed</url>
+	</feed>
+	<feed>
+		<name> FirstPost: World</name>
+		<url>http://www.firstpost.com/world/feed</url>
+	</feed>
+	<feed>
+		<name> FirstPost: Youspeak</name>
+		<url>http://www.firstpost.com/youspeak/feed</url>
+	</feed>
+	<feed>
+		<name> Forbes India</name>
+		<url>http://business.in.com/rssfeed/rss_all.xml</url>
+	</feed>
+	<feed>
+		<name> Free Press Journal: Bhopal</name>
+		<url>http://freepressjournal.in/?cat=1235&amp;amp%3Bfeed=rss2</url>
+	</feed>
+	<feed>
+		<name> Free Press Journal: Books</name>
+		<url>http://freepressjournal.in/?cat=1225&amp;amp%3Bfeed=rss2</url>
+	</feed>
+	<feed>
+		<name> Free Press Journal: Business</name>
+		<url>http://freepressjournal.in/?cat=1151&amp;amp%3Bfeed=rss2</url>
+	</feed>
+	<feed>
+		<name> Free Press Journal: Edit</name>
+		<url>http://freepressjournal.in/?cat=1234&amp;amp%3Bfeed=rss2</url>
+	</feed>
+	<feed>
+		<name> Free Press Journal: Education</name>
+		<url>http://freepressjournal.in/?cat=1309&amp;amp%3Bfeed=rss2</url>
+	</feed>
+	<feed>
+		<name> Free Press Journal: Etcetra</name>
+		<url>http://freepressjournal.in/?cat=1142&amp;amp%3Bfeed=rss2</url>
+	</feed>
+	<feed>
+		<name> Free Press Journal: Film Reviews</name>
+		<url>http://freepressjournal.in/?cat=1308&amp;amp%3Bfeed=rss2</url>
+	</feed>
+	<feed>
+		<name> Free Press Journal: Food</name>
+		<url>http://freepressjournal.in/?cat=1230&amp;amp%3Bfeed=rss2</url>
+	</feed>
+	<feed>
+		<name> Free Press Journal: Glam</name>
+		<url>http://freepressjournal.in/?cat=1240&amp;amp%3Bfeed=rss2</url>
+	</feed>
+	<feed>
+		<name> Free Press Journal: Indore</name>
+		<url>http://freepressjournal.in/?cat=1236&amp;amp%3Bfeed=rss2</url>
+	</feed>
+	<feed>
+		<name> Free Press Journal: Interview</name>
+		<url>http://freepressjournal.in/?cat=1182&amp;amp%3Bfeed=rss2</url>
+	</feed>
+	<feed>
+		<name> Free Press Journal: Life-Style</name>
+		<url>http://freepressjournal.in/?cat=1229&amp;amp%3Bfeed=rss2</url>
+	</feed>
+	<feed>
+		<name> Free Press Journal: Mumbai</name>
+		<url>http://freepressjournal.in/?cat=1237&amp;amp%3Bfeed=rss2</url>
+	</feed>
+	<feed>
+		<name> Free Press Journal: Nation</name>
+		<url>http://freepressjournal.in/?cat=1239&amp;amp%3Bfeed=rss2</url>
+	</feed>
+	<feed>
+		<name> Free Press Journal: Product Launches</name>
+		<url>http://freepressjournal.in/?cat=1256&amp;amp%3Bfeed=rss2</url>
+	</feed>
+	<feed>
+		<name> Free Press Journal: Sports</name>
+		<url>http://freepressjournal.in/?cat=1155&amp;amp%3Bfeed=rss2</url>
+	</feed>
+	<feed>
+		<name> Free Press Journal: Technology</name>
+		<url>http://freepressjournal.in/?cat=1209&amp;amp%3Bfeed=rss2</url>
+	</feed>
+	<feed>
+		<name> Free Press Journal: Travel</name>
+		<url>http://freepressjournal.in/?cat=1231&amp;amp%3Bfeed=rss2</url>
+	</feed>
+	<feed>
+		<name> Free Press Journal: Ujjain</name>
+		<url>http://freepressjournal.in/?cat=1140&amp;amp%3Bfeed=rss2</url>
+	</feed>
+	<feed>
+		<name> Free Press Journal: Web Special</name>
+		<url>http://freepressjournal.in/?cat=1303&amp;amp%3Bfeed=rss2</url>
+	</feed>
+	<feed>
+		<name> Free Press Journal: Weekend</name>
+		<url>http://freepressjournal.in/?cat=1255&amp;amp%3Bfeed=rss2</url>
+	</feed>
+	<feed>
+		<name> Free Press Journal: Weekend Guide</name>
+		<url>http://freepressjournal.in/?cat=1257&amp;amp%3Bfeed=rss2</url>
+	</feed>
+	<feed>
+		<name> Free Press Journal: Whatâ€™s Up</name>
+		<url>http://freepressjournal.in/?cat=1307&amp;amp%3Bfeed=rss2</url>
+	</feed>
+	<feed>
+		<name> Free Press Journal: World</name>
+		<url>http://freepressjournal.in/?cat=1238&amp;amp%3Bfeed=rss2</url>
+	</feed>
+	<feed>
+		<name> Free Press Journal: Zest</name>
+		<url>http://freepressjournal.in/?cat=1228&amp;amp%3Bfeed=rss2</url>
+	</feed>
+	<feed>
+		<name> FrontLine: Archives</name>
+		<url>http://www.frontline.in/magazine/?service=rss</url>
+	</feed>
+	<feed>
+		<name> FrontLine: Art</name>
+		<url>http://www.frontline.in/arts-and-culture/art/?service=rss</url>
+	</feed>
+	<feed>
+		<name> FrontLine: Arts &amp; Culture</name>
+		<url>http://www.frontline.in/arts-and-culture/?service=rss</url>
+	</feed>
+	<feed>
+		<name> FrontLine: Books</name>
+		<url>http://www.frontline.in/books/?service=rss</url>
+	</feed>
+	<feed>
+		<name> FrontLine: C.P. Chandrasekhar</name>
+		<url>http://www.frontline.in/columns/C_P_Chandrasekhar/?service=rss</url>
+	</feed>
+	<feed>
+		<name> FrontLine: Cinema</name>
+		<url>http://www.frontline.in/arts-and-culture/cinema/?service=rss</url>
+	</feed>
+	<feed>
+		<name> FrontLine: Columns</name>
+		<url>http://www.frontline.in/columns/?service=rss</url>
+	</feed>
+	<feed>
+		<name> FrontLine: Conservation</name>
+		<url>http://www.frontline.in/environment/conservation/?service=rss</url>
+	</feed>
+	<feed>
+		<name> FrontLine: Cover Story</name>
+		<url>http://www.frontline.in/cover-story/?service=rss</url>
+	</feed>
+	<feed>
+		<name> FrontLine: Data Card</name>
+		<url>http://www.frontline.in/other/data-card/?service=rss</url>
+	</feed>
+	<feed>
+		<name> FrontLine: Economy</name>
+		<url>http://www.frontline.in/economy/?service=rss</url>
+	</feed>
+	<feed>
+		<name> FrontLine: Environment</name>
+		<url>http://www.frontline.in/environment/?service=rss</url>
+	</feed>
+	<feed>
+		<name> FrontLine: General Issues</name>
+		<url>http://www.frontline.in/social-issues/general-issues/?service=rss</url>
+	</feed>
+	<feed>
+		<name> FrontLine: Heritage</name>
+		<url>http://www.frontline.in/arts-and-culture/heritage/?service=rss</url>
+	</feed>
+	<feed>
+		<name> FrontLine: Home</name>
+		<url>http://www.frontline.in/?service=rss</url>
+	</feed>
+	<feed>
+		<name> FrontLine: Jayati Ghosh</name>
+		<url>http://www.frontline.in/columns/Jayati_Ghosh/?service=rss</url>
+	</feed>
+	<feed>
+		<name> FrontLine: K.Satchidanandan</name>
+		<url>http://www.frontline.in/columns/K_Satchidanandan/?service=rss</url>
+	</feed>
+	<feed>
+		<name> FrontLine: Letters</name>
+		<url>http://www.frontline.in/other/letters/?service=rss</url>
+	</feed>
+	<feed>
+		<name> FrontLine: Literature</name>
+		<url>http://www.frontline.in/arts-and-culture/literature/?service=rss</url>
+	</feed>
+	<feed>
+		<name> FrontLine: Music</name>
+		<url>http://www.frontline.in/arts-and-culture/music/?service=rss</url>
+	</feed>
+	<feed>
+		<name> FrontLine: Obituary</name>
+		<url>http://www.frontline.in/other/obituary/?service=rss</url>
+	</feed>
+	<feed>
+		<name> FrontLine: Other</name>
+		<url>http://www.frontline.in/other/?service=rss</url>
+	</feed>
+	<feed>
+		<name> FrontLine: Politics</name>
+		<url>http://www.frontline.in/politics/?service=rss</url>
+	</feed>
+	<feed>
+		<name> FrontLine: Sashi Kumar</name>
+		<url>http://www.frontline.in/columns/Sashi_Kumar/?service=rss</url>
+	</feed>
+	<feed>
+		<name> FrontLine: Science &amp; Technology</name>
+		<url>http://www.frontline.in/science-and-technology/?service=rss</url>
+	</feed>
+	<feed>
+		<name> FrontLine: Social Issues</name>
+		<url>http://www.frontline.in/social-issues/?service=rss</url>
+	</feed>
+	<feed>
+		<name> FrontLine: Social Justice</name>
+		<url>http://www.frontline.in/social-issues/social-justice/?service=rss</url>
+	</feed>
+	<feed>
+		<name> FrontLine: Sport</name>
+		<url>http://www.frontline.in/other/sport/?service=rss</url>
+	</feed>
+	<feed>
+		<name> FrontLine: The Nation</name>
+		<url>http://www.frontline.in/the-nation/?service=rss</url>
+	</feed>
+	<feed>
+		<name> FrontLine: Wildlife</name>
+		<url>http://www.frontline.in/environment/wild-life/?service=rss</url>
+	</feed>
+	<feed>
+		<name> FrontLine: World Affairs</name>
+		<url>http://www.frontline.in/world-affairs/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Frontline</name>
+		<url>http://newsrack.in/crawled.feeds/frontline.rss.xml</url>
+	</feed>
+	<feed>
+		<name> Gadag</name>
+		<url>http://kannadaprabha.com/sectionrss-144.html</url>
+	</feed>
+	<feed>
+		<name> Gadgets &amp; Gizmos</name>
+		<url>http://www.business-standard.com/rss/technology-gadgets-gizmos-10810.rss</url>
+	</feed>
+	<feed>
+		<name> Good News India</name>
+		<url>http://goodnewsindia.com/index.php/Supplement/rss/</url>
+	</feed>
+	<feed>
+		<name> GovernanceNow: Backstory</name>
+		<url>http://www.governancenow.com/views/back-story/rss.xml</url>
+	</feed>
+	<feed>
+		<name> GovernanceNow: Bureaucracy</name>
+		<url>http://www.governancenow.com/gov-now/bureaucracy/rss.xml</url>
+	</feed>
+	<feed>
+		<name> GovernanceNow: Columns</name>
+		<url>http://www.governancenow.com/views/columns/rss.xml</url>
+	</feed>
+	<feed>
+		<name> GovernanceNow: Day's Debate</name>
+		<url>http://www.governancenow.com/views/days-debate/rss.xml</url>
+	</feed>
+	<feed>
+		<name> GovernanceNow: GNtalk</name>
+		<url>http://www.governancenow.com/views/gntalk/rss.xml</url>
+	</feed>
+	<feed>
+		<name> GovernanceNow: GNtv</name>
+		<url>http://www.governancenow.com/news/gntv/rss.xml</url>
+	</feed>
+	<feed>
+		<name> GovernanceNow: GovNext</name>
+		<url>http://www.governancenow.com/gov-next/rss.xml</url>
+	</feed>
+	<feed>
+		<name> GovernanceNow: GovNow</name>
+		<url>http://www.governancenow.com/gov-now/rss.xml</url>
+	</feed>
+	<feed>
+		<name> GovernanceNow: Interview</name>
+		<url>http://www.governancenow.com/views/interview/rss.xml</url>
+	</feed>
+	<feed>
+		<name> GovernanceNow: Judiciary</name>
+		<url>http://www.governancenow.com/gov-now/judiciary/rss.xml</url>
+	</feed>
+	<feed>
+		<name> GovernanceNow: News</name>
+		<url>http://www.governancenow.com/news/rss.xml</url>
+	</feed>
+	<feed>
+		<name> GovernanceNow: Parliament</name>
+		<url>http://www.governancenow.com/gov-now/parliament/rss.xml</url>
+	</feed>
+	<feed>
+		<name> GovernanceNow: Photo Story</name>
+		<url>http://www.governancenow.com/news/photo-stories/rss.xml</url>
+	</feed>
+	<feed>
+		<name> GovernanceNow: Policy</name>
+		<url>http://www.governancenow.com/gov-now/policy/rss.xml</url>
+	</feed>
+	<feed>
+		<name> GovernanceNow: Protests &amp; Petitions</name>
+		<url>http://www.governancenow.com/news/Protests-and-Petitions/rss.xml</url>
+	</feed>
+	<feed>
+		<name> GovernanceNow: Public Reporter</name>
+		<url>http://www.governancenow.com/news/public-reporter/rss.xml</url>
+	</feed>
+	<feed>
+		<name> GovernanceNow: RTI</name>
+		<url>http://www.governancenow.com/gov-next/rti/rss.xml</url>
+	</feed>
+	<feed>
+		<name> GovernanceNow: Think Tank</name>
+		<url>http://www.governancenow.com/views/think-tank/rss.xml</url>
+	</feed>
+	<feed>
+		<name> GovernanceNow: Top Stories</name>
+		<url>http://www.governancenow.com/news/top-stories/rss.xml</url>
+	</feed>
+	<feed>
+		<name> GovernanceNow: Views</name>
+		<url>http://www.governancenow.com/views/rss.xml</url>
+	</feed>
+	<feed>
+		<name> GovernanceNow: Your MP</name>
+		<url>http://www.governancenow.com/gov-now/your-mp/rss.xml</url>
+	</feed>
+	<feed>
+		<name> GovernanceNow: eGov</name>
+		<url>http://www.governancenow.com/gov-next/egov/rss.xml</url>
+	</feed>
+	<feed>
+		<name> Govt of India: PIB Hindi</name>
+		<url>http://pib.nic.in/newsite/rsshindi.aspx</url>
+	</feed>
+	<feed>
+		<name> Govt of india: PIB</name>
+		<url>http://pib.nic.in/newsite/rssenglish.aspx</url>
+	</feed>
+	<feed>
+		<name> Govt of india: PIB Features</name>
+		<url>http://pib.nic.in/newsite/rssenglish_fea.aspx</url>
+	</feed>
+	<feed>
+		<name> Govt of india: PIB Hindi Features</name>
+		<url>http://pib.nic.in/newsite/rsshindi_fea.aspx</url>
+	</feed>
+	<feed>
+		<name> Gulbarga</name>
+		<url>http://kannadaprabha.com/sectionrss-145.html</url>
+	</feed>
+	<feed>
+		<name> HBL: Agri-biz</name>
+		<url>http://www.thehindubusinessline.com/industry-and-economy/agri-biz/?service=rss</url>
+	</feed>
+	<feed>
+		<name> HBL: Announcements</name>
+		<url>http://www.thehindubusinessline.com/companies/announcements/?service=rss</url>
+	</feed>
+	<feed>
+		<name> HBL: Automobiles</name>
+		<url>http://www.thehindubusinessline.com/features/smartbuy/automobiles/?service=rss</url>
+	</feed>
+	<feed>
+		<name> HBL: Banking</name>
+		<url>http://www.thehindubusinessline.com/industry-and-economy/banking/?service=rss</url>
+	</feed>
+	<feed>
+		<name> HBL: BrandLine</name>
+		<url>http://www.thehindubusinessline.com/features/brandline/?service=rss</url>
+	</feed>
+	<feed>
+		<name> HBL: Cartoons</name>
+		<url>http://www.thehindubusinessline.com/opinion/cartoons/?service=rss</url>
+	</feed>
+	<feed>
+		<name> HBL: Columns</name>
+		<url>http://www.thehindubusinessline.com/opinion/columns/?service=rss</url>
+	</feed>
+	<feed>
+		<name> HBL: Commodities</name>
+		<url>http://www.thehindubusinessline.com/markets/commodities/?service=rss</url>
+	</feed>
+	<feed>
+		<name> HBL: Companies</name>
+		<url>http://www.thehindubusinessline.com/companies/?service=rss</url>
+	</feed>
+	<feed>
+		<name> HBL: Disclosures</name>
+		<url>http://www.thehindubusinessline.com/companies/announcements/disclosures/?service=rss</url>
+	</feed>
+	<feed>
+		<name> HBL: Economy</name>
+		<url>http://www.thehindubusinessline.com/industry-and-economy/economy/?service=rss</url>
+	</feed>
+	<feed>
+		<name> HBL: Editorial</name>
+		<url>http://www.thehindubusinessline.com/opinion/editorial/?service=rss</url>
+	</feed>
+	<feed>
+		<name> HBL: Features</name>
+		<url>http://www.thehindubusinessline.com/features/?service=rss</url>
+	</feed>
+	<feed>
+		<name> HBL: Gaming</name>
+		<url>http://www.thehindubusinessline.com/features/smartbuy/gaming/?service=rss</url>
+	</feed>
+	<feed>
+		<name> HBL: Gold</name>
+		<url>http://www.thehindubusinessline.com/markets/gold/?service=rss</url>
+	</feed>
+	<feed>
+		<name> HBL: Government &amp; Policy</name>
+		<url>http://www.thehindubusinessline.com/industry-and-economy/government-and-policy/?service=rss</url>
+	</feed>
+	<feed>
+		<name> HBL: Home</name>
+		<url>http://www.thehindubusinessline.com/?service=rss</url>
+	</feed>
+	<feed>
+		<name> HBL: Industry &amp; Economy</name>
+		<url>http://www.thehindubusinessline.com/industry-and-economy/?service=rss</url>
+	</feed>
+	<feed>
+		<name> HBL: Info-tech</name>
+		<url>http://www.thehindubusinessline.com/industry-and-economy/info-tech/?service=rss</url>
+	</feed>
+	<feed>
+		<name> HBL: Interiors</name>
+		<url>http://www.thehindubusinessline.com/features/smartbuy/interiors/?service=rss</url>
+	</feed>
+	<feed>
+		<name> HBL: Investment World</name>
+		<url>http://www.thehindubusinessline.com/features/investment-world/?service=rss</url>
+	</feed>
+	<feed>
+		<name> HBL: Laptops</name>
+		<url>http://www.thehindubusinessline.com/features/smartbuy/laptops/?service=rss</url>
+	</feed>
+	<feed>
+		<name> HBL: Letters</name>
+		<url>http://www.thehindubusinessline.com/opinion/letters/?service=rss</url>
+	</feed>
+	<feed>
+		<name> HBL: Life</name>
+		<url>http://www.thehindubusinessline.com/features/life/?service=rss</url>
+	</feed>
+	<feed>
+		<name> HBL: Logistics</name>
+		<url>http://www.thehindubusinessline.com/industry-and-economy/logistics/?service=rss</url>
+	</feed>
+	<feed>
+		<name> HBL: Luxury &amp; Fashion</name>
+		<url>http://www.thehindubusinessline.com/features/smartbuy/luxury-and-fashion/?service=rss</url>
+	</feed>
+	<feed>
+		<name> HBL: Market Strategy</name>
+		<url>http://www.thehindubusinessline.com/features/investment-world/market-strategy/?service=rss</url>
+	</feed>
+	<feed>
+		<name> HBL: Market Watch</name>
+		<url>http://www.thehindubusinessline.com/features/investment-world/market-watch/?service=rss</url>
+	</feed>
+	<feed>
+		<name> HBL: Marketing</name>
+		<url>http://www.thehindubusinessline.com/industry-and-economy/marketing/?service=rss</url>
+	</feed>
+	<feed>
+		<name> HBL: Markets</name>
+		<url>http://www.thehindubusinessline.com/markets/?service=rss</url>
+	</feed>
+	<feed>
+		<name> HBL: Mentor</name>
+		<url>http://www.thehindubusinessline.com/features/mentor/?service=rss</url>
+	</feed>
+	<feed>
+		<name> HBL: Mobile handsets</name>
+		<url>http://www.thehindubusinessline.com/features/smartbuy/mobile-handsets/?service=rss</url>
+	</feed>
+	<feed>
+		<name> HBL: Mutual Funds</name>
+		<url>http://www.thehindubusinessline.com/features/investment-world/mutual-funds/?service=rss</url>
+	</feed>
+	<feed>
+		<name> HBL: New Manager</name>
+		<url>http://www.thehindubusinessline.com/features/newmanager/?service=rss</url>
+	</feed>
+	<feed>
+		<name> HBL: Opinion</name>
+		<url>http://www.thehindubusinessline.com/opinion/?service=rss</url>
+	</feed>
+	<feed>
+		<name> HBL: Other Gadgets</name>
+		<url>http://www.thehindubusinessline.com/features/smartbuy/other-gadgets/?service=rss</url>
+	</feed>
+	<feed>
+		<name> HBL: Others</name>
+		<url>http://www.thehindubusinessline.com/companies/announcements/others/?service=rss</url>
+	</feed>
+	<feed>
+		<name> HBL: Personal Finance</name>
+		<url>http://www.thehindubusinessline.com/features/investment-world/personal-finance/?service=rss</url>
+	</feed>
+	<feed>
+		<name> HBL: Results</name>
+		<url>http://www.thehindubusinessline.com/companies/announcements/results/?service=rss</url>
+	</feed>
+	<feed>
+		<name> HBL: Shipping News</name>
+		<url>http://www.thehindubusinessline.com/industry-and-economy/shipping-news/?service=rss</url>
+	</feed>
+	<feed>
+		<name> HBL: Smartbuy</name>
+		<url>http://www.thehindubusinessline.com/features/smartbuy/?service=rss</url>
+	</feed>
+	<feed>
+		<name> HBL: Stock Insight</name>
+		<url>http://www.thehindubusinessline.com/features/investment-world/stock-insight/?service=rss</url>
+	</feed>
+	<feed>
+		<name> HBL: Stock Markets</name>
+		<url>http://www.thehindubusinessline.com/markets/stock-markets/?service=rss</url>
+	</feed>
+	<feed>
+		<name> HBL: Taxation &amp; Accounts</name>
+		<url>http://www.thehindubusinessline.com/industry-and-economy/taxation-and-accounts/?service=rss</url>
+	</feed>
+	<feed>
+		<name> HBL: Today's Pick</name>
+		<url>http://www.thehindubusinessline.com/markets/todays-pick/?service=rss</url>
+	</feed>
+	<feed>
+		<name> HBL: Watches &amp; Jewellery</name>
+		<url>http://www.thehindubusinessline.com/features/smartbuy/watches-and-jewellery/?service=rss</url>
+	</feed>
+	<feed>
+		<name> HBL: Wines &amp; Malts</name>
+		<url>http://www.thehindubusinessline.com/features/smartbuy/wines-and-malts/?service=rss</url>
+	</feed>
+	<feed>
+		<name> HBL: Young Investor</name>
+		<url>http://www.thehindubusinessline.com/features/investment-world/young-investor/?service=rss</url>
+	</feed>
+	<feed>
+		<name> HBL: eWorld</name>
+		<url>http://www.thehindubusinessline.com/features/eworld/?service=rss</url>
+	</feed>
+	<feed>
+		<name> HT: Business Interviews</name>
+		<url>http://feeds.hindustantimes.com/HT-BusinessSectionpage-Interviews</url>
+	</feed>
+	<feed>
+		<name> HT: Columns</name>
+		<url>http://feeds.hindustantimes.com/HT-ViewsColumnsSectionPage-TopColumns</url>
+	</feed>
+	<feed>
+		<name> HT: Corporate</name>
+		<url>http://feeds.hindustantimes.com/HT-BusinessSectionpage-Corporate</url>
+	</feed>
+	<feed>
+		<name> HT: Economy</name>
+		<url>http://feeds.hindustantimes.com/HT-BusinessSectionpage-Economy</url>
+	</feed>
+	<feed>
+		<name> HT: Editorial</name>
+		<url>http://feeds.hindustantimes.com/HT-ViewsSectionpage-Edits</url>
+	</feed>
+	<feed>
+		<name> HT: Interviews</name>
+		<url>http://feeds.hindustantimes.com/HT-ViewsInterviewsSectionPage-TopStories</url>
+	</feed>
+	<feed>
+		<name> HT: Markets</name>
+		<url>http://feeds.hindustantimes.com/HT-BusinessSectionpage-Markets</url>
+	</feed>
+	<feed>
+		<name> HardNews</name>
+		<url>http://www.hardnewsmedia.com/rss.xml</url>
+	</feed>
+	<feed>
+		<name> Hassan</name>
+		<url>http://kannadaprabha.com/sectionrss-146.html</url>
+	</feed>
+	<feed>
+		<name> Haveri</name>
+		<url>http://kannadaprabha.com/sectionrss-147.html</url>
+	</feed>
+	<feed>
+		<name> Health-Lifestyle</name>
+		<url>http://kannadaprabha.com/sectionrss-164.html</url>
+	</feed>
+	<feed>
+		<name> HimVani</name>
+		<url>http://feeds.feedburner.com/himvani/news</url>
+	</feed>
+	<feed>
+		<name> Hindu: Agriculture</name>
+		<url>http://www.thehindu.com/sci-tech/agriculture/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Andhra Pradesh</name>
+		<url>http://www.thehindu.com/news/states/andhra-pradesh/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Art</name>
+		<url>http://www.thehindu.com/arts/art/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Arts</name>
+		<url>http://www.thehindu.com/arts/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Athletics</name>
+		<url>http://www.thehindu.com/sport/athletics/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Bangalore</name>
+		<url>http://www.thehindu.com/news/cities/Bangalore/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Books</name>
+		<url>http://www.thehindu.com/arts/books/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Business</name>
+		<url>http://www.thehindu.com/business/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Careers</name>
+		<url>http://www.thehindu.com/education/careers/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Cartoon</name>
+		<url>http://www.thehindu.com/opinion/cartoon/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Chennai</name>
+		<url>http://www.thehindu.com/news/cities/Chennai/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Cinema</name>
+		<url>http://www.thehindu.com/arts/cinema/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Cities</name>
+		<url>http://www.thehindu.com/news/cities/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Coimbatore</name>
+		<url>http://www.thehindu.com/news/cities/Coimbatore/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: College &amp; University</name>
+		<url>http://www.thehindu.com/education/college-and-university/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Columns</name>
+		<url>http://www.thehindu.com/opinion/columns/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Companies</name>
+		<url>http://www.thehindu.com/business/companies/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Crafts</name>
+		<url>http://www.thehindu.com/arts/crafts/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Cricket</name>
+		<url>http://www.thehindu.com/sport/cricket/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Dance</name>
+		<url>http://www.thehindu.com/arts/dance/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Delhi</name>
+		<url>http://www.thehindu.com/news/cities/Delhi/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Diet &amp; Nutrition</name>
+		<url>http://www.thehindu.com/health/diet-and-nutrition/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Economy</name>
+		<url>http://www.thehindu.com/business/Economy/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Editorial</name>
+		<url>http://www.thehindu.com/opinion/editorial/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Education</name>
+		<url>http://www.thehindu.com/education/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Energy &amp; Environment</name>
+		<url>http://www.thehindu.com/sci-tech/energy-and-environment/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Fashion</name>
+		<url>http://www.thehindu.com/life-and-style/fashion/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Fitness</name>
+		<url>http://www.thehindu.com/health/fitness/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Food</name>
+		<url>http://www.thehindu.com/life-and-style/Food/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Football</name>
+		<url>http://www.thehindu.com/sport/football/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Gadgets</name>
+		<url>http://www.thehindu.com/sci-tech/gadgets/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Health</name>
+		<url>http://www.thehindu.com/health/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: History &amp; Culture</name>
+		<url>http://www.thehindu.com/arts/history-and-culture/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Hockey</name>
+		<url>http://www.thehindu.com/sport/hockey/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Home</name>
+		<url>http://www.thehindu.com/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Homes &amp; Gardens</name>
+		<url>http://www.thehindu.com/life-and-style/homes-and-gardens/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Hyderabad</name>
+		<url>http://www.thehindu.com/news/cities/Hyderabad/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Industry</name>
+		<url>http://www.thehindu.com/business/Industry/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: International</name>
+		<url>http://www.thehindu.com/news/international/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Internet</name>
+		<url>http://www.thehindu.com/sci-tech/internet/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Interview</name>
+		<url>http://www.thehindu.com/opinion/interview/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Issues</name>
+		<url>http://www.thehindu.com/education/issues/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Karnataka</name>
+		<url>http://www.thehindu.com/news/states/karnataka/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Kerala</name>
+		<url>http://www.thehindu.com/news/states/kerala/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Kids</name>
+		<url>http://www.thehindu.com/life-and-style/kids/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Kochi</name>
+		<url>http://www.thehindu.com/news/cities/Kochi/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Lead</name>
+		<url>http://www.thehindu.com/opinion/lead/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Leisure</name>
+		<url>http://www.thehindu.com/life-and-style/leisure/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Letters</name>
+		<url>http://www.thehindu.com/opinion/letters/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Life &amp; Style</name>
+		<url>http://www.thehindu.com/life-and-style/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Madurai</name>
+		<url>http://www.thehindu.com/news/cities/Madurai/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Magazine</name>
+		<url>http://www.thehindu.com/arts/magazine/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Mangalore</name>
+		<url>http://www.thehindu.com/news/cities/Mangalore/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Markets</name>
+		<url>http://www.thehindu.com/business/markets/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Medicine &amp; Research</name>
+		<url>http://www.thehindu.com/health/medicine-and-research/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Metroplus</name>
+		<url>http://www.thehindu.com/life-and-style/metroplus/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Money &amp; Careers</name>
+		<url>http://www.thehindu.com/life-and-style/money-and-careers/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Motoring</name>
+		<url>http://www.thehindu.com/life-and-style/Motoring/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Motorsport</name>
+		<url>http://www.thehindu.com/sport/motorsport/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Music</name>
+		<url>http://www.thehindu.com/arts/music/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: National</name>
+		<url>http://www.thehindu.com/news/national/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: News</name>
+		<url>http://www.thehindu.com/news/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Nxg</name>
+		<url>http://www.thehindu.com/life-and-style/nxg/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Obituary</name>
+		<url>http://www.thehindu.com/obituary/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Op-Ed</name>
+		<url>http://www.thehindu.com/opinion/op-ed/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Open Page</name>
+		<url>http://www.thehindu.com/opinion/open-page/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Opinion</name>
+		<url>http://www.thehindu.com/opinion/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Other Sports</name>
+		<url>http://www.thehindu.com/sport/other-sports/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Other States</name>
+		<url>http://www.thehindu.com/news/states/other-states/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Policy &amp; Issues</name>
+		<url>http://www.thehindu.com/health/policy-and-issues/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Races</name>
+		<url>http://www.thehindu.com/sport/races/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Radio &amp; TV</name>
+		<url>http://www.thehindu.com/arts/radio-and-tv/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Readers' Editor</name>
+		<url>http://www.thehindu.com/opinion/Readers-Editor/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Religion</name>
+		<url>http://www.thehindu.com/life-and-style/religion/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Research</name>
+		<url>http://www.thehindu.com/education/research/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Rx</name>
+		<url>http://www.thehindu.com/health/rx/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: S &amp; T</name>
+		<url>http://www.thehindu.com/sci-tech/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: School</name>
+		<url>http://www.thehindu.com/education/school/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Science</name>
+		<url>http://www.thehindu.com/sci-tech/science/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Society</name>
+		<url>http://www.thehindu.com/life-and-style/society/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Sport</name>
+		<url>http://www.thehindu.com/sport/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: States</name>
+		<url>http://www.thehindu.com/news/states/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Tamil Nadu</name>
+		<url>http://www.thehindu.com/news/states/tamil-nadu/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Technology</name>
+		<url>http://www.thehindu.com/sci-tech/technology/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Tennis</name>
+		<url>http://www.thehindu.com/sport/tennis/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Theatre</name>
+		<url>http://www.thehindu.com/arts/theatre/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Thiruvananthapuram</name>
+		<url>http://www.thehindu.com/news/cities/Thiruvananthapuram/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Tiruchirapalli</name>
+		<url>http://www.thehindu.com/news/cities/Tiruchirapalli/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Travel</name>
+		<url>http://www.thehindu.com/life-and-style/travel/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Vijayawada</name>
+		<url>http://www.thehindu.com/news/cities/Vijayawada/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Visakhapatnam</name>
+		<url>http://www.thehindu.com/news/cities/Visakhapatnam/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindu: Youth</name>
+		<url>http://www.thehindu.com/life-and-style/youth/?service=rss</url>
+	</feed>
+	<feed>
+		<name> Hindustan Times</name>
+		<url>http://newsrack.in/crawled.feeds/ht.rss.xml</url>
+	</feed>
+	<feed>
+		<name> Hindustan Times: Business</name>
+		<url>http://feeds.hindustantimes.com/HT-BusinessSectionpage-TopStories</url>
+	</feed>
+	<feed>
+		<name> Hindustan Times: Cricket</name>
+		<url>http://feeds.hindustantimes.com/HT-Cricket-TopStories</url>
+	</feed>
+	<feed>
+		<name> Hindustan Times: Cricket Columns</name>
+		<url>http://feeds.hindustantimes.com/HT-Cricket-Columns</url>
+	</feed>
+	<feed>
+		<name> Hindustan Times: India</name>
+		<url>http://feeds.hindustantimes.com/HT-IndiaSectionPage-Topstories</url>
+	</feed>
+	<feed>
+		<name> Hindustan Times: Indians Abroad</name>
+		<url>http://feeds.hindustantimes.com/HT-IndiansAbroad-Topstories</url>
+	</feed>
+	<feed>
+		<name> Hindustan Times: Latest</name>
+		<url>http://www.hindustantimes.com/RSSFeed/RssFeed.ashx?c=Common-Chunk-HT-UI-Common-LatestNews</url>
+	</feed>
+	<feed>
+		<name> Hindustan Times: Lifestyle</name>
+		<url>http://feeds.hindustantimes.com/HT-Homepage-LifestyleNews</url>
+	</feed>
+	<feed>
+		<name> Hindustan Times: News</name>
+		<url>http://feeds.hindustantimes.com/HT-NewsSectionPage-Topstories</url>
+	</feed>
+	<feed>
+		<name> Hindustan Times: Top Stories</name>
+		<url>http://feeds.hindustantimes.com/HT-HomePage-TopStories</url>
+	</feed>
+	<feed>
+		<name> Hindustan Times: Views</name>
+		<url>http://feeds.hindustantimes.com/HT-ViewsSectionpage-Topstories</url>
+	</feed>
+	<feed>
+		<name> Hindustan Times: World</name>
+		<url>http://feeds.hindustantimes.com/HT-WorldSectionPage-Topstories</url>
+	</feed>
+	<feed>
+		<name> Horanadu Kannadiga</name>
+		<url>http://kannadaprabha.com/sectionrss-114.html</url>
+	</feed>
+	<feed>
+		<name> IE: Banking News</name>
+		<url>http://syndication.indianexpress.com/rss/796/banking.xml</url>
+	</feed>
+	<feed>
+		<name> IE: Columns</name>
+		<url>http://syndication.indianexpress.com/rss/43/columns.xml</url>
+	</feed>
+	<feed>
+		<name> IE: Corporate News</name>
+		<url>http://syndication.indianexpress.com/rss/795/corporate.xml</url>
+	</feed>
+	<feed>
+		<name> IE: Economy News</name>
+		<url>http://syndication.indianexpress.com/rss/794/economy.xml</url>
+	</feed>
+	<feed>
+		<name> IE: From the fields</name>
+		<url>http://syndication.indianexpress.com/rss/72/from-the-fields.xml</url>
+	</feed>
+	<feed>
+		<name> IE: Kolkata</name>
+		<url>http://syndication.indianexpress.com/rss/708/kolkata.xml</url>
+	</feed>
+	<feed>
+		<name> IE: Latest News</name>
+		<url>http://syndication.indianexpress.com/rss/885/latest-news.xml</url>
+	</feed>
+	<feed>
+		<name> IE: Latest News</name>
+		<url>http://syndication.indianexpress.com/rss/789/latest-news.xml</url>
+	</feed>
+	<feed>
+		<name> IE: Markets</name>
+		<url>http://syndication.indianexpress.com/rss/793/markets.xml</url>
+	</feed>
+	<feed>
+		<name> IE: Money</name>
+		<url>http://syndication.indianexpress.com/rss/772/money.xml</url>
+	</feed>
+	<feed>
+		<name> IE: Politics</name>
+		<url>http://syndication.indianexpress.com/rss/799/politics.xml</url>
+	</feed>
+	<feed>
+		<name> IE: Regional News</name>
+		<url>http://syndication.indianexpress.com/rss/800/regional.xml</url>
+	</feed>
+	<feed>
+		<name> IE: Regional News</name>
+		<url>http://syndication.indianexpress.com/rss/889/regional.xml</url>
+	</feed>
+	<feed>
+		<name> IE: Science &amp; Technology</name>
+		<url>http://syndication.indianexpress.com/rss/698/science-&amp;-technology.xml</url>
+	</feed>
+	<feed>
+		<name> IPOs</name>
+		<url>http://www.business-standard.com/rss/markets-ipos-10611.rss</url>
+	</feed>
+	<feed>
+		<name> IndLaw News</name>
+		<url>http://www.indlawnews.com/rss/rss.ashx?id=2</url>
+	</feed>
+	<feed>
+		<name> India Today | February 13</name>
+		<url>http://indiatoday.intoday.in/rss/issue.jsp</url>
+	</feed>
+	<feed>
+		<name> India Today| Cover Story</name>
+		<url>http://indiatoday.intoday.in/rss/article.jsp?sid=30</url>
+	</feed>
+	<feed>
+		<name> India Today| ECONOMY</name>
+		<url>http://indiatoday.intoday.in/rss/article.jsp?sid=34</url>
+	</feed>
+	<feed>
+		<name> India Today| EYECATCHERS</name>
+		<url>http://indiatoday.intoday.in/rss/article.jsp?sid=2</url>
+	</feed>
+	<feed>
+		<name> India Today| Glass House</name>
+		<url>http://indiatoday.intoday.in/rss/article.jsp?sid=146</url>
+	</feed>
+	<feed>
+		<name> India Today| International</name>
+		<url>http://indiatoday.intoday.in/rss/article.jsp?sid=61</url>
+	</feed>
+	<feed>
+		<name> India Today| Must Read</name>
+		<url>http://indiatoday.intoday.in/rss/article.jsp?sid=4</url>
+	</feed>
+	<feed>
+		<name> India Today| NATION</name>
+		<url>http://indiatoday.intoday.in/rss/article.jsp?sid=36</url>
+	</feed>
+	<feed>
+		<name> India Today| OFFTRACK</name>
+		<url>http://indiatoday.intoday.in/rss/article.jsp?sid=24</url>
+	</feed>
+	<feed>
+		<name> India Today| SOCIETY &amp; THE ARTS</name>
+		<url>http://indiatoday.intoday.in/rss/article.jsp?sid=25</url>
+	</feed>
+	<feed>
+		<name> India Today| SPORT</name>
+		<url>http://indiatoday.intoday.in/rss/article.jsp?sid=41</url>
+	</feed>
+	<feed>
+		<name> India Today| STATES</name>
+		<url>http://indiatoday.intoday.in/rss/article.jsp?sid=21</url>
+	</feed>
+	<feed>
+		<name> India Today| YOUR WEEK</name>
+		<url>http://indiatoday.intoday.in/rss/article.jsp?sid=27</url>
+	</feed>
+	<feed>
+		<name> India Together</name>
+		<url>http://www.indiatogether.org/rss/home.xml</url>
+	</feed>
+	<feed>
+		<name> India Together - Agriculture</name>
+		<url>http://www.indiatogether.org/rss/agriculture/home.xml</url>
+	</feed>
+	<feed>
+		<name> India Together - Economy</name>
+		<url>http://www.indiatogether.org/rss/economy/home.xml</url>
+	</feed>
+	<feed>
+		<name> India Together - Education</name>
+		<url>http://www.indiatogether.org/rss/education/home.xml</url>
+	</feed>
+	<feed>
+		<name> India Together - Environment</name>
+		<url>http://www.indiatogether.org/rss/environment/home.xml</url>
+	</feed>
+	<feed>
+		<name> India Together - Women</name>
+		<url>http://www.indiatogether.org/rss/women/home.xml</url>
+	</feed>
+	<feed>
+		<name> India eNews: Business</name>
+		<url>http://feeds.feedburner.com/IndiaBusinessNews</url>
+	</feed>
+	<feed>
+		<name> India eNews: Politics</name>
+		<url>http://feeds.feedburner.com/IndiaPoliticsNews</url>
+	</feed>
+	<feed>
+		<name> India eNews: Top Headlines</name>
+		<url>http://feeds.feedburner.com/IndiaLatestNews</url>
+	</feed>
+	<feed>
+		<name> IndiaInfo.com</name>
+		<url>http://rss.indiainfo.com/news.xml</url>
+	</feed>
+	<feed>
+		<name> Indian Express: Ahmedabad</name>
+		<url>http://www.indianexpress.com/rss/711/ahmedabad.xml</url>
+	</feed>
+	<feed>
+		<name> Indian Express: Business</name>
+		<url>http://www.indianexpress.com/rss/37/business.xml</url>
+	</feed>
+	<feed>
+		<name> Indian Express: Business</name>
+		<url>http://www.indianexpress.com/rss/694/business.xml</url>
+	</feed>
+	<feed>
+		<name> Indian Express: Chandigarh</name>
+		<url>http://www.indianexpress.com/rss/710/chandigarh.xml</url>
+	</feed>
+	<feed>
+		<name> Indian Express: Columns</name>
+		<url>http://www.indianexpress.com/rss/35/edits-&amp;-columns.xml</url>
+	</feed>
+	<feed>
+		<name> Indian Express: Delhi</name>
+		<url>http://www.indianexpress.com/rss/705/delhi.xml</url>
+	</feed>
+	<feed>
+		<name> Indian Express: Front Page</name>
+		<url>http://www.indianexpress.com/rss/33/front-page.xml</url>
+	</feed>
+	<feed>
+		<name> Indian Express: Health</name>
+		<url>http://www.indianexpress.com/rss/697/health.xml</url>
+	</feed>
+	<feed>
+		<name> Indian Express: India</name>
+		<url>http://www.indianexpress.com/rss/721/india.xml</url>
+	</feed>
+	<feed>
+		<name> Indian Express: Infotech</name>
+		<url>http://www.indianexpress.com/rss/698/infotech.xml</url>
+	</feed>
+	<feed>
+		<name> Indian Express: International</name>
+		<url>http://www.indianexpress.com/rss/38/international.xml</url>
+	</feed>
+	<feed>
+		<name> Indian Express: Latest</name>
+		<url>http://www.indianexpress.com/rss/latest-news.xml</url>
+	</feed>
+	<feed>
+		<name> Indian Express: Lucknow</name>
+		<url>http://www.indianexpress.com/rss/712/lucknow.xml</url>
+	</feed>
+	<feed>
+		<name> Indian Express: Ludhiana</name>
+		<url>http://www.indianexpress.com/rss/709/ludhiana.xml</url>
+	</feed>
+	<feed>
+		<name> Indian Express: Mumbai</name>
+		<url>http://www.indianexpress.com/rss/707/mumbai.xml</url>
+	</feed>
+	<feed>
+		<name> Indian Express: Op-Ed</name>
+		<url>http://www.indianexpress.com/rss/36/oped.xml</url>
+	</feed>
+	<feed>
+		<name> Indian Express: Pune</name>
+		<url>http://www.indianexpress.com/rss/706/pune.xml</url>
+	</feed>
+	<feed>
+		<name> Indian Express: Sunday</name>
+		<url>http://www.indianexpress.com/rss/723/sunday-stories.xml</url>
+	</feed>
+	<feed>
+		<name> Indian Express: Web</name>
+		<url>http://www.indianexpress.com/rss/768/web-exclusive.xml</url>
+	</feed>
+	<feed>
+		<name> Indian Express: World</name>
+		<url>http://www.indianexpress.com/rss/695/world.xml</url>
+	</feed>
+	<feed>
+		<name> Infographics</name>
+		<url>http://www.business-standard.com/rss/international-infographics-11603.rss</url>
+	</feed>
+	<feed>
+		<name> Infographics</name>
+		<url>http://www.business-standard.com/rss/current-affairs-infographics-11509.rss</url>
+	</feed>
+	<feed>
+		<name> International</name>
+		<url>http://outlookindia.com/rss/section/international</url>
+	</feed>
+	<feed>
+		<name> Interviews</name>
+		<url>http://outlookindia.com/rss/features/interviews</url>
+	</feed>
+	<feed>
+		<name> Kalinga Times</name>
+		<url>http://www.kalingatimes.com/rss/news.xml</url>
+	</feed>
+	<feed>
+		<name> Kangla Online</name>
+		<url>http://newsrack.in/crawled.feeds/ko.rss.xml</url>
+	</feed>
+	<feed>
+		<name> Kodagu</name>
+		<url>http://kannadaprabha.com/sectionrss-148.html</url>
+	</feed>
+	<feed>
+		<name> Kolar</name>
+		<url>http://kannadaprabha.com/sectionrss-149.html</url>
+	</feed>
+	<feed>
+		<name> Koppal</name>
+		<url>http://kannadaprabha.com/sectionrss-150.html</url>
+	</feed>
+	<feed>
+		<name> Latest News</name>
+		<url>http://www.business-standard.com/rss/latest.rss</url>
+	</feed>
+	<feed>
+		<name> Latest News</name>
+		<url>http://kannadaprabha.com/sectionrss-116.html</url>
+	</feed>
+	<feed>
+		<name> Lunch</name>
+		<url>http://www.business-standard.com/rss/opinion-lunch-10507.rss</url>
+	</feed>
+	<feed>
+		<name> Mandya</name>
+		<url>http://kannadaprabha.com/sectionrss-151.html</url>
+	</feed>
+	<feed>
+		<name> Manipur: E-Pao</name>
+		<url>http://newsrack.in/crawled.feeds/epao.rss.xml</url>
+	</feed>
+	<feed>
+		<name> Market News</name>
+		<url>http://www.business-standard.com/rss/market.rss</url>
+	</feed>
+	<feed>
+		<name> Meghalaya Times</name>
+		<url>http://meghalayatimes.info/index.php?format=feed&amp;type=rss</url>
+	</feed>
+	<feed>
+		<name> Mid Day</name>
+		<url>http://newsrack.in/crawled.feeds/midday.rss.xml</url>
+	</feed>
+	<feed>
+		<name> Mid Day: Columnists</name>
+		<url>http://www.mid-day.com/feed_api/rss/articles.php?section=news</url>
+	</feed>
+	<feed>
+		<name> Mid Day: Editorial</name>
+		<url>http://www.mid-day.com/feed_api/rss/articles.php?section=columnists%2Feditorial</url>
+	</feed>
+	<feed>
+		<name> Mid Day: Features</name>
+		<url>http://www.mid-day.com/feed_api/rss/articles.php?section=lifestyle%2Ffeatures</url>
+	</feed>
+	<feed>
+		<name> Mid Day: Health &amp; Fitness</name>
+		<url>http://www.mid-day.com/feed_api/rss/articles.php?section=lifestyle%2Fhealth</url>
+	</feed>
+	<feed>
+		<name> Mid Day: International</name>
+		<url>http://www.mid-day.com/feed_api/rss/articles.php?section=news%2Finternational</url>
+	</feed>
+	<feed>
+		<name> Mid Day: More columns</name>
+		<url>http://www.mid-day.com/feed_api/rss/articles.php?section=columnists%2Fothercolumnists</url>
+	</feed>
+	<feed>
+		<name> Mid Day: National</name>
+		<url>http://www.mid-day.com/feed_api/rss/articles.php?section=news%2Fnational</url>
+	</feed>
+	<feed>
+		<name> Mid Day: Review</name>
+		<url>http://www.mid-day.com/feed_api/rss/articles.php?section=entertainment%2Freview</url>
+	</feed>
+	<feed>
+		<name> Mint Columnist: Kalita</name>
+		<url>http://www.livemint.com/SectionRssfeed.aspx?Id=98</url>
+	</feed>
+	<feed>
+		<name> Mint Columnist: Nageswaran</name>
+		<url>http://www.livemint.com/SectionRssfeed.aspx?Id=95</url>
+	</feed>
+	<feed>
+		<name> Mint Columnist: Narayan</name>
+		<url>http://www.livemint.com/SectionRssfeed.aspx?Id=101</url>
+	</feed>
+	<feed>
+		<name> Mint Columnist: Rajadhyaksha</name>
+		<url>http://www.livemint.com/SectionRssfeed.aspx?Id=96</url>
+	</feed>
+	<feed>
+		<name> Mint Columnist: Ramanathan</name>
+		<url>http://www.livemint.com/SectionRssfeed.aspx?Id=99</url>
+	</feed>
+	<feed>
+		<name> Mint Columnist: S Narayan</name>
+		<url>http://www.livemint.com/SectionRssfeed.aspx?Id=94</url>
+	</feed>
+	<feed>
+		<name> Mint Columnist: Sandberg</name>
+		<url>http://www.livemint.com/SectionRssfeed.aspx?Id=102</url>
+	</feed>
+	<feed>
+		<name> Mint Columnist: Sanghvi</name>
+		<url>http://www.livemint.com/SectionRssfeed.aspx?Id=100</url>
+	</feed>
+	<feed>
+		<name> Mint Columnist: Varma</name>
+		<url>http://www.livemint.com/SectionRssfeed.aspx?Id=97</url>
+	</feed>
+	<feed>
+		<name> Mint: Agriculture</name>
+		<url>http://www.livemint.com/SectionRssfeed.aspx?Id=58</url>
+	</feed>
+	<feed>
+		<name> Mint: Budget and Corporates</name>
+		<url>http://www.livemint.com/SectionRssfeed.aspx?Id=78</url>
+	</feed>
+	<feed>
+		<name> Mint: Budget and Markets</name>
+		<url>http://www.livemint.com/SectionRssfeed.aspx?Id=79</url>
+	</feed>
+	<feed>
+		<name> Mint: Budget and Policy</name>
+		<url>http://www.livemint.com/SectionRssfeed.aspx?Id=76</url>
+	</feed>
+	<feed>
+		<name> Mint: Budget and You</name>
+		<url>http://www.livemint.com/SectionRssfeed.aspx?Id=77</url>
+	</feed>
+	<feed>
+		<name> Mint: Bureaucrats</name>
+		<url>http://www.livemint.com/SectionRssfeed.aspx?Id=54</url>
+	</feed>
+	<feed>
+		<name> Mint: Business People</name>
+		<url>http://www.livemint.com/SectionRssfeed.aspx?Id=52******</url>
+	</feed>
+	<feed>
+		<name> Mint: Human Development</name>
+		<url>http://www.livemint.com/SectionRssfeed.aspx?Id=59</url>
+	</feed>
+	<feed>
+		<name> Mint: Ideators</name>
+		<url>http://www.livemint.com/SectionRssfeed.aspx?Id=51</url>
+	</feed>
+	<feed>
+		<name> Mint: Indicators</name>
+		<url>http://www.livemint.com/SectionRssfeed.aspx?Id=60</url>
+	</feed>
+	<feed>
+		<name> Mint: Infrastructure</name>
+		<url>http://www.livemint.com/SectionRssfeed.aspx?Id=63</url>
+	</feed>
+	<feed>
+		<name> Mint: Latest</name>
+		<url>http://www.livemint.com/SectionRssfeed.aspx?LN=Latestnews</url>
+	</feed>
+	<feed>
+		<name> Mint: Other View</name>
+		<url>http://www.livemint.com/SectionRssfeed.aspx?Id=90</url>
+	</feed>
+	<feed>
+		<name> Mint: Our View</name>
+		<url>http://www.livemint.com/SectionRssfeed.aspx?Id=87</url>
+	</feed>
+	<feed>
+		<name> Mint: Policy Tracker</name>
+		<url>http://www.livemint.com/SectionRssfeed.aspx?Id=56</url>
+	</feed>
+	<feed>
+		<name> Mint: Political Economy</name>
+		<url>http://www.livemint.com/SectionRssfeed.aspx?Id=57</url>
+	</feed>
+	<feed>
+		<name> Mint: Quick Edit</name>
+		<url>http://www.livemint.com/SectionRssfeed.aspx?Id=92</url>
+	</feed>
+	<feed>
+		<name> Mint: Social Activists</name>
+		<url>http://www.livemint.com/SectionRssfeed.aspx?Id=53</url>
+	</feed>
+	<feed>
+		<name> Mint: The Indian Century</name>
+		<url>http://www.livemint.com/SectionRssfeed.aspx?Id=91</url>
+	</feed>
+	<feed>
+		<name> Mint: Their View</name>
+		<url>http://www.livemint.com/SectionRssfeed.aspx?Id=88</url>
+	</feed>
+	<feed>
+		<name> Mint: Your View</name>
+		<url>http://www.livemint.com/SectionRssfeed.aspx?Id=89</url>
+	</feed>
+	<feed>
+		<name> Moneylife</name>
+		<url>http://www.moneylife.in/site/rss.php</url>
+	</feed>
+	<feed>
+		<name> Morung Express</name>
+		<url>http://www.morungexpress.com/index.1.rss</url>
+	</feed>
+	<feed>
+		<name> Most Popular</name>
+		<url>http://www.business-standard.com/rss/most-viewed.rss</url>
+	</feed>
+	<feed>
+		<name> Motoring</name>
+		<url>http://www.business-standard.com/rss/beyond-business-motoring-10410.rss</url>
+	</feed>
+	<feed>
+		<name> Mysore</name>
+		<url>http://kannadaprabha.com/sectionrss-130.html</url>
+	</feed>
+	<feed>
+		<name> NDTV Business</name>
+		<url>http://www.ndtv.com/convergence/ndtv/rssbus.asp</url>
+	</feed>
+	<feed>
+		<name> NDTV National</name>
+		<url>http://www.ndtv.com/convergence/ndtv/rssnat.asp</url>
+	</feed>
+	<feed>
+		<name> NYT &gt; India</name>
+		<url>http://topics.nytimes.com/top/news/international/countriesandterritories/india/index.html?rss=1</url>
+	</feed>
+	<feed>
+		<name> Nation</name>
+		<url>http://kannadaprabha.com/sectionrss-4.html</url>
+	</feed>
+	<feed>
+		<name> National</name>
+		<url>http://outlookindia.com/rss/section/national</url>
+	</feed>
+	<feed>
+		<name> New Banking Licences</name>
+		<url>http://www.business-standard.com/rss/specials-new-banking-licences-10977.rss</url>
+	</feed>
+	<feed>
+		<name> New Indian Express</name>
+		<url>http://newsrack.in/crawled.feeds/nie.rss.xml</url>
+	</feed>
+	<feed>
+		<name> New Kerala: Andhra Pradesh</name>
+		<url>http://www.newkerala.com/andhra-pradesh-news.xml</url>
+	</feed>
+	<feed>
+		<name> New Kerala: Business India</name>
+		<url>http://www.newkerala.com/business-india-news.xml</url>
+	</feed>
+	<feed>
+		<name> New Kerala: Gujarat</name>
+		<url>http://www.newkerala.com/gujarat-news.xml</url>
+	</feed>
+	<feed>
+		<name> New Kerala: Health News</name>
+		<url>http://www.newkerala.com/health-news.xml</url>
+	</feed>
+	<feed>
+		<name> New Kerala: India News</name>
+		<url>http://www.newkerala.com/india-news.xml</url>
+	</feed>
+	<feed>
+		<name> New Kerala: Karnataka</name>
+		<url>http://www.newkerala.com/karnataka-news.xml</url>
+	</feed>
+	<feed>
+		<name> New Kerala: Kerala News</name>
+		<url>http://www.newkerala.com/kerala-news.xml</url>
+	</feed>
+	<feed>
+		<name> New Kerala: Maharashtra</name>
+		<url>http://www.newkerala.com/maharashtra-news.xml</url>
+	</feed>
+	<feed>
+		<name> New Kerala: Punjab</name>
+		<url>http://www.newkerala.com/punjab-news.xml</url>
+	</feed>
+	<feed>
+		<name> New Kerala: Sports India</name>
+		<url>http://www.newkerala.com/sports-news.xml</url>
+	</feed>
+	<feed>
+		<name> New Kerala: Tamil Nadu</name>
+		<url>http://www.newkerala.com/tamil-nadu-news.xml</url>
+	</feed>
+	<feed>
+		<name> New Kerala: Technology</name>
+		<url>http://www.newkerala.com/technology-news.xml</url>
+	</feed>
+	<feed>
+		<name> New Kerala: West Bengal</name>
+		<url>http://www.newkerala.com/west-bengal-news.xml</url>
+	</feed>
+	<feed>
+		<name> New Kerala: World News</name>
+		<url>http://www.newkerala.com/world-news.xml</url>
+	</feed>
+	<feed>
+		<name> News</name>
+		<url>http://www.business-standard.com/rss/finance-news-10301.rss</url>
+	</feed>
+	<feed>
+		<name> News</name>
+		<url>http://www.business-standard.com/rss/companies-news-10101.rss</url>
+	</feed>
+	<feed>
+		<name> News</name>
+		<url>http://www.business-standard.com/rss/markets-news-10601.rss</url>
+	</feed>
+	<feed>
+		<name> News</name>
+		<url>http://www.business-standard.com/rss/economy-policy-news-10201.rss</url>
+	</feed>
+	<feed>
+		<name> News</name>
+		<url>http://www.business-standard.com/rss/current-affairs-news-11501.rss</url>
+	</feed>
+	<feed>
+		<name> News</name>
+		<url>http://www.business-standard.com/rss/beyond-business-news-10401.rss</url>
+	</feed>
+	<feed>
+		<name> News</name>
+		<url>http://www.business-standard.com/rss/management-news-10701.rss</url>
+	</feed>
+	<feed>
+		<name> News</name>
+		<url>http://www.business-standard.com/rss/pf-news-11401.rss</url>
+	</feed>
+	<feed>
+		<name> News</name>
+		<url>http://www.business-standard.com/rss/international-news-11601.rss</url>
+	</feed>
+	<feed>
+		<name> News</name>
+		<url>http://kannadaprabha.com/sectionrss-178.html</url>
+	</feed>
+	<feed>
+		<name> News</name>
+		<url>http://www.business-standard.com/rss/technology-news-10801.rss</url>
+	</feed>
+	<feed>
+		<name> Oheraldo</name>
+		<url>http://newsrack.in/crawled.feeds/oh.rss.xml</url>
+	</feed>
+	<feed>
+		<name> One-Year MBA</name>
+		<url>http://www.business-standard.com/rss/specials-one-year-mba-10975.rss</url>
+	</feed>
+	<feed>
+		<name> Oneindia.in: News</name>
+		<url>http://feeds.feedburner.com/oneindia-all-news</url>
+	</feed>
+	<feed>
+		<name> Oneindia.in: Public Notices</name>
+		<url>http://feeds.feedburner.com/oneindia-all-pn</url>
+	</feed>
+	<feed>
+		<name> Only on Times Now</name>
+		<url>http://www.timesnow.tv/Sections/Only_On_TIMES_NOW/rssfeeds/1324302.cms</url>
+	</feed>
+	<feed>
+		<name> Opinion</name>
+		<url>http://outlookindia.com/rss/features/opinion</url>
+	</feed>
+	<feed>
+		<name> Opinion</name>
+		<url>http://www.business-standard.com/rss/markets-opinion-10613.rss</url>
+	</feed>
+	<feed>
+		<name> Opinion</name>
+		<url>http://www.business-standard.com/rss/economy-policy-opinion-10204.rss</url>
+	</feed>
+	<feed>
+		<name> Opinion</name>
+		<url>http://www.business-standard.com/rss/companies-opinion-10104.rss</url>
+	</feed>
+	<feed>
+		<name> Orissa Sambad (English)</name>
+		<url>http://newsrack.in/crawled.feeds/oseng.rss.xml</url>
+	</feed>
+	<feed>
+		<name> Outlook</name>
+		<url>http://newsrack.in/crawled.feeds/outlook.rss.xml</url>
+	</feed>
+	<feed>
+		<name> Outlook Business</name>
+		<url>http://outlookindia.com/rss/main/olb</url>
+	</feed>
+	<feed>
+		<name> Outlook Magazine</name>
+		<url>http://outlookindia.com/rss/main/magazine</url>
+	</feed>
+	<feed>
+		<name> Outlook Money</name>
+		<url>http://outlookindia.com/rss/main/olm</url>
+	</feed>
+	<feed>
+		<name> Outlook Profit</name>
+		<url>http://outlookindia.com/rss/main/olp</url>
+	</feed>
+	<feed>
+		<name> Outlook Traveller</name>
+		<url>http://outlookindia.com/rss/main/olt</url>
+	</feed>
+	<feed>
+		<name> Outlook Web</name>
+		<url>http://outlookindia.com/rss/main/web</url>
+	</feed>
+	<feed>
+		<name> Outlook Wires</name>
+		<url>http://outlookindia.com/rss/main/wires</url>
+	</feed>
+	<feed>
+		<name> PE/VC</name>
+		<url>http://www.business-standard.com/rss/specials-pe-vc-10976.rss</url>
+	</feed>
+	<feed>
+		<name> Patrika Hindi News - news:BusinessLatest</name>
+		<url>http://www.patrika.com/patrika-rss/2/cat</url>
+	</feed>
+	<feed>
+		<name> Patrika Hindi News - news:HealthLatest</name>
+		<url>http://www.patrika.com/patrika-rss/1229/cat</url>
+	</feed>
+	<feed>
+		<name> Patrika Hindi News - news:IndiaLatest</name>
+		<url>http://www.patrika.com/patrika-rss/5/cat</url>
+	</feed>
+	<feed>
+		<name> Patrika Hindi News - news:MagazineLatest</name>
+		<url>http://www.patrika.com/patrika-rss/1179/cat</url>
+	</feed>
+	<feed>
+		<name> Patrika Hindi News - news:OPINIONLatest</name>
+		<url>http://www.patrika.com/patrika-rss/1004/cat</url>
+	</feed>
+	<feed>
+		<name> Patrika Hindi News - news:Science &amp; TechLatest</name>
+		<url>http://www.patrika.com/patrika-rss/1002/cat</url>
+	</feed>
+	<feed>
+		<name> Patrika Hindi News - news:WorldLatest</name>
+		<url>http://www.patrika.com/patrika-rss/6/cat</url>
+	</feed>
+	<feed>
+		<name> Patrika's editor's choices</name>
+		<url>http://www.patrika.com/rss/editorspick.xml</url>
+	</feed>
+	<feed>
+		<name> People</name>
+		<url>http://www.business-standard.com/rss/beyond-business-people-10403.rss</url>
+	</feed>
+	<feed>
+		<name> People</name>
+		<url>http://www.business-standard.com/rss/management-people-10706.rss</url>
+	</feed>
+	<feed>
+		<name> People</name>
+		<url>http://www.business-standard.com/rss/opinion-people-10504.rss</url>
+	</feed>
+	<feed>
+		<name> People</name>
+		<url>http://www.business-standard.com/rss/current-affairs-people-11508.rss</url>
+	</feed>
+	<feed>
+		<name> People in News</name>
+		<url>http://www.business-standard.com/rss/companies-people-in-news-10109.rss</url>
+	</feed>
+	<feed>
+		<name> People in News</name>
+		<url>http://www.business-standard.com/rss/finance-people-in-news-10310.rss</url>
+	</feed>
+	<feed>
+		<name> People in News</name>
+		<url>http://www.business-standard.com/rss/economy-policy-people-in-news-10210.rss</url>
+	</feed>
+	<feed>
+		<name> People in News</name>
+		<url>http://www.business-standard.com/rss/markets-people-in-news-10615.rss</url>
+	</feed>
+	<feed>
+		<name> Personal Technology</name>
+		<url>http://www.business-standard.com/rss/technology-personal-10807.rss</url>
+	</feed>
+	<feed>
+		<name> Pharma Policy</name>
+		<url>http://www.business-standard.com/rss/specials-pharma-policy-10980.rss</url>
+	</feed>
+	<feed>
+		<name> Political Turmoil</name>
+		<url>http://www.business-standard.com/rss/specials-political-turmoil-10979.rss</url>
+	</feed>
+	<feed>
+		<name> Politics</name>
+		<url>http://kannadaprabha.com/sectionrss-128.html</url>
+	</feed>
+	<feed>
+		<name> Polls</name>
+		<url>http://www.business-standard.com/rss/current-affairs-polls-11507.rss</url>
+	</feed>
+	<feed>
+		<name> Portraits</name>
+		<url>http://outlookindia.com/rss/features/portraits</url>
+	</feed>
+	<feed>
+		<name> Prajavani: à²²à³ˆà²«à³ à²¸à³à²Ÿà³ˆà²²à³</name>
+		<url>http://www.prajavani.net/web/include/feeds.php?news=33</url>
+	</feed>
+	<feed>
+		<name> Prajavani: à²®à³à²–à²ªà³à²Ÿ</name>
+		<url>http://www.prajavani.net/web/include/feeds.php?news=home</url>
+	</feed>
+	<feed>
+		<name> Prajavani: à²…à²‚à²¤à²ƒà²•à²°à²£/ à²¡à²¾. à²†à²¶à²¾ à²¬à³†à²¨à²•à²ªà³à²ª</name>
+		<url>http://www.prajavani.net/web/include/feeds.php?news=182</url>
+	</feed>
+	<feed>
+		<name> Prajavani: à²…à²‚à²¤à²°à²‚à²— | à²•à³à²²à²¦à³€à²ª à²¨à²¯à³à²¯à²°à³</name>
+		<url>http://www.prajavani.net/web/include/feeds.php?news=150</url>
+	</feed>
+	<feed>
+		<name> Prajavani: à²…à²‚à²¤à²°à²¾à²³</name>
+		<url>http://www.prajavani.net/web/include/feeds.php?news=51</url>
+	</feed>
+	<feed>
+		<name> Prajavani: à²…à²¨à²¾à²µà²°à²£ | à²¦à²¿à²¨à³‡à²¶à³ à²…à²®à³€à²¨à³ à²®à²Ÿà³à²Ÿà³</name>
+		<url>http://www.prajavani.net/web/include/feeds.php?news=144</url>
+	</feed>
+	<feed>
+		<name> Prajavani: à²…à²°à³à²¥ à²µà²¿à²šà²¾à²° | à²¡à²¿. à²®à²°à²³à³€à²§à²°</name>
+		<url>http://www.prajavani.net/web/include/feeds.php?news=177</url>
+	</feed>
+	<feed>
+		<name> Prajavani: à²†à²°à³‹à²—à³à²¯</name>
+		<url>http://www.prajavani.net/web/include/feeds.php?news=34</url>
+	</feed>
+	<feed>
+		<name> Prajavani: à²†à²¹à²¾à²°</name>
+		<url>http://www.prajavani.net/web/include/feeds.php?news=36</url>
+	</feed>
+	<feed>
+		<name> Prajavani: à²ˆ à²­à²¾à²¨à³à²µà²¾à²°</name>
+		<url>http://www.prajavani.net/web/include/feeds.php?news=52</url>
+	</feed>
+	<feed>
+		<name> Prajavani: à²•à²¨à²¸à²¿à²¨ à²®à²¨à³†</name>
+		<url>http://www.prajavani.net/web/include/feeds.php?news=184</url>
+	</feed>
+	<feed>
+		<name> Prajavani: à²•à²°à³à²£à²¾à²³à³ à²¬à²¾ à²¬à³†à²³à²•à³† | à²—à³à²°à³à²°à²¾à²œ à²•à²°à³à²œà²—à²¿</name>
+		<url>http://www.prajavani.net/web/include/feeds.php?news=136</url>
+	</feed>
+	<feed>
+		<name> Prajavani: à²•à²°à³à²¨à²¾à²Ÿà²• à²¦à²°à³à²¶à²¨</name>
+		<url>http://www.prajavani.net/web/include/feeds.php?news=55</url>
+	</feed>
+	<feed>
+		<name> Prajavani: à²•à²²à³†</name>
+		<url>http://www.prajavani.net/web/include/feeds.php?news=50</url>
+	</feed>
+	<feed>
+		<name> Prajavani: à²•à²¾à²®à²¨à²¬à²¿à²²à³à²²à³</name>
+		<url>http://www.prajavani.net/web/include/feeds.php?news=161</url>
+	</feed>
+	<feed>
+		<name> Prajavani: à²•à³ƒà²·à²¿</name>
+		<url>http://www.prajavani.net/web/include/feeds.php?news=158</url>
+	</feed>
+	<feed>
+		<name> Prajavani: à²•à³à²°à³€à²¡à²¾à²‚à²•à²£ | à²—à³‹à²ªà²¾à²² à²¹à³†à²—à²¡à³†</name>
+		<url>http://www.prajavani.net/web/include/feeds.php?news=152</url>
+	</feed>
+	<feed>
+		<name> Prajavani: à²•à³à²°à³€à²¡à³†</name>
+		<url>http://www.prajavani.net/web/include/feeds.php?news=6</url>
+	</feed>
+	<feed>
+		<name> Prajavani: à²•à³à²°à³€à²¡à³†</name>
+		<url>http://www.prajavani.net/web/include/feeds.php?news=59</url>
+	</feed>
+	<feed>
+		<name> Prajavani: à²—à³à²¹à²¾à²‚à²•à²£ | à²°à²¾à²®à²šà²‚à²¦à³à²° à²—à³à²¹à²¾</name>
+		<url>http://www.prajavani.net/web/include/feeds.php?news=151</url>
+	</feed>
+	<feed>
+		<name> Prajavani: à²Ÿà²¿à²µà²¿</name>
+		<url>http://www.prajavani.net/web/include/feeds.php?news=47</url>
+	</feed>
+	<feed>
+		<name> Prajavani: à²¤à²‚à²¤à³à²°à²œà³à²žà²¾à²¨</name>
+		<url>http://www.prajavani.net/web/include/feeds.php?news=141</url>
+	</feed>
+	<feed>
+		<name> Prajavani: à²¨à²¾à²²à³à²•à²¨à³‡ à²†à²¯à²¾à²® | à²ªà²¦à³à²®à²°à²¾à²œ à²¦à²‚à²¡à²¾à²µà²¤à²¿</name>
+		<url>http://www.prajavani.net/web/include/feeds.php?news=142</url>
+	</feed>
+	<feed>
+		<name> Prajavani: à²¨à³à²¡à²¿à²¯à³Šà²³à²—à²¾à²—à²¿/ à²“.à²Žà²²à³. à²¨à²¾à²—à²­à³‚à²·à²£à²¸à³à²µà²¾à²®à²¿</name>
+		<url>http://www.prajavani.net/web/include/feeds.php?news=183</url>
+	</feed>
+	<feed>
+		<name> Prajavani: à²¨à³ƒà²¤à³à²¯</name>
+		<url>http://www.prajavani.net/web/include/feeds.php?news=48</url>
+	</feed>
+	<feed>
+		<name> Prajavani: à²ªà³Šà²²à³€à²¸à³ à²•à²‚à²¡ à²•à²¥à³†à²—à²³à³ | à²¶à²¿à²µà²°à²¾à²®à³</name>
+		<url>http://www.prajavani.net/web/include/feeds.php?news=155</url>
+	</feed>
+	<feed>
+		<name> Prajavani: à²ªà³à²°à²œà²¾à²µà²¾à²£à²¿: 50 à²µà²°à³à²·à²—à²³ à²¹à²¿à²‚à²¦à³†</name>
+		<url>http://www.prajavani.net/web/include/feeds.php?news=163</url>
+	</feed>
+	<feed>
+		<name> Prajavani: à²ªà³à²°à²¤à²¿à²¸à³à²ªà²‚à²¦à²¨ | à²Žà²šà³.à²Žà²¸à³.à²¶à²¿à²µà²ªà³à²°à²•à²¾à²¶à³</name>
+		<url>http://www.prajavani.net/web/include/feeds.php?news=175</url>
+	</feed>
+	<feed>
+		<name> Prajavani: à²ªà³à²°à²µà²¾à²¸</name>
+		<url>http://www.prajavani.net/web/include/feeds.php?news=35</url>
+	</feed>
+	<feed>
+		<name> Prajavani: à²«à²¿à²²à²‚ à²¡à³ˆà²°à²¿ | à²—à²‚à²—à²¾à²§à²° à²®à³Šà²¦à²²à²¿à²¯à²¾à²°à³</name>
+		<url>http://www.prajavani.net/web/include/feeds.php?news=149</url>
+	</feed>
+	<feed>
+		<name> Prajavani: à²­à³‚à²®à²¿à²•à²¾</name>
+		<url>http://www.prajavani.net/web/include/feeds.php?news=58</url>
+	</feed>
+	<feed>
+		<name> Prajavani: à²®à³†à²Ÿà³à²°à³‹</name>
+		<url>http://www.prajavani.net/web/include/feeds.php?news=56</url>
+	</feed>
+	<feed>
+		<name> Prajavani: à²°à²‚à²—à²­à³‚à²®à²¿</name>
+		<url>http://www.prajavani.net/web/include/feeds.php?news=49</url>
+	</feed>
+	<feed>
+		<name> Prajavani: à²°à²¾à²œà³à²¯</name>
+		<url>http://www.prajavani.net/web/include/feeds.php?news=2</url>
+	</feed>
+	<feed>
+		<name> Prajavani: à²°à²¾à²·à³à²Ÿà³à²°à³€à²¯</name>
+		<url>http://www.prajavani.net/web/include/feeds.php?news=1</url>
+	</feed>
+	<feed>
+		<name> Prajavani: à²µà²¾à²šà²•à²°à²µà²¾à²£à²¿</name>
+		<url>http://www.prajavani.net/web/include/feeds.php?news=31</url>
+	</feed>
+	<feed>
+		<name> Prajavani: à²µà²¾à²£à²¿à²œà³à²¯</name>
+		<url>http://www.prajavani.net/web/include/feeds.php?news=44</url>
+	</feed>
+	<feed>
+		<name> Prajavani: à²µà²¾à²£à²¿à²œà³à²¯</name>
+		<url>http://www.prajavani.net/web/include/feeds.php?news=57</url>
+	</feed>
+	<feed>
+		<name> Prajavani: à²µà²¿à²œà³à²™à²¾à²¨ à²µà²¿à²¶à³‡à²· | à²¨à²¾à²—à³‡à²¶à³ à²¹à³†à²—à²¡à³†</name>
+		<url>http://www.prajavani.net/web/include/feeds.php?news=157</url>
+	</feed>
+	<feed>
+		<name> Prajavani: à²µà²¿à²¦à³‡à²¶</name>
+		<url>http://www.prajavani.net/web/include/feeds.php?news=4</url>
+	</feed>
+	<feed>
+		<name> Prajavani: à²¶à²¿à²•à³à²·à²£</name>
+		<url>http://www.prajavani.net/web/include/feeds.php?news=129</url>
+	</feed>
+	<feed>
+		<name> Prajavani: à²·à³‡à²°à³ à²¸à²®à²¾à²šà²¾à²° | à²•à³†. à²œà²¿. à²•à³ƒà²ªà²¾à²²à³</name>
+		<url>http://www.prajavani.net/web/include/feeds.php?news=162</url>
+	</feed>
+	<feed>
+		<name> Prajavani: à²¸à²‚à²—à²¤</name>
+		<url>http://www.prajavani.net/web/include/feeds.php?news=30</url>
+	</feed>
+	<feed>
+		<name> Prajavani: à²¸à²‚à²ªà²¾à²¦à²•à³€à²¯</name>
+		<url>http://www.prajavani.net/web/include/feeds.php?news=28</url>
+	</feed>
+	<feed>
+		<name> Prajavani: à²¸à²¾à²ªà³à²¤à²¾à²¹à²¿à²• à²ªà³à²°à²µà²£à²¿</name>
+		<url>http://www.prajavani.net/web/include/feeds.php?news=54</url>
+	</feed>
+	<feed>
+		<name> Prajavani: à²¸à²¿à²¨à²¿à²®à²¾</name>
+		<url>http://www.prajavani.net/web/include/feeds.php?news=46</url>
+	</feed>
+	<feed>
+		<name> Prajavani: à²¹à²¸à²¿à²°à³ à²®à²¨à³†| à²¡à²¾. à²šà²‚à²¦à³à²°à²¶à³‡à²–à²°à³ à²¹à²°à²¿à²¹à²°à²¨à³</name>
+		<url>http://www.prajavani.net/web/include/feeds.php?news=170</url>
+	</feed>
+	<feed>
+		<name> Prajavani: à²¹à³Šà²¸ à²•à²¨à²¸à³ | à²¡à²¾.à²†à²°à³.à²¬à²¾à²²à²¸à³à²¬à³à²°à²¹à³à²®à²£à³à²¯à²‚</name>
+		<url>http://www.prajavani.net/web/include/feeds.php?news=174</url>
+	</feed>
+	<feed>
+		<name> Prajavani: à²¹à³Šà²¸à²¦à²¾à²°à²¿ | à²†à²°à³. à²‡à²‚à²¦à²¿à²°à²¾</name>
+		<url>http://www.prajavani.net/web/include/feeds.php?news=154</url>
+	</feed>
+	<feed>
+		<name> Profiles</name>
+		<url>http://outlookindia.com/rss/features/profiles</url>
+	</feed>
+	<feed>
+		<name> Projects Monitor</name>
+		<url>http://feeds.feedburner.com/projnews</url>
+	</feed>
+	<feed>
+		<name> Projects Monitor</name>
+		<url>http://newsrack.in/crawled.feeds/pm.rss.xml</url>
+	</feed>
+	<feed>
+		<name> Q&amp;A</name>
+		<url>http://www.business-standard.com/rss/current-affairs-q-a-11506.rss</url>
+	</feed>
+	<feed>
+		<name> Quiz</name>
+		<url>http://www.business-standard.com/rss/management-quiz-10709.rss</url>
+	</feed>
+	<feed>
+		<name> Raichur</name>
+		<url>http://kannadaprabha.com/sectionrss-152.html</url>
+	</feed>
+	<feed>
+		<name> Rail Budget 2013</name>
+		<url>http://www.business-standard.com/rss/budget-rail-2013-11005.rss</url>
+	</feed>
+	<feed>
+		<name> Rediff: BPO News</name>
+		<url>http://www.rediff.com/rss/bporss.xml</url>
+	</feed>
+	<feed>
+		<name> Rediff: Business</name>
+		<url>http://www.rediff.com/rss/moneyrss.xml</url>
+	</feed>
+	<feed>
+		<name> Rediff: Columns</name>
+		<url>http://www.rediff.com/rss/columnistrss.xml</url>
+	</feed>
+	<feed>
+		<name> Rediff: Cricket</name>
+		<url>http://www.rediff.com/rss/cricketrss.xml</url>
+	</feed>
+	<feed>
+		<name> Rediff: GetAhead</name>
+		<url>http://www.rediff.com/rss/getaheadrss.xml</url>
+	</feed>
+	<feed>
+		<name> Rediff: Information You Can Use</name>
+		<url>http://www.rediff.com/rss/iycurss.xml</url>
+	</feed>
+	<feed>
+		<name> Rediff: Interviews</name>
+		<url>http://www.rediff.com/rss/interviewsrss.xml</url>
+	</feed>
+	<feed>
+		<name> Rediff: Intl News</name>
+		<url>http://www.rediff.com/rss/intnewsrss.xml</url>
+	</feed>
+	<feed>
+		<name> Rediff: Movies</name>
+		<url>http://www.rediff.com/rss/moviesrss.xml</url>
+	</feed>
+	<feed>
+		<name> Rediff: News</name>
+		<url>http://www.rediff.com/rss/newsrss.xml</url>
+	</feed>
+	<feed>
+		<name> Rediff: Personal Finance</name>
+		<url>http://www.rediff.com/rss/perfinrss.xml</url>
+	</feed>
+	<feed>
+		<name> Rediff: Sports</name>
+		<url>http://www.rediff.com/rss/sportsrss.xml</url>
+	</feed>
+	<feed>
+		<name> Rediff: Top Stories (India)</name>
+		<url>http://www.rediff.com/rss/inrss.xml</url>
+	</feed>
+	<feed>
+		<name> Results</name>
+		<url>http://www.business-standard.com/rss/companies-results-10103.rss</url>
+	</feed>
+	<feed>
+		<name> Review</name>
+		<url>http://kannadaprabha.com/sectionrss-179.html</url>
+	</feed>
+	<feed>
+		<name> Run-up to Budget 2013</name>
+		<url>http://www.business-standard.com/rss/specials-run-up-to-budget-2013-10973.rss</url>
+	</feed>
+	<feed>
+		<name> Run-up to Budget 2013</name>
+		<url>http://www.business-standard.com/rss/budget-run-up-to-2013-11004.rss</url>
+	</feed>
+	<feed>
+		<name> Sapthahikaprabha</name>
+		<url>http://kannadaprabha.com/sectionrss-158.html</url>
+	</feed>
+	<feed>
+		<name> Science-Technology</name>
+		<url>http://kannadaprabha.com/sectionrss-163.html</url>
+	</feed>
+	<feed>
+		<name> Scroll.in - News that matters</name>
+		<url>http://feeds.feedburner.com/scroll_in.rss</url>
+	</feed>
+	<feed>
+		<name> Shimoga</name>
+		<url>http://kannadaprabha.com/sectionrss-153.html</url>
+	</feed>
+	<feed>
+		<name> Sify Finance</name>
+		<url>http://sify.com/rss/finance.php</url>
+	</feed>
+	<feed>
+		<name> Sify News</name>
+		<url>http://sify.com/rss/news.php</url>
+	</feed>
+	<feed>
+		<name> Sikkim Times</name>
+		<url>http://sikkimtimes.com/?feed=rss2</url>
+	</feed>
+	<feed>
+		<name> Society</name>
+		<url>http://outlookindia.com/rss/section/Society</url>
+	</feed>
+	<feed>
+		<name> Sports</name>
+		<url>http://outlookindia.com/rss/section/sports</url>
+	</feed>
+	<feed>
+		<name> Sports</name>
+		<url>http://kannadaprabha.com/sectionrss-7.html</url>
+	</feed>
+	<feed>
+		<name> Star of Mysore</name>
+		<url>http://newsrack.in/crawled.feeds/som.rss.xml</url>
+	</feed>
+	<feed>
+		<name> TOI: Ahmedabad Times</name>
+		<url>http://timesofindia.indiatimes.com/rssfeeds/-2128821153.cms</url>
+	</feed>
+	<feed>
+		<name> TOI: All Headlines</name>
+		<url>http://newsrack.in/crawled.feeds/toi.rss.xml</url>
+	</feed>
+	<feed>
+		<name> TOI: Bangalore Times</name>
+		<url>http://timesofindia.indiatimes.com/rssfeeds/-2128833038.cms</url>
+	</feed>
+	<feed>
+		<name> TOI: Calcutta Times</name>
+		<url>http://timesofindia.indiatimes.com/rssfeeds/-2128830821.cms</url>
+	</feed>
+	<feed>
+		<name> TOI: Chandigarh Times</name>
+		<url>http://timesofindia.indiatimes.com/rssfeeds/-2128816762.cms</url>
+	</feed>
+	<feed>
+		<name> TOI: Chennai</name>
+		<url>http://timesofindia.indiatimes.com/rssfeeds/2950623.cms</url>
+	</feed>
+	<feed>
+		<name> TOI: Cities</name>
+		<url>http://timesofindia.indiatimes.com/rssfeeds/-2128932452.cms</url>
+	</feed>
+	<feed>
+		<name> TOI: Columnists</name>
+		<url>http://timesofindia.indiatimes.com/rssfeeds/12051364.cms</url>
+	</feed>
+	<feed>
+		<name> TOI: Delhi Times</name>
+		<url>http://timesofindia.indiatimes.com/rssfeeds/-2128839596.cms</url>
+	</feed>
+	<feed>
+		<name> TOI: Editorial</name>
+		<url>http://timesofindia.indiatimes.com/rssfeeds/-2128669051.cms</url>
+	</feed>
+	<feed>
+		<name> TOI: Entertainment</name>
+		<url>http://timesofindia.indiatimes.com/rssfeeds/1081479906.cms</url>
+	</feed>
+	<feed>
+		<name> TOI: Goa</name>
+		<url>http://timesofindia.indiatimes.com/rssfeeds/3012535.cms</url>
+	</feed>
+	<feed>
+		<name> TOI: Home</name>
+		<url>http://timesofindia.indiatimes.com/rssfeedsdefault.cms</url>
+	</feed>
+	<feed>
+		<name> TOI: Hyderabad Times</name>
+		<url>http://timesofindia.indiatimes.com/rssfeeds/-2128816011.cms</url>
+	</feed>
+	<feed>
+		<name> TOI: India</name>
+		<url>http://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms</url>
+	</feed>
+	<feed>
+		<name> TOI: India Business</name>
+		<url>http://timesofindia.indiatimes.com/rssfeeds/-2128682902.cms</url>
+	</feed>
+	<feed>
+		<name> TOI: Indo-Pak Ties</name>
+		<url>http://timesofindia.indiatimes.com/rssfeeds/222022.cms</url>
+	</feed>
+	<feed>
+		<name> TOI: Interviews</name>
+		<url>http://timesofindia.indiatimes.com/rssfeeds/1898408.cms</url>
+	</feed>
+	<feed>
+		<name> TOI: Intl Business</name>
+		<url>http://timesofindia.indiatimes.com/rssfeeds/-2128680634.cms</url>
+	</feed>
+	<feed>
+		<name> TOI: Jaipur</name>
+		<url>http://timesofindia.indiatimes.com/rssfeeds/3012544.cms</url>
+	</feed>
+	<feed>
+		<name> TOI: Kanpur Times</name>
+		<url>http://timesofindia.indiatimes.com/rssfeeds/23785592.cms</url>
+	</feed>
+	<feed>
+		<name> TOI: Lucknow Times</name>
+		<url>http://timesofindia.indiatimes.com/rssfeeds/-2128819658.cms</url>
+	</feed>
+	<feed>
+		<name> TOI: Mumbai</name>
+		<url>http://timesofindia.indiatimes.com/rssfeeds/-2128838597.cms</url>
+	</feed>
+	<feed>
+		<name> TOI: NRI News</name>
+		<url>http://timesofindia.indiatimes.com/rssfeeds/222023.cms</url>
+	</feed>
+	<feed>
+		<name> TOI: Pakistan</name>
+		<url>http://timesofindia.indiatimes.com/rssfeeds/30359534.cms</url>
+	</feed>
+	<feed>
+		<name> TOI: Patna</name>
+		<url>http://timesofindia.indiatimes.com/rssfeeds/-2128817995.cms</url>
+	</feed>
+	<feed>
+		<name> TOI: Pune Times</name>
+		<url>http://timesofindia.indiatimes.com/rssfeeds/-2128821991.csm</url>
+	</feed>
+	<feed>
+		<name> TOI: Sports</name>
+		<url>http://timesofindia.indiatimes.com/rssfeeds/671208.cms</url>
+	</feed>
+	<feed>
+		<name> TOI: Subverse</name>
+		<url>http://timesofindia.indiatimes.com/rssfeeds/3241488.cms</url>
+	</feed>
+	<feed>
+		<name> TOI: Sunday</name>
+		<url>http://timesofindia.indiatimes.com/rssfeeds/1945062111.cms</url>
+	</feed>
+	<feed>
+		<name> TOI: The United States</name>
+		<url>http://timesofindia.indiatimes.com/rssfeeds/30359486.cms</url>
+	</feed>
+	<feed>
+		<name> TOI: Thiruvananthapuram</name>
+		<url>http://timesofindia.indiatimes.com/rssfeeds/878156304.cms</url>
+	</feed>
+	<feed>
+		<name> Tehelka</name>
+		<url>http://tehelka.com/feeds/tehfeed.xml</url>
+	</feed>
+	<feed>
+		<name> Telegraph: Bengal</name>
+		<url>http://telegraphindia.com/feeds/rss.asp?id=8</url>
+	</feed>
+	<feed>
+		<name> Telegraph: Business</name>
+		<url>http://telegraphindia.com/feeds/rss.asp?id=9</url>
+	</feed>
+	<feed>
+		<name> Telegraph: Calcutta</name>
+		<url>http://telegraphindia.com/feeds/rss.asp?id=5</url>
+	</feed>
+	<feed>
+		<name> Telegraph: Front Page</name>
+		<url>http://telegraphindia.com/feeds/rss.asp?id=3</url>
+	</feed>
+	<feed>
+		<name> Telegraph: International</name>
+		<url>http://telegraphindia.com/feeds/rss.asp?id=13</url>
+	</feed>
+	<feed>
+		<name> Telegraph: Nation</name>
+		<url>http://telegraphindia.com/feeds/rss.asp?id=4</url>
+	</feed>
+	<feed>
+		<name> Telegraph: North Bengal</name>
+		<url>http://telegraphindia.com/feeds/rss.asp?id=14</url>
+	</feed>
+	<feed>
+		<name> Telegraph: Opinion</name>
+		<url>http://telegraphindia.com/feeds/rss.asp?id=6</url>
+	</feed>
+	<feed>
+		<name> Telegraph: Sports</name>
+		<url>http://telegraphindia.com/feeds/rss.asp?id=7</url>
+	</feed>
+	<feed>
+		<name> Thats Hindi</name>
+		<url>http://feedproxy.google.com/oneindia-thatshindi-all</url>
+	</feed>
+	<feed>
+		<name> Thats Kannada</name>
+		<url>http://feedproxy.google.com/oneindia-all-thatskannada</url>
+	</feed>
+	<feed>
+		<name> The Assam Tribune</name>
+		<url>http://newsrack.in/crawled.feeds/at.rss.xml</url>
+	</feed>
+	<feed>
+		<name> The Hindu: Today's Paper</name>
+		<url>http://newsrack.in/crawled.feeds/hindu.todayspaper.rss.xml</url>
+	</feed>
+	<feed>
+		<name> The Indian Express -- Front Page</name>
+		<url>http://www.expressindia.com/syndications/ie.xml</url>
+	</feed>
+	<feed>
+		<name> The Navhind Times</name>
+		<url>http://www.navhindtimes.in/index.php?format=feed&amp;type=rss</url>
+	</feed>
+	<feed>
+		<name> The New Indian Express - Andhra Pradesh</name>
+		<url>http://newindianexpress.com/states/andhra_pradesh/?widgetName=rssfeed&amp;widgetId=534391&amp;getXmlFeed=true</url>
+	</feed>
+	<feed>
+		<name> The New Indian Express - Education </name>
+		<url>http://newindianexpress.com/education/?widgetName=rssfeed&amp;widgetId=276210&amp;getXmlFeed=true</url>
+	</feed>
+	<feed>
+		<name> The New Indian Express - Karnataka</name>
+		<url>http://newindianexpress.com/states/karnataka/?widgetName=rssfeed&amp;widgetId=534391&amp;getXmlFeed=true</url>
+	</feed>
+	<feed>
+		<name> The New Indian Express - Kerala - http://newindianexpress.com/states/kerala/</name>
+		<url>http://newindianexpress.com/states/kerala/?widgetName=rssfeed&amp;widgetId=534391&amp;getXmlFeed=true</url>
+	</feed>
+	<feed>
+		<name> The New Indian Express - Odisha - http://newindianexpress.com/states/odisha/</name>
+		<url>http://newindianexpress.com/states/odisha/?widgetName=rssfeed&amp;widgetId=534391&amp;getXmlFeed=true</url>
+	</feed>
+	<feed>
+		<name> The New Indian Express - Tamil Nadu - http://newindianexpress.com/states/tamil_nadu/</name>
+		<url>http://newindianexpress.com/states/tamil_nadu/?widgetName=rssfeed&amp;widgetId=534391&amp;getXmlFeed=true</url>
+	</feed>
+	<feed>
+		<name> The New Indian Express - The Sunday Standard - http://newindianexpress.com/thesundaystandard/</name>
+		<url>http://newindianexpress.com/thesundaystandard/?widgetName=rssfeed&amp;widgetId=276210&amp;getXmlFeed=true</url>
+	</feed>
+	<feed>
+		<name> The Pioneer</name>
+		<url>http://newsrack.in/crawled.feeds/pioneer.rss.xml</url>
+	</feed>
+	<feed>
+		<name> The South Asian</name>
+		<url>http://www.thesouthasian.org/index.xml</url>
+	</feed>
+	<feed>
+		<name> The Statesman</name>
+		<url>http://newsrack.in/crawled.feeds/statesman.rss.xml</url>
+	</feed>
+	<feed>
+		<name> The Telegraph : Bihar</name>
+		<url>http://www.telegraphindia.com/feeds/rss.jsp?id=22</url>
+	</feed>
+	<feed>
+		<name> The Telegraph : Jharkhand</name>
+		<url>http://www.telegraphindia.com/feeds/rss.jsp?id=23</url>
+	</feed>
+	<feed>
+		<name> The Telegraph : North East</name>
+		<url>http://www.telegraphindia.com/feeds/rss.jsp?id=24</url>
+	</feed>
+	<feed>
+		<name> The Telegraph : Orissa</name>
+		<url>http://www.telegraphindia.com/feeds/rss.jsp?id=21</url>
+	</feed>
+	<feed>
+		<name> Times Now: Business</name>
+		<url>http://www.timesnow.tv/Rssfeeds/Business.Xml</url>
+	</feed>
+	<feed>
+		<name> Times Now: National</name>
+		<url>http://www.timesnow.tv/Rssfeeds/India.Xml</url>
+	</feed>
+	<feed>
+		<name> Times Now: World</name>
+		<url>http://www.timesnow.tv/Rssfeeds/World.Xml</url>
+	</feed>
+	<feed>
+		<name> Times of Assam</name>
+		<url>http://feeds.feedburner.com/TimesOfAssam</url>
+	</feed>
+	<feed>
+		<name> Top Headlines</name>
+		<url>http://syndication.financialexpress.com/rss/372/automobiles.xml</url>
+	</feed>
+	<feed>
+		<name> Top Headlines</name>
+		<url>http://syndication.financialexpress.com/rss/97/economy.xml</url>
+	</feed>
+	<feed>
+		<name> Top Headlines</name>
+		<url>http://syndication.financialexpress.com/rss/382/media.xml</url>
+	</feed>
+	<feed>
+		<name> Top Headlines</name>
+		<url>http://syndication.financialexpress.com/rss/378/infrastructure.xml</url>
+	</feed>
+	<feed>
+		<name> Top Headlines</name>
+		<url>http://syndication.financialexpress.com/rss/626/business-wire.xml</url>
+	</feed>
+	<feed>
+		<name> Top Headlines</name>
+		<url>http://syndication.financialexpress.com/rss/latest-news.xml</url>
+	</feed>
+	<feed>
+		<name> Top Headlines</name>
+		<url>http://syndication.financialexpress.com/rss/100/politics.xml</url>
+	</feed>
+	<feed>
+		<name> Top Headlines</name>
+		<url>http://syndication.financialexpress.com/rss/384/real-estate.xml</url>
+	</feed>
+	<feed>
+		<name> Top Headlines</name>
+		<url>http://syndication.financialexpress.com/rss/385/travel-&amp;-tourism.xml</url>
+	</feed>
+	<feed>
+		<name> Top Headlines</name>
+		<url>http://syndication.financialexpress.com/rss/380/jobs.xml</url>
+	</feed>
+	<feed>
+		<name> Top Headlines</name>
+		<url>http://syndication.financialexpress.com/rss/103/retail.xml</url>
+	</feed>
+	<feed>
+		<name> Top Headlines</name>
+		<url>http://syndication.financialexpress.com/rss/96/markets.xml</url>
+	</feed>
+	<feed>
+		<name> Top Headlines</name>
+		<url>http://syndication.financialexpress.com/rss/101/telecom.xml</url>
+	</feed>
+	<feed>
+		<name> Top Headlines</name>
+		<url>http://syndication.financialexpress.com/rss/377/infotech.xml</url>
+	</feed>
+	<feed>
+		<name> Top Headlines</name>
+		<url>http://syndication.financialexpress.com/rss/375/commodities.xml</url>
+	</feed>
+	<feed>
+		<name> Top Headlines</name>
+		<url>http://syndication.financialexpress.com/rss/376/health-&amp;-pharma.xml</url>
+	</feed>
+	<feed>
+		<name> Top Headlines</name>
+		<url>http://syndication.financialexpress.com/rss/98/world-news.xml</url>
+	</feed>
+	<feed>
+		<name> Top Headlines</name>
+		<url>http://syndication.financialexpress.com/rss/349/banking-&amp;-finance.xml</url>
+	</feed>
+	<feed>
+		<name> Top Headlines</name>
+		<url>http://syndication.financialexpress.com/rss/379/insurance.xml</url>
+	</feed>
+	<feed>
+		<name> Top Headlines</name>
+		<url>http://syndication.financialexpress.com/rss/95/companies.xml</url>
+	</feed>
+	<feed>
+		<name> Top Headlines</name>
+		<url>http://syndication.financialexpress.com/rss/383/power.xml</url>
+	</feed>
+	<feed>
+		<name> Top News</name>
+		<url>http://kannadaprabha.com/sectionrss-1.html</url>
+	</feed>
+	<feed>
+		<name> Top Stories</name>
+		<url>http://www.business-standard.com/rss/home_page_top_stories.rss</url>
+	</feed>
+	<feed>
+		<name> Travel-Automobile</name>
+		<url>http://kannadaprabha.com/sectionrss-175.html</url>
+	</feed>
+	<feed>
+		<name> Tumkur</name>
+		<url>http://kannadaprabha.com/sectionrss-154.html</url>
+	</feed>
+	<feed>
+		<name> Udupi</name>
+		<url>http://kannadaprabha.com/sectionrss-155.html</url>
+	</feed>
+	<feed>
+		<name> Uttara Kannada</name>
+		<url>http://kannadaprabha.com/sectionrss-156.html</url>
+	</feed>
+	<feed>
+		<name> Voice of Sikkim</name>
+		<url>http://voiceofsikkim.com/feed/</url>
+	</feed>
+	<feed>
+		<name> Women-Living</name>
+		<url>http://kannadaprabha.com/sectionrss-171.html</url>
+	</feed>
+	<feed>
+		<name> Youth-Children</name>
+		<url>http://kannadaprabha.com/sectionrss-165.html</url>
+	</feed>
+	<feed>
+		<name> Zee News : Business</name>
+		<url>http://www.zeenews.com/rss/business-news.xml</url>
+	</feed>
+	<feed>
+		<name> Zee News : India National</name>
+		<url>http://www.zeenews.com/rss/india-national-news.xml</url>
+	</feed>
+	<feed>
+		<name> Zee News : Science and Technology</name>
+		<url>http://www.zeenews.com/rss/science-technology-news.xml</url>
+	</feed>
+	<feed>
+		<name> Zee News : South Asia</name>
+		<url>http://www.zeenews.com/rss/south-asia-news.xml</url>
+	</feed>
+	<feed>
+		<name> Zee News : States</name>
+		<url>http://www.zeenews.com/rss/india-news.xml</url>
+	</feed>
+	<feed>
+		<name> Zee News : World</name>
+		<url>http://www.zeenews.com/rss/world-news.xml</url>
+	</feed>
+	<feed>
+		<name> by2coffee</name>
+		<url>http://kannadaprabha.com/sectionrss-160.html</url>
+	</feed>
+	<feed>
+		<name> deccanherald.com</name>
+		<url>http://www.deccanherald.com/rss/news.rss</url>
+	</feed>
+	<feed>
+		<name> newindianexpress - Magazine</name>
+		<url>http://newindianexpress.com/magazine/?widgetName=rssfeed&amp;widgetId=276210&amp;getXmlFeed=true</url>
+	</feed>
+	<feed>
+		<name> newindianexpress.com - Opinion</name>
+		<url>http://newindianexpress.com/opinion/?widgetName=rssfeed&amp;widgetId=276210&amp;getXmlFeed=true</url>
+	</feed>
+	<feed>
+		<name> newindianexpress.com - State</name>
+		<url>http://newindianexpress.com/states/?widgetName=rssfeed&amp;widgetId=276210&amp;getXmlFeed=true</url>
+	</feed>
+	<feed>
+		<name> newindianexpress.com - Top News</name>
+		<url>http://newindianexpress.com/top_news/?widgetName=rssfeed&amp;widgetId=534391&amp;getXmlFeed=true</url>
+	</feed>
+	<feed>
+		<name> newindianexpress.com - Business</name>
+		<url>http://newindianexpress.com/business/?widgetName=rssfeed&amp;widgetId=276210&amp;getXmlFeed=true</url>
+	</feed>
+	<feed>
+		<name> newindianexpress.com - Editorial</name>
+		<url>http://newindianexpress.com/editorials/?widgetName=rssfeed&amp;widgetId=276210&amp;getXmlFeed=true</url>
+	</feed>
+	<feed>
+		<name> newindianexpress.com - Others</name>
+		<url>http://newindianexpress.com/?widgetName=rssfeed&amp;widgetId=276210&amp;getXmlFeed=true</url>
+	</feed>
+	<feed>
+		<name> newindianexpress.com -  Nation</name>
+		<url>http://newindianexpress.com/nation/?widgetName=rssfeed&amp;widgetId=276210&amp;getXmlFeed=true</url>
+	</feed>
+	<feed>
+		<name> newindianexpress.com - Cities</name>
+		<url>http://newindianexpress.com/cities/?widgetName=rssfeed&amp;widgetId=276210&amp;getXmlFeed=true</url>
+	</feed>
+		
+	</category>
+	
+	<category type="Science News">
+	<feed>
+		<name> Scientific American â€“ News.</name>
+		<url>http://rss.sciam.com/ScientificAmerican-News</url>
+	</feed>
+	<feed>
+		<name> Basic Science RSS Feeds.</name>
+		<url>http://www.scientificamerican.com/page.cfm?section=rsscategory&amp;alias=basic-science</url>
+	</feed>
+	<feed>
+		<name> Science News RSS Feeds.</name>
+		<url>http://www.sciencenews.org/view/page/id/45/title/syndication</url>
+	</feed>
+	<feed>
+		<name> Science Daily.</name>
+		<url>http://www.sciencedaily.com/newsfeeds.htm</url>
+	</feed>
+	<feed>
+		<name> EurekAlert! RSS Feeds.</name>
+		<url>http://www.eurekalert.org/rss.php</url>
+	</feed>
+	<feed>
+		<name> Science News Daily.</name>
+		<url>http://www.sciencenewsdaily.org/</url>
+	</feed>
+	<feed>
+		<name> Science RSS Feeds.</name>
+		<url>http://www.sciencemag.org/rss/</url>
+	</feed>
+	<feed>
+		<name> AAAS RSS Feeds.</name>
+		<url>http://www.aaas.org/news/rss/</url>
+	</feed>
+	<feed>
+		<name> New Scientist Online News.</name>
+		<url>http://feeds.newscientist.com/science-news</url>
+	</feed>
+	<feed>
+		<name> Today on New Scientist â€“ Short Sharp Science.</name>
+		<url>http://feeds.newscientist.com/today-on-ns</url>
+	</feed>
+	<feed>
+		<name> LA Times â€“ Science.</name>
+		<url>http://feeds.latimes.com/latimes/news/science</url>
+	</feed>
+	<feed>
+		<name> NYT Science.</name>
+		<url>http://feeds.nytimes.com/nyt/rss/Science</url>
+	</feed>
+	<feed>
+		<name> National Academiesâ€™ RSS News Feeds.</name>
+		<url>http://www.nationalacademies.org/about/rss.html</url>
+	</feed>
+	<feed>
+		<name> BBC News Science &amp; Environment.</name>
+		<url>http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/sci/tech/rss.xml</url>
+	</feed>
+	<feed>
+		<name> NPR Topics: Science.</name>
+		<url>http://www.npr.org/rss/rss.php?id=1007</url>
+	</feed>
+	<feed>
+		<name> News from The Scientist.</name>
+		<url>http://feeds.feedburner.com/NewsFromTheScientist</url>
+	</feed>
+	<feed>
+		<name> AP RSS News Feeds.</name>
+		<url>http://hosted.ap.org/dynamic/fronts/RSS?SITE=AP&amp;SECTION=HOME</url>
+	</feed>
+	<feed>
+		<name> Christian Science Monitor Science.</name>
+		<url>http://rss.csmonitor.com/feeds/science</url>
+	</feed>
+	<feed>
+		<name> RSS feeds on msnbc.com.</name>
+		<url>http://www.msnbc.msn.com/id/5216556/ns/rss_feeds/?page=2&amp;#TechScience</url>
+	</feed>
+	<feed>
+		<name> NOVA scienceNOW Podcasting and RSS.</name>
+		<url>http://www.pbs.org/wgbh/nova/sciencenow/rss/</url>
+	</feed>
+	<feed>
+		<name> Reuters: Science News.</name>
+		<url>http://feeds.reuters.com/reuters/scienceNews</url>
+	</feed>
+	<feed>
+		<name> Popular Mechanics: RSS.</name>
+		<url>http://www.popularmechanics.com/rss/</url>
+	</feed>
+	<feed>
+		<name> Slashdot.</name>
+		<url>http://science.slashdot.org/</url>
+	</feed>
+	<feed>
+		<name> New Scientist â€“ Physics &amp; Math.</name>
+		<url>http://feeds.newscientist.com/physics-math</url>
+	</feed>
+	<feed>
+		<name> physicsworld.com: all content.</name>
+		<url>http://feeds.feedburner.com/PhysicsWorld</url>
+	</feed>
+	<feed>
+		<name> Physics Today News Picks.</name>
+		<url>http://www.physicstoday.org/rss.html</url>
+	</feed>
+	<feed>
+		<name> AMNH Science News RSS feed.</name>
+		<url>http://www.amnh.org/science/papers/feed.php</url>
+	</feed>
+	<feed>
+		<name> American Institute of Physics RSS feeds.</name>
+		<url>http://www.aip.org/aip/rss.html</url>
+	</feed>
+	<feed>
+		<name> NatureNews â€“ Physics.</name>
+		<url>http://feeds.nature.com/news/rss/news_s13</url>
+	</feed>
+	<feed>
+		<name> NatureNews â€“ Chemistry.</name>
+		<url>http://feeds.nature.com/news/rss/news_s5</url>
+	</feed>
+	<feed>
+		<name> Chemical &amp; Engineering News: Latest News.</name>
+		<url>http://feeds.feedburner.com/cen_latestnews</url>
+	</feed>
+	<feed>
+		<name> Chemistry World.</name>
+		<url>http://www.rsc.org/chemistryworld/index.asp</url>
+	</feed>
+	<feed>
+		<name> cerncourier: CERN Courier.</name>
+		<url>http://feeds.feedburner.com/CernCourier</url>
+	</feed>
+	<feed>
+		<name> NatureNews â€“ Archaeology and anthropology.</name>
+		<url>http://feeds.nature.com/news/rss/news_s17</url>
+	</feed>
+	<feed>
+		<name> NatureNews â€“ Evolution and palaeontology.</name>
+		<url>http://feeds.nature.com/news/rss/news_s22</url>
+	</feed>
+	<feed>
+		<name> NatureNews â€“ Biotechnology.</name>
+		<url>http://feeds.nature.com/news/rss/news_s1</url>
+	</feed>
+	<feed>
+		<name> NatureNews â€“ Cell and molecular biology.</name>
+		<url>http://feeds.nature.com/news/rss/news_s4</url>
+	</feed>
+	<feed>
+		<name> Evolution RSS Feeds.</name>
+		<url>http://www.scientificamerican.com/page.cfm?section=rsscategory&amp;alias=evolution</url>
+	</feed>
+	<feed>
+		<name> Biological Sciences (BIO) â€“ News.</name>
+		<url>http://www.nsf.gov/news/index.jsp?org=BIO</url>
+	</feed>
+	<feed>
+		<name> Biology News Net RSS Feeds.</name>
+		<url>http://www.biologynews.net/rss.php</url>
+	</feed>
+	<feed>
+		<name> Biology RSS Feeds.</name>
+		<url>http://www.scientificamerican.com/page.cfm?section=rsscategory&amp;alias=biology</url>
+	</feed>
+	<feed>
+		<name> Biology/Biochemistry News.</name>
+		<url>http://www.medicalnewstoday.com/sections/biology-biochemistry/</url>
+	</feed>
+	<feed>
+		<name> ScienceBlogs Channel: Life Science.</name>
+		<url>http://feeds.feedburner.com/ScienceblogsChannelLifeScience</url>
+	</feed>
+	<feed>
+		<name> NASA Science RSS Feeds.</name>
+		<url>http://nasascience.nasa.gov/science-news/rss-feeds</url>
+	</feed>
+	<feed>
+		<name> Space RSS Feeds.</name>
+		<url>http://www.scientificamerican.com/page.cfm?section=rsscategory&amp;alias=space</url>
+	</feed>
+	<feed>
+		<name> New Scientist â€“ Space.</name>
+		<url>http://feeds.newscientist.com/space</url>
+	</feed>
+	<feed>
+		<name> NYT Space &amp; Cosmos.</name>
+		<url>http://feeds.nytimes.com/nyt/rss/Space</url>
+	</feed>
+	<feed>
+		<name> Yahoo! Space.</name>
+		<url>http://rss.news.yahoo.com/rss/space</url>
+	</feed>
+	<feed>
+		<name> NatureNews â€“ Space and astronomy.</name>
+		<url>http://feeds.nature.com/news/rss/news_s15</url>
+	</feed>
+	<feed>
+		<name> NPR Topics: Space.</name>
+		<url>http://www.npr.org/rss/rss.php?id=1026</url>
+	</feed>
+	<feed>
+		<name> CNN.com â€“ Science &amp; Space.</name>
+		<url>http://rss.cnn.com/rss/cnn_space.rss</url>
+	</feed>
+	<feed>
+		<name> Astronomy.</name>
+		<url>http://www.astronomy.com/asy/default.aspx</url>
+	</feed>
+	<feed>
+		<name> Bad Astronomy.</name>
+		<url>http://feeds.feedburner.com/BadAstronomyBlog</url>
+	</feed>
+	<feed>
+		<name> Energy &amp; Sustainability RSS Feeds.</name>
+		<url>http://www.scientificamerican.com/page.cfm?section=rsscategory&amp;alias=energy-and-sustainability</url>
+	</feed>
+	<feed>
+		<name> RealClimate.</name>
+		<url>http://feeds.feedburner.com/realclimate/HYVV</url>
+	</feed>
+	<feed>
+		<name> New Scientist â€“ Environment.</name>
+		<url>http://feeds.newscientist.com/environment</url>
+	</feed>
+	<feed>
+		<name> NYT Environment.</name>
+		<url>http://feeds.nytimes.com/nyt/rss/Environment</url>
+	</feed>
+	<feed>
+		<name> Yahoo! Environment.</name>
+		<url>http://rss.news.yahoo.com/rss/environment</url>
+	</feed>
+	<feed>
+		<name> NatureNews â€“ Earth and Environment.</name>
+		<url>http://feeds.nature.com/news/rss/news_s7</url>
+	</feed>
+	<feed>
+		<name> NPR Topics: Environment.</name>
+		<url>http://www.npr.org/rss/rss.php?id=1025</url>
+	</feed>
+	<feed>
+		<name> Reuters: Environment.</name>
+		<url>http://feeds.reuters.com/reuters/environment</url>
+	</feed>
+	<feed>
+		<name> The Environmental News Network RSS.</name>
+		<url>http://www.enn.com/rss_feeds</url>
+	</feed>
+	<feed>
+		<name> Grist â€“ the Latest from Grist.</name>
+		<url>http://feeds.grist.org/rss/gristfeed</url>
+	</feed>
+	<feed>
+		<name> EcoEarth.Info.</name>
+		<url>http://www.ecoearth.info/</url>
+	</feed>
+	<feed>
+		<name> Mind &amp; Brain RSS Feeds.</name>
+		<url>http://www.scientificamerican.com/page.cfm?section=rsscategory&amp;alias=mind-and-brain</url>
+	</feed>
+	<feed>
+		<name> Mind Hacks.</name>
+		<url>http://www.mindhacks.com/</url>
+	</feed>
+	<feed>
+		<name> NatureNews â€“ Brain and Behavior.</name>
+		<url>http://feeds.nature.com/news/rss/news_s2</url>
+	</feed>
+	<feed>
+		<name> Neurology.</name>
+		<url>http://www.neurology.org/rss/</url>
+	</feed>
+	<feed>
+		<name> Journal of Child Neurology.</name>
+		<url>http://jcn.sagepub.com/rss/</url>
+	</feed>
+	<feed>
+		<name> NeuroBlogger.</name>
+		<url>http://neuroblogger.com/</url>
+	</feed>
+	<feed>
+		<name> Neuroscience News.</name>
+		<url>http://www.neurosciencenews.com/</url>
+	</feed>
+	<feed>
+		<name> Medscape Neurology Headlines.</name>
+		<url>http://www.medscape.com/neurology?src=rss</url>
+	</feed>
+	<feed>
+		<name> MedWorm Nature Neuroscience.</name>
+		<url>http://www.medworm.com/rss/search.php?qu=Nature+Neuroscience&amp;t=Nature+Neuroscience&amp;s=Search&amp;f=source</url>
+	</feed>
+	<feed>
+		<name> The Frontal Cortex.</name>
+		<url>http://feeds.feedburner.com/scienceblogs/wDAM</url>
+	</feed>
+	<feed>
+		<name> World of Psychology.</name>
+		<url>http://psychcentral.com/blog/</url>
+	</feed>
+	<feed>
+		<name> Health &amp; Medicine RSS Feeds.</name>
+		<url>http://www.scientificamerican.com/page.cfm?section=rsscategory&amp;alias=health-and-medicine</url>
+	</feed>
+	<feed>
+		<name> New Scientist â€“ Health.</name>
+		<url>http://feeds.newscientist.com/health</url>
+	</feed>
+	<feed>
+		<name> NatureNews â€“ Health and medicine.</name>
+		<url>http://feeds.nature.com/news/rss/news_s10</url>
+	</feed>
+	<feed>
+		<name> NPR Topics: Health Care.</name>
+		<url>http://www.npr.org/rss/rss.php?id=1027</url>
+	</feed>
+	<feed>
+		<name> CNN.com â€“ Health.</name>
+		<url>http://rss.cnn.com/rss/cnn_health.rss</url>
+	</feed>
+	<feed>
+		<name> Reuters: Health News.</name>
+		<url>http://feeds.reuters.com/reuters/healthNews</url>
+	</feed>
+	<feed>
+		<name> Collective Imagination.</name>
+		<url>http://feeds.feedburner.com/CollectiveImagination</url>
+	</feed>
+	<feed>
+		<name> White Coat Underground.</name>
+		<url>http://feeds2.feedburner.com/scienceblogs/whitecoatunderground</url>
+	</feed>
+	<feed>
+		<name> Open Medicine.</name>
+		<url>http://blog.openmedicine.ca/</url>
+	</feed>
+	<feed>
+		<name> Effect Measure.</name>
+		<url>http://feeds.feedburner.com/scienceblogs/AyaJ</url>
+	</feed>
+	<feed>
+		<name> Technology RSS Feeds.</name>
+		<url>http://www.scientificamerican.com/page.cfm?section=rsscategory&amp;alias=technology</url>
+	</feed>
+	<feed>
+		<name> Moreover Technologies Free RSS News Feeds.</name>
+		<url>http://w.moreover.com/public/free-rss/rss-feeds.html</url>
+	</feed>
+	<feed>
+		<name> New Scientist â€“ Tech.</name>
+		<url>http://feeds.newscientist.com/tech</url>
+	</feed>
+	<feed>
+		<name> LA Times â€“ Technology News.</name>
+		<url>http://feeds.latimes.com/latimes/technology</url>
+	</feed>
+	<feed>
+		<name> NYT Technology.</name>
+		<url>http://feeds.nytimes.com/nyt/rss/Technology</url>
+	</feed>
+	<feed>
+		<name> Wired RSS Feeds.</name>
+		<url>http://www.wired.com/services/rss</url>
+	</feed>
+	<feed>
+		<name> NatureNews â€“ Technology.</name>
+		<url>http://feeds.nature.com/news/rss/news_s16</url>
+	</feed>
+	<feed>
+		<name> NPR Topics: Technology.</name>
+		<url>http://www.npr.org/rss/rss.php?id=1019</url>
+	</feed>
+	<feed>
+		<name> Technology Review.</name>
+		<url>http://www.technologyreview.com/corp/rss.aspx</url>
+	</feed>
+	<feed>
+		<name> CNN.com â€“ Technology.</name>
+		<url>http://rss.cnn.com/rss/cnn_tech.rss</url>
+	</feed>
+	<feed>
+		<name> Reuters: Technology News.</name>
+		<url>http://feeds.reuters.com/reuters/technologyNews</url>
+	</feed>
+	<feed>
+		<name> Nanowerk Nanotechnology News Feeds.</name>
+		<url>http://www.nanowerk.com/newsfeeds.html</url>
+	</feed>
+		
+	</category>	
+</feeds>
