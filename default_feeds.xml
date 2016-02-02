@@ -555,10 +555,7 @@
 		<name>The Guardian</name>
 		<url>http://www.theguardian.com/international/rss</url>
 	</feed>
-	<feed>
-		<name>The Atlantic</name>
-		<url>http://feeds.feedburner.com/TheAtlantic</url>
-	</feed>
+
 	<feed>
 		<name>BBC World</name>
 		<url>http://www.bbcworldwide.com/rss.aspx</url>
