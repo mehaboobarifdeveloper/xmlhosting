@@ -468,4 +468,10 @@
 		<url>http://www.nytimes.com/services/xml/rss/nyt/World.xml</url>
 	</feed>
    </category>	
+  <category type="Under Test">    
+   	<feed>
+		<name> World - The New York Times</name>
+		<url>http://www.nytimes.com/services/xml/rss/nyt/World.xml</url>
+	</feed>
+   </category>
 </feeds>
