@@ -469,9 +469,73 @@
 	</feed>
    </category>	
   <category type="Under Test">    
-   	<feed>
-		<name>ABC</name>
-		<url>http://feeds.abcnews.com/abcnews/topstories</url>
+	<feed>
+		<name>Engadget</name>
+		<url>http://www.engadget.com/rss.xml</url>
+	</feed>
+	<feed>
+		<name>Lifehacker</name>
+		<url>http://feeds.gawker.com/lifehacker/full</url>
+	</feed>
+	<feed>
+		<name>ReadWrite</name>
+		<url>http://readwrite.com/.rss/excerpt/</url>
+	</feed>
+	<feed>
+		<name>TechCrunch</name>
+		<url>http://techcrunch.com/feed/</url>
+	</feed>
+	<feed>
+		<name>WIRED</name>
+		<url>http://www.wired.com/feed/</url>
+	</feed>
+	<feed>
+		<name>Gizmodo</name>
+		<url>http://feeds.gawker.com/gizmodo/full</url>
+	</feed>
+	<feed>
+		<name>Mashable</name>
+		<url>http://feeds.mashable.com/Mashable</url>
+	</feed>
+	<feed>
+		<name>Ars Technica</name>
+		<url>http://feeds.arstechnica.com/arstechnica/index/</url>
+	</feed>
+	<feed>
+		<name>CNET News</name>
+		<url>http://www.cnet.com/rss/all/</url>
+	</feed>
+	<feed>
+		<name>Slashdot</name>
+		<url>http://rss.slashdot.org/Slashdot/slashdotMain</url>
+	</feed>
+	<feed>
+		<name>Official Google Blog - Android</name>
+		<url>http://feeds.feedburner.com/OfficialAndroidBlog</url>
+	</feed>
+	<feed>
+		<name>Android Central - Android Forums, News, Reviews, Help and Android Wallpapers</name>
+		<url>http://feeds.feedburner.com/androidcentral</url>
+	</feed>
+	<feed>
+		<name>MacRumors: Mac News</name>
+		<url>http://feeds.macrumors.com/MacRumors-All</url>
+	</feed>
+	<feed>
+		<name>The Next Web</name>
+		<url>http://feeds2.feedburner.com/thenextweb</url>
+	</feed>
+	<feed>
+		<name>Boing Boing</name>
+		<url>http://boingboing.net/feed</url>
+	</feed>
+	<feed>
+		<name>ThinkGeek - What's New</name>
+		<url>http://feeds.feedburner.com/thinkgeek/whatsnew</url>
+	</feed>
+	<feed>
+		<name>Make: DIY Projects, How-Tos, Electronics, Crafts and Ideas for Makers</name>
+		<url>http://makezine.com/feed/</url>
 	</feed>
    </category>
 </feeds>
