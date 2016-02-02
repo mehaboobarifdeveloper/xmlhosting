@@ -593,4 +593,128 @@
 		<url>http://feeds.feedburner.com/miller-mccune/main_feed</url>
 	</feed>  
     </category>
+<category type="Books">    
+	<feed>
+		<name>The Digital Reader</name>
+		<url>http://feeds.feedburner.com/TheDigitalReader</url>
+	</feed>
+	<feed>
+		<name>Books</name>
+		<url>http://www.npr.org/rss/rss.php?id=1032</url>
+	</feed>
+	<feed>
+		<name>Brain Pickings</name>
+		<url>http://feeds.feedburner.com/brainpickings/rss</url>
+	</feed>
+ </category>	
+ <category type="Business-News">    
+	<feed>
+		<name>Reuters: Business News</name>
+		<url>http://feeds.reuters.com/reuters/businessNews</url>
+	</feed>
+	<feed>
+		<name>Business Insider</name>
+		<url>http://feeds2.feedburner.com/businessinsider</url>
+	</feed>
+	<feed>
+		<name>The Blog of Author Tim Ferriss</name>
+		<url>http://feeds.feedburner.com/TimFerriss</url>
+	</feed>
+ </category>	
+  <category type="India-News">    
+	<feed>
+		<name>TOI</name>
+		<url>http://timesofindia.feedsportal.com/c/33039/f/533916/index.rss</url>
+	</feed>
+	<feed>
+		<name>NDTV News</name>
+		<url>http://feeds.feedburner.com/ndtv/Lsgd</url>
+	</feed>
+	<feed>
+		<name>DNA</name>
+		<url>http://www.dnaindia.com/syndication/rss,catid-2.xml</url>
+	</feed>
+	<feed>
+		<name>Zee News</name>
+		<url>http://zeenews.india.com/rss/india-national-news.xml</url>
+	</feed>
+	<feed>
+		<name>Kafila</name>
+		<url>http://kafila.org/feed/</url>
+	</feed>
+	<feed>
+		<name>NextBigWhat</name>
+		<url>http://feeds.feedburner.com/pluggd</url>
+	</feed>
+	<feed>
+		<name>IBN Live</name>
+		<url>http://ibnlive.in.com/ibnrss/rss/india/india.xml</url>
+	</feed>
+	<feed>
+		<name>Manorama Online Latest News </name>
+		<url>http://www.manoramaonline.com/rss/news/</url>
+	</feed>
+	<feed>
+		<name>The Hindu</name>
+		<url>http://www.thehindu.com/news/national/?service=rss</url>
+	</feed>
+ </category>
+  <category type="Global-News">    
+	<feed>
+		<name>NPR</name>
+		<url>http://www.npr.org/rss/rss.php?id=1001</url>
+	</feed>
+	<feed>
+		<name>The Huffington Post</name>
+		<url>http://feeds.huffingtonpost.com/huffingtonpost/raw_feed</url>
+	</feed>
+	<feed>
+		<name>Reuters: World News</name>
+		<url>http://feeds.reuters.com/Reuters/worldNews?format=xml</url>
+	</feed>
+	<feed>
+		<name>The Guardian</name>
+		<url>http://www.theguardian.com/international/rss</url>
+	</feed>
+	<feed>
+		<name>The Atlantic</name>
+		<url>http://feeds.feedburner.com/TheAtlantic</url>
+	</feed>
+	<feed>
+		<name>BBC World</name>
+		<url>http://www.bbcworldwide.com/rss.aspx</url>
+	</feed>
+	<feed>
+		<name>The Guardian</name>
+		<url>http://feeds.guardian.co.uk/theguardian/us-home/rss</url>
+	</feed>
+	<feed>
+		<name>VICE</name>
+		<url>http://www.vice.com/rss</url>
+	</feed>
+	<feed>
+		<name>Daily Intelligencer</name>
+		<url>http://feeds.feedburner.com/nymag/intelligencer</url>
+	</feed>
+	<feed>
+		<name>The Week</name>
+		<url>http://theweek.com/home.rss</url>
+	</feed>
+	<feed>
+		<name>The Daily Beast</name>
+		<url>http://feeds.feedburner.com/thedailybeast/articles</url>
+	</feed>
+	<feed>
+		<name>The New York Times</name>
+		<url>http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml</url>
+	</feed>
+	<feed>
+		<name>Washington Post</name>
+		<url>http://feeds.washingtonpost.com/rss/national</url>
+	</feed>
+	<feed>
+		<name>Pacific Standard</name>
+		<url>http://feeds.feedburner.com/miller-mccune/main_feed</url>
+	</feed>
+ </category>    
 </feeds>
