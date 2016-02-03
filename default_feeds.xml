@@ -785,11 +785,11 @@
   <category type="Science Daily">    
 	<feed>
 		<name>Science Daily - All</name>
-		<url>http://www.sciencedaily.com/newsfeed.xml</url>
+		<url>http://www.sciencedaily.com/newsfeed</url>
 	</feed>
 	<feed>
 		<name>Science Daily - Top</name>
-		<url>http://www.sciencedaily.com/rss/top.xml</url>
+		<url>http://www.sciencedaily.com/rss/top</url>
 	</feed>
 	<feed>
 		<name>Science Daily - Top-Narrowed</name>
