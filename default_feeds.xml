@@ -662,4 +662,68 @@
 		<url>http://feeds.feedburner.com/miller-mccune/main_feed</url>
 	</feed>
  </category>    
+<category type="Sports">    
+	<feed>
+		<name>TOI</name>
+		<url>http://timesofindia.feedsportal.com/c/33039/f/533916/index.rss</url>
+	</feed>
+	<feed>
+		<name>NDTV News</name>
+		<url>http://feeds.feedburner.com/ndtv/Lsgd</url>
+	</feed>
+	<feed>
+		<name>DNA</name>
+		<url>http://www.dnaindia.com/syndication/rss,catid-2.xml</url>
+	</feed>
+	<feed>
+		<name>Zee News</name>
+		<url>http://zeenews.india.com/rss/india-national-news.xml</url>
+	</feed>
+	<feed>
+		<name>Kafila</name>
+		<url>http://kafila.org/feed/</url>
+	</feed>
+	<feed>
+		<name>NextBigWhat</name>
+		<url>http://feeds.feedburner.com/pluggd</url>
+	</feed>
+	<feed>
+		<name>IBN Live</name>
+		<url>http://ibnlive.in.com/ibnrss/rss/india/india.xml</url>
+	</feed>
+	<feed>
+		<name>Manorama Online Latest News </name>
+		<url>http://www.manoramaonline.com/rss/news/</url>
+	</feed>
+	<feed>
+		<name>The Hindu</name>
+		<url>http://www.thehindu.com/news/national/?service=rss</url>
+	</feed>
+ </category>	
+ <category type="Cricket">    
+	<feed>
+		<name>Cric Info - Live Scores</name>
+		<url>http://static.cricinfo.com/rss/livescores.xml</url>
+	</feed>
+	<feed>
+		<name>ESPN News</name>
+		<url>http://www.espncricinfo.com/rss/content/story/feeds/0.rss</url>
+	</feed>
+	<feed>
+		<name>Cric Info - Harsha Bhogle Opinion</name>
+		<url>http://www.cricinfo.com/rss/content/story/feeds/magazine.rss?genre=357;author=0</url>
+	</feed>
+	<feed>
+		<name>India news from ESPN</name>
+		<url>http://www.espncricinfo.com/rss/content/story/feeds/6.xml</url>
+	</feed>
+	<feed>
+		<name>Rediff Cricket News</name>
+		<url>http://www.rediff.com/rss/cricketrss.xml</url>
+	</feed>
+	<feed>
+		<name>BBC Cricket News</name>
+		<url>http://feeds.bbci.co.uk/sport/0/cricket/rss.xml?edition=uk</url>
+	</feed>
+ </category>
 </feeds>
