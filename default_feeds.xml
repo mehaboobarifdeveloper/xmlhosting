@@ -726,4 +726,61 @@
 		<url>http://feeds.bbci.co.uk/sport/0/cricket/rss.xml?edition=uk</url>
 	</feed>
  </category>
+  <category type="Learn Today">    
+<feed>
+		<name>Wordsmith.org: Today's Word</name>
+		<url>https://wordsmith.org/awad/rss1.xml</url>
+	</feed>
+	<feed>
+		<name>Wordsmith.org: This week's words</name>
+		<url>https://wordsmith.org/awad/rss2.xml</url>
+	</feed>
+	<feed>
+		<name>Macmillan Dictionary - Word of the Day</name>
+		<url>http://www.macmillandictionary.com/wotd/wotdrss.xml</url>
+	</feed>
+	<feed>
+		<name>Macmillan Dictionary - BuzzWord</name>
+		<url>http://www.macmillandictionary.com/buzzword/rss.xml</url>
+	</feed>
+	<feed>
+		<name>Today in History | OnThisDay.com</name>
+		<url>http://feeds.feedburner.com/historyorb/todayinhistory</url>
+	</feed>
+	<feed>
+		<name>Historical Events | OnThisDay.com</name>
+		<url>http://feeds.feedburner.com/historicalevents</url>
+	</feed>
+	<feed>
+		<name>Famous Birthdays | OnThisDay.com</name>
+		<url>http://feeds.feedburner.com/historyorb/famousbirthdays</url>
+	</feed>
+	<feed>
+		<name>Famous Deaths | OnThisDay.com</name>
+		<url>http://feeds.feedburner.com/famousdeaths</url>
+	</feed>
+	<feed>
+		<name>Collected Daily Feeds from Infoplease.com</name>
+		<url>http://www.infoplease.com/rss/daily.rss</url>
+	</feed>
+ </category>	
+ <category type="Motivational">    
+		<feed>
+		<name>Quotes Daddy - Random quote tagged "Inspirational"</name>
+		<url>https://www.quotesdaddy.com/feed/tagged/Inspirational</url>
+	</feed>
+	<feed>
+		<name>Forbes Inspirational</name>
+		<url>http://www.forbes.com/sites/kevinkruse/feed/</url>
+	</feed>
+	<feed>
+		<name>KeepInspiring.me</name>
+		<url>http://www.keepinspiring.me/feed/</url>
+	</feed>
+	<feed>
+		<name>QuoteSnack</name>
+		<url>http://feeds.feedburner.com/QuoteSnack</url>
+	</feed>
+ </category>	
+ 
 </feeds>
