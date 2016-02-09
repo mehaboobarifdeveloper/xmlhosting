@@ -998,5 +998,474 @@
 		<url>http://timesofindia.indiatimes.com/rssfeeds/878156304.cms</url>
 	</feed>
  </category>
- 
+   <category type="The Hindu">   
+	<feed>
+		<name> Home</name>
+		<url>http://www.thehindu.com/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  News</name>
+		<url>http://www.thehindu.com/news/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Cities</name>
+		<url>http://www.thehindu.com/news/cities/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Bengaluru</name>
+		<url>http://www.thehindu.com/news/cities/bangalore/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Chennai</name>
+		<url>http://www.thehindu.com/news/cities/chennai/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Coimbatore</name>
+		<url>http://www.thehindu.com/news/cities/Coimbatore/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Delhi</name>
+		<url>http://www.thehindu.com/news/cities/Delhi/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Hyderabad</name>
+		<url>http://www.thehindu.com/news/cities/Hyderabad/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Kochi</name>
+		<url>http://www.thehindu.com/news/cities/Kochi/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Kozhikode</name>
+		<url>http://www.thehindu.com/news/cities/kozhikode/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Kolkata</name>
+		<url>http://www.thehindu.com/news/cities/kolkata/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Madurai</name>
+		<url>http://www.thehindu.com/news/cities/Madurai/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Mangaluru</name>
+		<url>http://www.thehindu.com/news/cities/Mangalore/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Mumbai</name>
+		<url>http://www.thehindu.com/news/cities/mumbai/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Bombay Showcase</name>
+		<url>http://www.thehindu.com/news/cities/mumbai/entertainment/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Mumbai Capital</name>
+		<url>http://www.thehindu.com/news/cities/mumbai/business/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Mumbai Local</name>
+		<url>http://www.thehindu.com/news/cities/mumbai/news/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Mumbai Sport</name>
+		<url>http://www.thehindu.com/news/cities/mumbai/sport/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Puducherry</name>
+		<url>http://www.thehindu.com/news/cities/puducherry/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Thiruvananthapuram</name>
+		<url>http://www.thehindu.com/news/cities/Thiruvananthapuram/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Tiruchirapalli</name>
+		<url>http://www.thehindu.com/news/cities/Tiruchirapalli/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Vijayawada</name>
+		<url>http://www.thehindu.com/news/cities/Vijayawada/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Visakhapatnam</name>
+		<url>http://www.thehindu.com/news/cities/Visakhapatnam/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  National</name>
+		<url>http://www.thehindu.com/news/national/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Andhra Pradesh</name>
+		<url>http://www.thehindu.com/news/national/andhra-pradesh/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Karnataka</name>
+		<url>http://www.thehindu.com/news/national/karnataka/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Kerala</name>
+		<url>http://www.thehindu.com/news/national/kerala/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Tamil Nadu</name>
+		<url>http://www.thehindu.com/news/national/tamil-nadu/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Telangana</name>
+		<url>http://www.thehindu.com/news/national/telangana/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Other States</name>
+		<url>http://www.thehindu.com/news/national/other-states/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  International</name>
+		<url>http://www.thehindu.com/news/international/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  South Asia</name>
+		<url>http://www.thehindu.com/news/international/south-asia/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  World</name>
+		<url>http://www.thehindu.com/news/international/world/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Opinion</name>
+		<url>http://www.thehindu.com/opinion/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Columns</name>
+		<url>http://www.thehindu.com/opinion/columns/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Editorial</name>
+		<url>http://www.thehindu.com/opinion/editorial/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Interview</name>
+		<url>http://www.thehindu.com/opinion/interview/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Lead</name>
+		<url>http://www.thehindu.com/opinion/lead/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Letters</name>
+		<url>http://www.thehindu.com/opinion/letters/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Comment</name>
+		<url>http://www.thehindu.com/opinion/op-ed/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Open Page</name>
+		<url>http://www.thehindu.com/opinion/open-page/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Readers' Editor</name>
+		<url>http://www.thehindu.com/opinion/Readers-Editor/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Corrections &amp; Clarifications</name>
+		<url>http://www.thehindu.com/opinion/Readers-Editor/corrections-and-clarifications/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Business</name>
+		<url>http://www.thehindu.com/business/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Agri-Business</name>
+		<url>http://www.thehindu.com/business/agri-business/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Budget</name>
+		<url>http://www.thehindu.com/business/budget/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Industry</name>
+		<url>http://www.thehindu.com/business/Industry/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Economy</name>
+		<url>http://www.thehindu.com/business/Economy/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Markets</name>
+		<url>http://www.thehindu.com/business/markets/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Sport</name>
+		<url>http://www.thehindu.com/sport/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Cricket</name>
+		<url>http://www.thehindu.com/sport/cricket/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  World Cup</name>
+		<url>http://www.thehindu.com/sport/cricket/world-cup/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Football</name>
+		<url>http://www.thehindu.com/sport/football/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Hockey</name>
+		<url>http://www.thehindu.com/sport/hockey/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Tennis</name>
+		<url>http://www.thehindu.com/sport/tennis/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Races</name>
+		<url>http://www.thehindu.com/sport/races/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Other Sports</name>
+		<url>http://www.thehindu.com/sport/other-sports/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  thREAD</name>
+		<url>http://www.thehindu.com/thread/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Features</name>
+		<url>http://www.thehindu.com/features/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Cinema</name>
+		<url>http://www.thehindu.com/features/cinema/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Columns</name>
+		<url>http://www.thehindu.com/features/cinema/cinema-columns/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Reviews</name>
+		<url>http://www.thehindu.com/features/cinema/cinema-reviews/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Downtown</name>
+		<url>http://www.thehindu.com/features/downtown/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Education Plus</name>
+		<url>http://www.thehindu.com/features/education/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Careers</name>
+		<url>http://www.thehindu.com/features/education/careers/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Colleges</name>
+		<url>http://www.thehindu.com/features/education/college-and-university/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Schools</name>
+		<url>http://www.thehindu.com/features/education/school/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Friday Review</name>
+		<url>http://www.thehindu.com/features/friday-review/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Art</name>
+		<url>http://www.thehindu.com/features/friday-review/art/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Dance</name>
+		<url>http://www.thehindu.com/features/friday-review/dance/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Faith</name>
+		<url>http://www.thehindu.com/features/friday-review/religion/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  History &amp; Culture</name>
+		<url>http://www.thehindu.com/features/friday-review/history-and-culture/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Music</name>
+		<url>http://www.thehindu.com/features/friday-review/music/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Theatre</name>
+		<url>http://www.thehindu.com/features/friday-review/theatre/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Property Plus</name>
+		<url>http://www.thehindu.com/features/homes-and-gardens/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Accessorize</name>
+		<url>http://www.thehindu.com/features/homes-and-gardens/accessorize/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Design</name>
+		<url>http://www.thehindu.com/features/homes-and-gardens/design/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Gardens</name>
+		<url>http://www.thehindu.com/features/homes-and-gardens/gardens/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Green Living</name>
+		<url>http://www.thehindu.com/features/homes-and-gardens/green-living/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Home Finance</name>
+		<url>http://www.thehindu.com/features/homes-and-gardens/home-finance/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Q &amp; A</name>
+		<url>http://www.thehindu.com/features/homes-and-gardens/q-and-a/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Metroplus</name>
+		<url>http://www.thehindu.com/features/metroplus/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Events</name>
+		<url>http://www.thehindu.com/features/metroplus/events/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Fashion</name>
+		<url>http://www.thehindu.com/features/metroplus/fashion/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Fitness</name>
+		<url>http://www.thehindu.com/features/metroplus/fitness/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Food</name>
+		<url>http://www.thehindu.com/features/metroplus/Food/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Motoring</name>
+		<url>http://www.thehindu.com/features/metroplus/Motoring/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Society</name>
+		<url>http://www.thehindu.com/features/metroplus/society/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Television</name>
+		<url>http://www.thehindu.com/features/metroplus/radio-and-tv/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Travel</name>
+		<url>http://www.thehindu.com/features/metroplus/travel/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Magazine</name>
+		<url>http://www.thehindu.com/features/magazine/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Columns</name>
+		<url>http://www.thehindu.com/features/magazine/mag-columns/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Young World</name>
+		<url>http://www.thehindu.com/features/kids/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Lit for Life</name>
+		<url>http://www.thehindu.com/features/lit-for-life/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  November Fest</name>
+		<url>http://www.thehindu.com/features/november-fest/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Bengaluru</name>
+		<url>http://www.thehindu.com/features/november-fest/frnf-bangalore/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Chennai</name>
+		<url>http://www.thehindu.com/features/november-fest/frnf-chennai/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Coimbatore</name>
+		<url>http://www.thehindu.com/features/november-fest/frnf-coimbatore/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Sci-Tech</name>
+		<url>http://www.thehindu.com/sci-tech/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Technology</name>
+		<url>http://www.thehindu.com/sci-tech/technology/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Gadgets</name>
+		<url>http://www.thehindu.com/sci-tech/technology/gadgets/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Internet</name>
+		<url>http://www.thehindu.com/sci-tech/technology/internet/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Environment</name>
+		<url>http://www.thehindu.com/sci-tech/energy-and-environment/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Health</name>
+		<url>http://www.thehindu.com/sci-tech/health/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Medicine</name>
+		<url>http://www.thehindu.com/sci-tech/health/medicine-and-research/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Policy &amp; Issues</name>
+		<url>http://www.thehindu.com/sci-tech/health/policy-and-issues/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Science</name>
+		<url>http://www.thehindu.com/sci-tech/science/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Agriculture</name>
+		<url>http://www.thehindu.com/sci-tech/agriculture/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Entertainment</name>
+		<url>http://www.thehindu.com/entertainment/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Art</name>
+		<url>http://www.thehindu.com/entertainment/entertainment-art/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Cinema</name>
+		<url>http://www.thehindu.com/entertainment/entertainment-cinema/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Columns</name>
+		<url>http://www.thehindu.com/entertainment/entertainment-cinema/entertainment-columns/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Review</name>
+		<url>http://www.thehindu.com/entertainment/entertainment-cinema/entertainment-review/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Dance</name>
+		<url>http://www.thehindu.com/entertainment/entertainment-dance/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  History &amp; Culture</name>
+		<url>http://www.thehindu.com/entertainment/entertainment-history/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Music</name>
+		<url>http://www.thehindu.com/entertainment/entertainment-music/?service=rss</url>
+	</feed>
+	<feed>
+		<name>  Theatre</name>
+		<url>http://www.thehindu.com/entertainment/entertainment-theatre/?service=rss</url>
+	</feed>   
+    </category>
 </feeds>
