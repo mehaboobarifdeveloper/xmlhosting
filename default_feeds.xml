@@ -1,1471 +1,1240 @@
-<feeds>
- <category type="Arts">
-	<feed>
-		<name> Arts - The New York Times</name>
-		<url>http://www.nytimes.com/services/xml/rss/nyt/Arts.xml</url>
-	</feed>
-	<feed>
-		<name> A Reason To Survive (ARTS)</name>
-		<url>http://areasontosurvive.org/feed/</url>
-	</feed>
-	<feed>
-		<name> Arts &amp; Science Council - Charlotte</name>
-		<url>http://www.artsandscience.org/index.php?format=feed&amp;type=rss</url>
-	</feed>
-	<feed>
-		<name> Arts at MIT: Home</name>
-		<url>http://arts.mit.edu/feed/</url>
-	</feed>
-	<feed>
-		<name> Illinois Arts Council Agency</name>
-		<url>http://www.arts.illinois.gov/rss.xml</url>
-	</feed>
-	<feed>
-		<name> Performing and Visual Arts News and Commentary - HuffPost Arts</name>
-		<url>http://feeds.huffingtonpost.com/huffingtonpost/raw_feed</url>
-	</feed>
-	<feed>
-		<name> Walker Art Center - Minneapolis</name>
-		<url>http://www.walkerart.org/feeds/all</url>
-	</feed>
-	<feed>
-		<name> Indiana Arts Commission - IN.gov</name>
-		<url>http://www.in.gov/portal/news_events/39129.xml</url>
-	</feed>
-  </category>
-  <category type="Business">
-	<feed>
-		<name> Forbes - Business Information and Business News - Forbes.com</name>
-		<url>http://www.forbes.com/business/feed2/</url>
-	</feed>
-	<feed>
-		<name> Business Insider</name>
-		<url>http://feeds2.feedburner.com/businessinsider</url>
-	</feed>
-	<feed>
-		<name> Business News &amp; Financial News | Reuters.com</name>
-		<url>http://feeds.reuters.com/reuters/businessNews</url>
-	</feed>
-	<feed>
-		<name> Business and Financial News - The New York Times</name>
-		<url>http://www.nytimes.com/services/xml/rss/nyt/Business.xml</url>
-	</feed>
-	<feed>
-		<name> Business and finance news from Guardian US | The Guardian</name>
-		<url>http://www.theguardian.com/us/business/rss</url>
-	</feed>
-	<feed>
-		<name> BusinessUSA</name>
-		<url>http://business.usa.gov/rss.xml</url>
-	</feed>
-	<feed>
-		<name> Business - Boston.com</name>
-		<url>http://feeds.boston.com/boston/topstories</url>
-	</feed>
-	<feed>
-		<name> Business and Finance News</name>
-		<url>http://feeds.huffingtonpost.com/huffingtonpost/raw_feed</url>
-	</feed>
-	<feed>
-		<name> Business News and Financial News - CNNMoney</name>
-		<url>http://rss.cnn.com/rss/money_latest.rss</url>
-	</feed>	
-  </category>
-  <category type="Computers">
-	<feed>
-		<name> Computers | An Open Access Journal from MDPI - MDPI.com</name>
-		<url>http://www.mdpi.com/rss</url>
-	</feed>
-	<feed>
-		<name> Computers.Woot: Laptops</name>
-		<url>http://computers.woot.com/blog/feed.rss</url>
-	</feed>
-	<feed>
-		<name> Apple</name>
-		<url>http://images.apple.com/main/rss/hotnews/hotnews.rss</url>
-	</feed>
-	<feed>
-		<name> Computers &amp; Structures - ScienceDirect.com</name>
-		<url>http://rss.sciencedirect.com/publication/science/271458</url>
-	</feed>
-	<feed>
-		<name> Computers &amp; Operations Research - ScienceDirect.com</name>
-		<url>http://rss.sciencedirect.com/publication/science/271709</url>
-	</feed>
-	<feed>
-		<name> Computers &amp; Geosciences - ScienceDirect.com</name>
-		<url>http://rss.sciencedirect.com/publication/science/271720</url>
-	</feed>
-	<feed>
-		<name> Best Computer Deals - Computers for Sale - DealNews</name>
-		<url>http://s1.dlnws.com/dealnews/rss/todays-edition.xml</url>
-	</feed>
-	<feed>
-		<name> Results for Computers</name>
-		<url>https://www.govdeals.com/rss/RSSCategory.cfm?&amp;searchPg=Category&amp;additionalParams=true&amp;sortOption=ad&amp;timing=BySimple&amp;timingType=&amp;category=29</url>
-	</feed>
-  </category>
-  <category type="Education">
-	<feed>
-		<name> Forbes - Education Information and Education News - Forbes.com</name>
-		<url>http://www.forbes.com/education/feed2/</url>
-	</feed>
-	<feed>
-		<name> Education Week American Education News Site of Record</name>
-		<url>http://feeds.feedburner.com/EducationWeekNewsAndInformationAboutEducationIssues</url>
-	</feed>
-	<feed>
-		<name> Arizona Department of Education | The Official Website of the ...</name>
-		<url>http://www.azed.gov/feed/</url>
-	</feed>
-	<feed>
-		<name> Education - US News &amp; World Report</name>
-		<url>http://www.usnews.com/rss/education</url>
-	</feed>
-	<feed>
-		<name> Education News - The New York Times</name>
-		<url>http://www.nytimes.com/services/xml/rss/nyt/Education.xml</url>
-	</feed>
-	<feed>
-		<name> New York State Education Department</name>
-		<url>http://www.nysed.gov/rss.xml</url>
-	</feed>
-	<feed>
-		<name> Education International - Latest News on Education</name>
-		<url>http://www.ei-ie.org/en/rss</url>
-	</feed>
-	<feed>
-		<name> National Center for Education Statistics (NCES) Home Page</name>
-		<url>http://nces.ed.gov/whatsnew/whatsnew_rss.asp</url>
-	</feed>
-  </category>
-  <category type="Entertainment">  
-	<feed>
-		<name> Entertainment News</name>
-		<url>http://feeds.huffingtonpost.com/huffingtonpost/raw_feed</url>
-	</feed>
-	<feed>
-		<name> POPSUGAR Entertainment</name>
-		<url>http://www.popsugar.com/entertainment/feed</url>
-	</feed>
-	<feed>
-		<name> Entertainment - Mashable</name>
-		<url>http://feeds.mashable.com/Mashable</url>
-	</feed>
-	<feed>
-		<name> Entertainment News</name>
-		<url>http://feeds.abcnews.com/abcnews/entertainmentheadlines</url>
-	</feed>
-	<feed>
-		<name> Entertainment and the business of Hollywood - Los Angeles Times</name>
-		<url>http://www.latimes.com/entertainment/rss2.0.xml</url>
-	</feed>
-	<feed>
-		<name> Entertainment Industry &amp; Celebrity News | Reuters.com</name>
-		<url>http://feeds.reuters.com/reuters/entertainment</url>
-	</feed>
-	<feed>
-		<name> Entertainment News &amp; Reviews - NY Daily News</name>
-		<url>http://feeds.nydailynews.com/nydnrss</url>
-	</feed>
-	<feed>
-		<name> Philly.com guide to entertainment news</name>
-		<url>http://www.philly.com/philly_entertainment.rss</url>
-	</feed>
-	<feed>
-		<name> Entertainment - Salon.com</name>
-		<url>http://www.salon.com/feed/</url>
-	</feed>
-  </category>
-  <category type="Games">  
-	<feed>
-		<name> Games at Miniclip.com - Play Free Online Games</name>
-		<url>http://www.miniclip.com/games/en/feed.xml</url>
-	</feed>
-	<feed>
-		<name> Play Free Games Online at Armor Games</name>
-		<url>http://feeds.armorgames.com/armorgames</url>
-	</feed>
-	<feed>
-		<name> Play Free Games by Nitrome</name>
-		<url>http://www.nitrome.com/interchange/gamedata/rss/game-releases.php</url>
-	</feed>
-	<feed>
-		<name> Y8 Games</name>
-		<url>http://www.y8.com/feed.rss</url>
-	</feed>
-	<feed>
-		<name> Forbes - Games Information and Games News - Forbes.com</name>
-		<url>http://www.forbes.com/games/feed2/</url>
-	</feed>
-  </category>
-  <category type="Health">  
-	<feed>
-		<name> Health.com: Fitness</name>
-		<url>http://feeds.health.com/healthtopstories</url>
-	</feed>
-	<feed>
-		<name> HealthCare.gov: Get 2016 health coverage. Health Insurance ...</name>
-		<url>https://www.healthcare.gov/blog/blog.rss</url>
-	</feed>
-	<feed>
-		<name> Forbes - Health Information and Health News - Forbes.com</name>
-		<url>http://www.forbes.com/health/feed2/</url>
-	</feed>
-	<feed>
-		<name> Health News - The New York Times</name>
-		<url>http://www.nytimes.com/services/xml/rss/nyt/Health.xml</url>
-	</feed>
-	<feed>
-		<name> Health News Articles - US News Health - US News</name>
-		<url>http://www.usnews.com/rss/health</url>
-	</feed>
-	<feed>
-		<name> Yahoo Health</name>
-		<url>https://www.yahoo.com/health/rss</url>
-	</feed>
-	<feed>
-		<name> Health &amp; Fitness News | Reuters.com</name>
-		<url>http://feeds.reuters.com/reuters/healthNews</url>
-	</feed>
-	<feed>
-		<name> News on Medicare Insurance</name>
-		<url>http://search.aarp.org/rss/section/Health/?recsPerPage=99</url>
-	</feed>
-	<feed>
-		<name> WebMD - Better information. Better health.</name>
-		<url>http://rssfeeds.webmd.com/rss/rss.aspx?RSSSource=RSS_PUBLIC</url>
-	</feed>
-  </category>	
-  <category type="Kids">
-	<feed>
-		<name> Rosie's Theater Kids | "We're Rehearsing for Life!"</name>
-		<url>https://rosiestheaterkids.org/feed/</url>
-	</feed>
-	<feed>
-		<name> Kids.Woot: Toys</name>
-		<url>http://kids.woot.com/blog/feed.rss</url>
-	</feed>
-	<feed>
-		<name> Michigan eLibrary (MeL) - Home</name>
-		<url>http://kids.mel.org/rss/new</url>
-	</feed>
-	<feed>
-		<name> SummerStage Kids - City Parks Foundation</name>
-		<url>http://www.cityparksfoundation.org/feed/</url>
-	</feed>
-	<feed>
-		<name> Safe Kids Worldwide</name>
-		<url>http://www.safekids.org/rss.xml</url>
-	</feed>
-  </category>
-  <category type="Lifestyle">
-	<feed>
-		<name> Forbes - Lifestyle - Forbes.com</name>
-		<url>http://www.forbes.com/lifestyle/feed2/</url>
-	</feed>
-	<feed>
-		<name> Lifestyle News</name>
-		<url>http://www.lifehack.org/feed</url>
-	</feed>
-	<feed>
-		<name> Lifestyle - definition of lifestyle by The Free Dictionary</name>
-		<url>http://www.thefreedictionary.com/_/WoD/rss.aspx</url>
-	</feed>
-	<feed>
-		<name> Lifestyle - Mashable</name>
-		<url>http://feeds.mashable.com/Mashable</url>
-	</feed>
-	<feed>
-		<name> Life and style | The Guardian</name>
-		<url>http://www.theguardian.com/us/lifeandstyle/rss</url>
-	</feed>
-	<feed>
-		<name> Lifestyle | The Independent</name>
-		<url>http://www.independent.co.uk/life-style/rss</url>
-	</feed>
-	<feed>
-		<name> Lifestyles : Stltoday - St. Louis Post-Dispatch</name>
-		<url>http://www.stltoday.com/search/?f=rss&amp;t=article&amp;c=lifestyles&amp;l=50&amp;s=start_time&amp;sd=desc</url>
-	</feed>
-	<feed>
-		<name> Lifestyle | Lifestyle | News.com.au</name>
-		<url>http://www.news.com.au/feed/</url>
-	</feed>
-	<feed>
-		<name> Lifestyle - Huffington Post</name>
-		<url>http://feeds.huffingtonpost.com/huffingtonpost/raw_feed</url>
-	</feed>
-  </category>
-  <category type="News">
-	<feed>
-		<name> Fox News - Breaking News Updates | Latest News Headlines ...</name>
-		<url>http://feeds.feedburner.com/foxnews/latest</url>
-	</feed>
-	<feed>
-		<name> Google News</name>
-		<url>http://news.google.com/news?cf=all&amp;hl=en&amp;pz=1&amp;ned=us&amp;topic=h&amp;num=3&amp;output=rss</url>
-	</feed>
-	<feed>
-		<name> U.S. &amp; International Headline News - ABC News</name>
-		<url>http://feeds.abcnews.com/abcnews/topstories</url>
-	</feed>
-	<feed>
-		<name> News: U.S. and World News Headlines : NPR</name>
-		<url>http://www.npr.org/rss/rss.php?id=1001</url>
-	</feed>
-	<feed>
-		<name> Breaking</name>
-		<url>http://feeds.nydailynews.com/nydnrss</url>
-	</feed>
-	<feed>
-		<name> News - US News &amp; World Report</name>
-		<url>http://www.usnews.com/rss/news</url>
-	</feed>
-	<feed>
-		<name> All news</name>
-		<url>https://www.reddit.com/r/news/.rss</url>
-	</feed>
-	<feed>
-		<name> News - Entertainment</name>
-		<url>http://www.mtv.com/news/feed/</url>
-	</feed>
-	<feed>
-		<name> Fox News is getting really good at spotting Ted Cruz's lies. - Slate</name>
-		<url>http://www.slate.com/articles/news_and_politics.fulltext.all.rss</url>
-	</feed>
-	<feed>
-		<name>News18</name>
-		<url>http://english.pradesh18.com/rss/live-news.xml</url>
-	</feed>	
-	
-  </category>
-  <category type="Science">
-	<feed>
-		<name>Science</name>
-		<url>http://www.sciencemag.org/rss/current.xml</url>
-	</feed>
-	<feed>
-		<name> Science | WIRED</name>
-		<url>http://www.wired.com/feed/</url>
-	</feed>
-	<feed>
-		<name> Science | The Guardian</name>
-		<url>https://www.theguardian.com/science/rss</url>
-	</feed>
-	<feed>
-		<name> Science News</name>
-		<url>http://feeds.huffingtonpost.com/huffingtonpost/raw_feed</url>
-	</feed>
-	<feed>
-		<name> Science - Telegraph</name>
-		<url>http://www.telegraph.co.uk/news/science/rss</url>
-	</feed>
-	<feed>
-		<name> The Independent | Science News | Latest Science News and ...</name>
-		<url>http://www.independent.co.uk/news/science/rss</url>
-	</feed>
-  </category>
-  <category type="Shopping">
-	<feed>
-		<name> The Shops at Wailea</name>
-		<url>http://theshopsatwailea.com/feed/</url>
-	</feed>
-	<feed>
-		<name> Shopping - The Magnificent Mile - Chicago</name>
-		<url>http://www.themagnificentmile.com/shopping/feed/</url>
-	</feed>
-	<feed>
-		<name> Shop - National Harbor</name>
-		<url>http://www.nationalharbor.com/feed/</url>
-	</feed>
-	<feed>
-		<name> Harris Teeter - Shopping</name>
-		<url>http://www.harristeeter.com/other/rss.aspx?type=blog</url>
-	</feed>
-	<feed>
-		<name> Shopping - Discover Stillwater</name>
-		<url>http://www.discoverstillwater.com/feed/</url>
-	</feed>
-	<feed>
-		<name> ALDI US - Shopping at ALDI</name>
-		<url>https://www.aldi.us/en/rss.xml</url>
-	</feed>
-
-  </category>
-   <category type="Sports">
-	<feed>
-		<name> Sports - CBSSports.com Sports News</name>
-		<url>http://www.cbssports.com/partners/feeds/rss/home_news</url>
-	</feed>
-	<feed>
-		<name> BBC Sport - Sport - BBC.com</name>
-		<url>http://feeds.bbci.co.uk/sport/0/rss.xml</url>
-	</feed>
-	<feed>
-		<name> Sports News - The New York Times</name>
-		<url>http://www.nytimes.com/services/xml/rss/nyt/Sports.xml</url>
-	</feed>
-	<feed>
-		<name> Sports â€“ FiveThirtyEight</name>
-		<url>http://fivethirtyeight.com/sports/feed/</url>
-	</feed>
-	<feed>
-		<name> Sports | Boston Herald</name>
-		<url>http://www.bostonherald.com/taxonomy/term/2/feed</url>
-	</feed>
-	<feed>
-		<name> Sports news</name>
-		<url>http://www.theguardian.com/us/sport/rss</url>
-	</feed>
-	<feed>
-		<name> Sports News</name>
-		<url>http://feeds.huffingtonpost.com/huffingtonpost/raw_feed</url>
-	</feed>
-	<feed>
-		<name> Sports - Los Angeles Times</name>
-		<url>http://www.latimes.com/sports/rss2.0.xml</url>
-	</feed>
-	<feed>
-		<name> NY Sports News - Newsday - Scores</name>
-		<url>http://www.newsday.com/xml/sports/sports-stories-from-newsday-1.1250359</url>
-	</feed>
-	<feed>
-		<name> Chicago Sports News</name>
-		<url>http://www.chicagotribune.com/sports/rss2.0.xml</url>
-	</feed>
-  </category>
-  <category type="World">  
-	<feed>
-		<name> WORLDSTARHIPHOP | Entertainment and News Media</name>
-		<url>http://www.worldstarhiphop.com/videos/rss.php</url>
-	</feed>
-	<feed>
-		<name> World News | Reuters.com</name>
-		<url>http://feeds.reuters.com/reuters/worldNews</url>
-	</feed>
-	<feed>
-		<name> World Bank Group</name>
-		<url>http://www.worldbank.org/rss.xml</url>
-	</feed>
-	<feed>
-		<name> World news and comment from the Guardian | The Guardian</name>
-		<url>http://www.theguardian.com/world/rss</url>
-	</feed>
-	<feed>
-		<name> World News</name>
-		<url>http://feeds.huffingtonpost.com/huffingtonpost/raw_feed</url>
-	</feed>
-	<feed>
-		<name> World Development - ScienceDirect.com</name>
-		<url>http://rss.sciencedirect.com/publication/science/271773</url>
-	</feed>
-	<feed>
-		<name> World News - latest world news headlines - FT.com - Financial Times</name>
-		<url>http://www.ft.com/rss/world</url>
-	</feed>
-	<feed>
-		<name> World - Mashable</name>
-		<url>http://feeds.mashable.com/Mashable</url>
-	</feed>
-	<feed>
-		<name> World - The New York Times</name>
-		<url>http://www.nytimes.com/services/xml/rss/nyt/World.xml</url>
-	</feed>
-   </category>	
-  <category type="Tech-News">    
-	<feed>
-		<name>Engadget</name>
-		<url>http://www.engadget.com/rss.xml</url>
-	</feed>
-	<feed>
-		<name>Lifehacker</name>
-		<url>http://feeds.gawker.com/lifehacker/full</url>
-	</feed>
-	<feed>
-		<name>ReadWrite</name>
-		<url>http://readwrite.com/.rss/excerpt/</url>
-	</feed>
-	<feed>
-		<name>TechCrunch</name>
-		<url>http://techcrunch.com/feed/</url>
-	</feed>
-	<feed>
-		<name>WIRED</name>
-		<url>http://www.wired.com/feed/</url>
-	</feed>
-	<feed>
-		<name>Gizmodo</name>
-		<url>http://feeds.gawker.com/gizmodo/full</url>
-	</feed>
-	<feed>
-		<name>Mashable</name>
-		<url>http://feeds.mashable.com/Mashable</url>
-	</feed>
-	<feed>
-		<name>Ars Technica</name>
-		<url>http://feeds.arstechnica.com/arstechnica/index/</url>
-	</feed>
-	<feed>
-		<name>CNET News</name>
-		<url>http://www.cnet.com/rss/all/</url>
-	</feed>
-	<feed>
-		<name>Slashdot</name>
-		<url>http://rss.slashdot.org/Slashdot/slashdotMain</url>
-	</feed>
-	<feed>
-		<name>Official Google Blog - Android</name>
-		<url>http://feeds.feedburner.com/OfficialAndroidBlog</url>
-	</feed>
-	<feed>
-		<name>Android Central - Android Forums, News, Reviews, Help and Android Wallpapers</name>
-		<url>http://feeds.feedburner.com/androidcentral</url>
-	</feed>
-	<feed>
-		<name>MacRumors: Mac News</name>
-		<url>http://feeds.macrumors.com/MacRumors-All</url>
-	</feed>
-	<feed>
-		<name>The Next Web</name>
-		<url>http://feeds2.feedburner.com/thenextweb</url>
-	</feed>
-	<feed>
-		<name>Boing Boing</name>
-		<url>http://boingboing.net/feed</url>
-	</feed>
-	<feed>
-		<name>ThinkGeek - What's New</name>
-		<url>http://feeds.feedburner.com/thinkgeek/whatsnew</url>
-	</feed>
-	<feed>
-		<name>Make: DIY Projects, How-Tos, Electronics, Crafts and Ideas for Makers</name>
-		<url>http://makezine.com/feed/</url>
-	</feed>
-   </category>
- <category type="Books">    
-	<feed>
-		<name>The Digital Reader</name>
-		<url>http://feeds.feedburner.com/TheDigitalReader</url>
-	</feed>
-	<feed>
-		<name>Books</name>
-		<url>http://www.npr.org/rss/rss.php?id=1032</url>
-	</feed>
-	<feed>
-		<name>Brain Pickings</name>
-		<url>http://feeds.feedburner.com/brainpickings/rss</url>
-	</feed>
- </category>	
- <category type="Business-News">    
-	<feed>
-		<name>Reuters: Business News</name>
-		<url>http://feeds.reuters.com/reuters/businessNews</url>
-	</feed>
-	<feed>
-		<name>Business Insider</name>
-		<url>http://feeds2.feedburner.com/businessinsider</url>
-	</feed>
-	<feed>
-		<name>The Blog of Author Tim Ferriss</name>
-		<url>http://feeds.feedburner.com/TimFerriss</url>
-	</feed>
- </category>	
-  <category type="India-News">    
-	<feed>
-		<name>TOI</name>
-		<url>http://timesofindia.feedsportal.com/c/33039/f/533916/index.rss</url>
-	</feed>
-	<feed>
-		<name>NDTV News</name>
-		<url>http://feeds.feedburner.com/ndtv/Lsgd</url>
-	</feed>
-	<feed>
-		<name>DNA</name>
-		<url>http://www.dnaindia.com/syndication/rss,catid-2.xml</url>
-	</feed>
-	<feed>
-		<name>Zee News</name>
-		<url>http://zeenews.india.com/rss/india-national-news.xml</url>
-	</feed>
-	<feed>
-		<name>Kafila</name>
-		<url>http://kafila.org/feed/</url>
-	</feed>
-	<feed>
-		<name>NextBigWhat</name>
-		<url>http://feeds.feedburner.com/pluggd</url>
-	</feed>
-	<feed>
-		<name>IBN Live</name>
-		<url>http://ibnlive.in.com/ibnrss/rss/india/india.xml</url>
-	</feed>
-	<feed>
-		<name>Manorama Online Latest News </name>
-		<url>http://www.manoramaonline.com/rss/news/</url>
-	</feed>
-	<feed>
-		<name>The Hindu</name>
-		<url>http://www.thehindu.com/news/national/?service=rss</url>
-	</feed>
- </category>
-  <category type="Global-News">    
-	<feed>
-		<name>NPR</name>
-		<url>http://www.npr.org/rss/rss.php?id=1001</url>
-	</feed>
-	<feed>
-		<name>The Huffington Post</name>
-		<url>http://feeds.huffingtonpost.com/huffingtonpost/raw_feed</url>
-	</feed>
-	<feed>
-		<name>Reuters: World News</name>
-		<url>http://feeds.reuters.com/Reuters/worldNews?format=xml</url>
-	</feed>
-	<feed>
-		<name>The Guardian</name>
-		<url>http://www.theguardian.com/international/rss</url>
-	</feed>
-	<feed>
-		<name>The Atlantic</name>
-		<url>http://feeds.feedburner.com/TheAtlantic</url>
-	</feed>
-	<feed>
-		<name>BBC World</name>
-		<url>http://www.bbcworldwide.com/rss.aspx</url>
-	</feed>
-	<feed>
-		<name>The Guardian</name>
-		<url>http://feeds.guardian.co.uk/theguardian/us-home/rss</url>
-	</feed>
-	<feed>
-		<name>VICE</name>
-		<url>http://www.vice.com/rss</url>
-	</feed>
-	<feed>
-		<name>Daily Intelligencer</name>
-		<url>http://feeds.feedburner.com/nymag/intelligencer</url>
-	</feed>
-	<feed>
-		<name>The Week</name>
-		<url>http://theweek.com/home.rss</url>
-	</feed>
-	<feed>
-		<name>The Daily Beast</name>
-		<url>http://feeds.feedburner.com/thedailybeast/articles</url>
-	</feed>
+<category type="News">
 	<feed>
 		<name>The New York Times</name>
 		<url>http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml</url>
 	</feed>
 	<feed>
-		<name>Washington Post</name>
-		<url>http://feeds.washingtonpost.com/rss/national</url>
+		<name>CNN   </name>
+		<url>http://rss.cnn.com/rss/cnn_topstories.rss</url>
 	</feed>
 	<feed>
-		<name>Pacific Standard</name>
-		<url>http://feeds.feedburner.com/miller-mccune/main_feed</url>
-	</feed>
- </category>    
-<category type="Sports">    
-	<feed>
-		<name>TOI</name>
-		<url>http://timesofindia.feedsportal.com/c/33039/f/533916/index.rss</url>
+		<name>BBC   </name>
+		<url>http://newsrss.bbc.co.uk/rss/newsonline_world_edition/front_page/rss.xml</url>
 	</feed>
 	<feed>
-		<name>NDTV News</name>
-		<url>http://feeds.feedburner.com/ndtv/Lsgd</url>
+		<name>Reuters   </name>
+		<url>http://feeds.reuters.com/reuters/topNews?irpc=69</url>
 	</feed>
 	<feed>
-		<name>DNA</name>
-		<url>http://www.dnaindia.com/syndication/rss,catid-2.xml</url>
+		<name>NPR News  </name>
+		<url>http://www.npr.org/rss/rss.php?id=1001</url>
 	</feed>
 	<feed>
-		<name>Zee News</name>
-		<url>http://zeenews.india.com/rss/india-national-news.xml</url>
+		<name>The Guardian  </name>
+		<url>http://www.guardian.co.uk/rssfeed/0100.xml</url>
 	</feed>
 	<feed>
-		<name>Kafila</name>
-		<url>http://kafila.org/feed/</url>
+		<name>USA Today  </name>
+		<url>http://rssfeeds.usatoday.com/usatoday-NewsTopStories</url>
 	</feed>
 	<feed>
-		<name>NextBigWhat</name>
-		<url>http://feeds.feedburner.com/pluggd</url>
+		<name>ABC News  </name>
+		<url>http://feeds.abcnews.com/abcnews/topstories</url>
 	</feed>
 	<feed>
-		<name>IBN Live</name>
-		<url>http://ibnlive.in.com/ibnrss/rss/india/india.xml</url>
+		<name>FOX News  </name>
+		<url>http://feeds.foxnews.com/foxnews/scitech</url>
 	</feed>
 	<feed>
-		<name>Manorama Online Latest News </name>
-		<url>http://www.manoramaonline.com/rss/news/</url>
+		<name>Slate Articles  </name>
+		<url>http://www.slate.com/rss</url>
 	</feed>
 	<feed>
-		<name>The Hindu</name>
-		<url>http://www.thehindu.com/news/national/?service=rss</url>
-	</feed>
- </category>	
- <category type="Cricket">    
-	<feed>
-		<name>Cric Info - Live Scores</name>
-		<url>http://static.cricinfo.com/rss/livescores.xml</url>
+		<name>Top Stories - Google</name>
+		<url>http://news.google.com/?output=rss</url>
 	</feed>
 	<feed>
-		<name>ESPN News</name>
-		<url>http://www.espncricinfo.com/rss/content/story/feeds/0.rss</url>
+		<name>Top Stories - Google</name>
+		<url>http://news.google.com/?topic=h&amp;num=3&amp;output=rss</url>
 	</feed>
 	<feed>
-		<name>Cric Info - Harsha Bhogle Opinion</name>
-		<url>http://www.cricinfo.com/rss/content/story/feeds/magazine.rss?genre=357;author=0</url>
+		<name>Gawker   </name>
+		<url>http://feeds.gawker.com/gawker/vip</url>
 	</feed>
 	<feed>
-		<name>India news from ESPN</name>
-		<url>http://www.espncricinfo.com/rss/content/story/feeds/6.xml</url>
+		<name>US news | The</name>
+		<url>http://www.guardian.co.uk/world/usa/rss</url>
 	</feed>
 	<feed>
-		<name>Rediff Cricket News</name>
-		<url>http://www.rediff.com/rss/cricketrss.xml</url>
+		<name>OZY   </name>
+		<url>http://www.ozy.com/XmlServers/DailyDoseRSS.aspx</url>
 	</feed>
 	<feed>
-		<name>BBC Cricket News</name>
-		<url>http://feeds.bbci.co.uk/sport/0/cricket/rss.xml?edition=uk</url>
+		<name>MTV News  </name>
+		<url>http://feeds.feedburner.com/MTVNewsLatest</url>
 	</feed>
- </category>
-  <category type="Learn Today">    
+</category>
+<category type="Tech">
 <feed>
-		<name>Wordsmith.org: Today's Word</name>
-		<url>https://wordsmith.org/awad/rss1.xml</url>
+		<name>Lifehacker   </name>
+		<url>http://feeds.gawker.com/lifehacker/vip</url>
 	</feed>
 	<feed>
-		<name>Wordsmith.org: This week's words</name>
-		<url>https://wordsmith.org/awad/rss2.xml</url>
+		<name>Engadget   </name>
+		<url>http://www.engadget.com/rss-full.xml</url>
 	</feed>
 	<feed>
-		<name>Macmillan Dictionary - Word of the Day</name>
-		<url>http://www.macmillandictionary.com/wotd/wotdrss.xml</url>
+		<name>TechCrunch   </name>
+		<url>http://feeds.feedburner.com/Techcrunch</url>
 	</feed>
 	<feed>
-		<name>Macmillan Dictionary - BuzzWord</name>
-		<url>http://www.macmillandictionary.com/buzzword/rss.xml</url>
+		<name>The Verge  </name>
+		<url>http://www.theverge.com/rss/full.xml</url>
 	</feed>
 	<feed>
-		<name>Today in History | OnThisDay.com</name>
-		<url>http://feeds.feedburner.com/historyorb/todayinhistory</url>
+		<name>Gizmodo   </name>
+		<url>http://feeds.gawker.com/gizmodo/full</url>
 	</feed>
 	<feed>
-		<name>Historical Events | OnThisDay.com</name>
-		<url>http://feeds.feedburner.com/historicalevents</url>
+		<name>Mashable   </name>
+		<url>http://feeds.mashable.com/Mashable</url>
 	</feed>
 	<feed>
-		<name>Famous Birthdays | OnThisDay.com</name>
-		<url>http://feeds.feedburner.com/historyorb/famousbirthdays</url>
+		<name>Ars Technica  </name>
+		<url>http://feeds.arstechnica.com/arstechnica/index/</url>
 	</feed>
 	<feed>
-		<name>Famous Deaths | OnThisDay.com</name>
-		<url>http://feeds.feedburner.com/famousdeaths</url>
+		<name>Slashdot   </name>
+		<url>http://rss.slashdot.org/Slashdot/slashdot</url>
 	</feed>
 	<feed>
-		<name>Collected Daily Feeds from Infoplease.com</name>
-		<url>http://www.infoplease.com/rss/daily.rss</url>
+		<name>Official Google Blog </name>
+		<url>http://googleblog.blogspot.com/atom.xml</url>
 	</feed>
- </category>	
- <category type="Motivational">    
-		<feed>
-		<name>Quotes Daddy - Random quote tagged "Inspirational"</name>
-		<url>https://www.quotesdaddy.com/feed/tagged/Inspirational</url>
+	<feed>
+		<name>CNET News  </name>
+		<url>http://news.com.com/2547-1_3-0-5.xml</url>
+	</feed>
+	<feed>
+		<name>ReadWrite   </name>
+		<url>http://www.readwriteweb.com/rss.xml</url>
+	</feed>
+	<feed>
+		<name>Boing Boing  </name>
+		<url>http://feeds.boingboing.net/boingboing/iBag</url>
+	</feed>
+	<feed>
+		<name>The Next Web </name>
+		<url>http://feeds2.feedburner.com/thenextweb</url>
+	</feed>
+	<feed>
+		<name>TIME   </name>
+		<url>http://rss.time.com/web/time/rss/top/index.xml</url>
+	</feed>
+	<feed>
+		<name>ThinkGeek - What's New</name>
+		<url>http://www.thinkgeek.com/thinkgeek.rss</url>
+	</feed>
+</category>
+<category type="Android">
+	<feed>
+		<name>Android Central  </name>
+		<url>http://www.androidcentral.com/feed</url>
+	</feed>
+	<feed>
+		<name>Android Developers Blog </name>
+		<url>http://feeds.feedburner.com/blogspot/hsDu</url>
+	</feed>
+	<feed>
+		<name>Android Police - Android</name>
+		<url>http://www.androidpolice.com/feed/</url>
+	</feed>
+	<feed>
+		<name>Phandroid   </name>
+		<url>http://phandroid.com/feed/</url>
+	</feed>
+	<feed>
+		<name>Android and Me </name>
+		<url>http://androidandme.com/feed/</url>
+	</feed>
+	<feed>
+		<name>xda-developers » xda-developers |</name>
+		<url>http://www.xda-developers.com/feed/</url>
+	</feed>
+	<feed>
+		<name>Android Community  </name>
+		<url>http://androidcommunity.com/feed/</url>
+	</feed>
+	<feed>
+		<name>BGR   </name>
+		<url>http://www.boygeniusreport.com/feed/</url>
+	</feed>
+	<feed>
+		<name>Android Authority  </name>
+		<url>http://feeds.feedburner.com/androidauthority</url>
+	</feed>
+	<feed>
+		<name>Official Android Blog </name>
+		<url>http://officialandroid.blogspot.com/feeds/posts/default</url>
+	</feed>
+	<feed>
+		<name>Droid Life  </name>
+		<url>http://www.droid-life.com/feed/</url>
+	</feed>
+	<feed>
+		<name>GSMArena.com - Latest articles</name>
+		<url>http://www.gsmarena.com/rss-news-reviews.php3</url>
+	</feed>
+	<feed>
+		<name>Hello Android  </name>
+		<url>http://www.helloandroid.com/rss.xml</url>
+	</feed>
+	<feed>
+		<name>Pocketnow   </name>
+		<url>http://feeds.feedburner.com/pocketnow</url>
+	</feed>
+	<feed>
+		<name>AndroidGuys   </name>
+		<url>http://www.androidguys.com/feed/</url>
+	</feed>
+	<feed>
+		<name>CyanogenMod   </name>
+		<url>http://www.cyanogenmod.com/feed</url>
+	</feed>
+	<feed>
+		<name>TalkAndroid   </name>
+		<url>http://www.talkandroid.com/feed/</url>
+	</feed>
+	<feed>
+		<name>Cult of Android </name>
+		<url>http://cultofandroid.com/feed/rss/</url>
+	</feed>
+	<feed>
+		<name>APKMANIA.COM®   </name>
+		<url>http://www.apkmania.co/feeds/posts/default</url>
+	</feed>
+	<feed>
+		<name>Android Niceties  </name>
+		<url>http://androidniceties.tumblr.com/rss</url>
+	</feed>
+</category>
+<category type="Apple">
+	<feed>
+		<name>MacRumors   </name>
+		<url>http://www.macrumors.com/macrumors.xml</url>
+	</feed>
+	<feed>
+		<name>Daring Fireball  </name>
+		<url>http://daringfireball.net/index.xml</url>
+	</feed>
+	<feed>
+		<name>TUAW - The Unofficial</name>
+		<url>http://www.tuaw.com/rss.xml</url>
+	</feed>
+	<feed>
+		<name>9to5Mac   </name>
+		<url>http://9to5mac.com/feed/</url>
+	</feed>
+	<feed>
+		<name>Cult of Mac </name>
+		<url>http://www.cultofmac.com/?feed=onswipe</url>
+	</feed>
+	<feed>
+		<name>Apple Hot News </name>
+		<url>http://images.apple.com/main/rss/hotnews/hotnews.rss</url>
+	</feed>
+	<feed>
+		<name>Macworld   </name>
+		<url>http://rss.macworld.com/macworld/feeds/main</url>
+	</feed>
+	<feed>
+		<name>iMore - The #1</name>
+		<url>http://feeds.feedburner.com/theiphoneblog</url>
+	</feed>
+	<feed>
+		<name>Mark's Daily Apple </name>
+		<url>http://www.marksdailyapple.com/feed/</url>
+	</feed>
+	<feed>
+		<name>Marco.org   </name>
+		<url>http://www.marco.org/rss</url>
+	</feed>
+	<feed>
+		<name>Mac Life  </name>
+		<url>http://www.maclife.com/articles/all/feed</url>
+	</feed>
+	<feed>
+		<name>MacStories   </name>
+		<url>http://feeds.feedburner.com/macstoriesnet</url>
+	</feed>
+	<feed>
+		<name>Infinite Loop  </name>
+		<url>http://feeds.arstechnica.com/arstechnica/apple/</url>
+	</feed>
+	<feed>
+		<name>OS X Daily </name>
+		<url>http://osxdaily.com/feed/</url>
+	</feed>
+	<feed>
+		<name>MacNN | The Macintosh</name>
+		<url>http://www.macnn.com/macnn.rss</url>
+	</feed>
+	<feed>
+		<name>The Loop  </name>
+		<url>http://www.loopinsight.com/feed/</url>
+	</feed>
+	<feed>
+		<name>News and Updates -</name>
+		<url>http://developer.apple.com/rss/iphonedevnews.rss</url>
+	</feed>
+	<feed>
+		<name>AppleInsider - Frontpage News</name>
+		<url>http://appleinsider.com.feedsportal.com/c/33975/f/616168/index.rss</url>
+	</feed>
+	<feed>
+		<name>AppleInsider - Apple News</name>
+		<url>http://appleinsider.com/rss/feedly</url>
+	</feed>
+</category>
+<category type="Gaming">
+<feed>
+		<name>Kotaku   </name>
+		<url>http://feeds.gawker.com/kotaku/vip</url>
+	</feed>
+	<feed>
+		<name>Polygon   </name>
+		<url>http://www.polygon.com/rss/index.xml</url>
+	</feed>
+	<feed>
+		<name>IGN Video Games </name>
+		<url>http://feeds.ign.com/ign/games-all</url>
+	</feed>
+	<feed>
+		<name>Rock Paper Shotgun </name>
+		<url>http://feeds.feedburner.com/RockPaperShotgun</url>
+	</feed>
+	<feed>
+		<name>Steam RSS News Feed</name>
+		<url>http://store.steampowered.com/feeds/news.xml</url>
+	</feed>
+	<feed>
+		<name>PlayStation.Blog   </name>
+		<url>http://feeds.feedburner.com/PSBlog</url>
 	</feed>
 	<feed>
-		<name>Forbes Inspirational</name>
-		<url>http://www.forbes.com/sites/kevinkruse/feed/</url>
+		<name>GameSpot   </name>
+		<url>http://www.gamespot.com/rss/game_updates.php</url>
 	</feed>
 	<feed>
-		<name>KeepInspiring.me</name>
-		<url>http://www.keepinspiring.me/feed/</url>
+		<name>IndieGames   </name>
+		<url>http://www.indiegames.com/blog/atom.xml</url>
 	</feed>
 	<feed>
-		<name>QuoteSnack</name>
-		<url>http://feeds.feedburner.com/QuoteSnack</url>
+		<name>Gamasutra News  </name>
+		<url>http://feeds.feedburner.com/GamasutraFeatureArticles/</url>
 	</feed>
- </category>	
- 
-  <category type="Times of India Complete">    
 	<feed>
-		<name>Top Stories</name>
-		<url>http://timesofindia.indiatimes.com/rssfeedstopstories.cms</url>
+		<name>Game Life  </name>
+		<url>http://www.wired.com/gamelife/feed/</url>
 	</feed>
 	<feed>
-		<name>Most Recent Stories</name>
-		<url>http://timesofindia.indiatimes.com/rssfeeds/1221656.cms</url>
+		<name>Xbox Live's Major Nelson</name>
+		<url>http://feeds.feedburner.com/MajorNelson</url>
 	</feed>
 	<feed>
-		<name>India</name>
-		<url>http://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms</url>
+		<name>PC Gamer latest stories</name>
+		<url>http://www.pcgamer.com/feed/</url>
 	</feed>
 	<feed>
-		<name>World</name>
-		<url>http://timesofindia.indiatimes.com/rssfeeds/296589292.cms</url>
+		<name>destructoid   </name>
+		<url>http://www.destructoid.com/elephant/index.phtml?mode=atom</url>
 	</feed>
 	<feed>
-		<name>NRI</name>
-		<url>http://timesofindia.indiatimes.com/rssfeeds/7098551.cms</url>
+		<name>Zero Punctuation  </name>
+		<url>http://www.escapistmagazine.com/rss/videos/list/1.xml</url>
 	</feed>
 	<feed>
-		<name>Business</name>
-		<url>http://timesofindia.indiatimes.com/rssfeeds/1898055.cms</url>
+		<name>TouchArcade   </name>
+		<url>http://toucharcade.com/feed/</url>
 	</feed>
 	<feed>
-		<name>Cricket</name>
-		<url>http://timesofindia.indiatimes.com/rssfeeds/4719161.cms</url>
+		<name>Opposable Thumbs  </name>
+		<url>http://feeds.arstechnica.com/arstechnica/gaming/</url>
 	</feed>
 	<feed>
-		<name>Sports</name>
-		<url>http://timesofindia.indiatimes.com/rssfeeds/4719148.cms</url>
+		<name>Eurogamers</name>
+		<url>http://www.eurogamer.net/rss/eurogamer_frontpage_feed.rss</url>
 	</feed>
 	<feed>
-		<name>Health</name>
-		<url>http://timesofindia.indiatimes.com/rssfeeds/3908999.cms</url>
+		<name>The Ancient Gaming Noob</name>
+		<url>http://tagn.wordpress.com/feed/</url>
 	</feed>
+</category>
+<category type="Funny">
+<feed>
+		<name>xkcd.com   </name>
+		<url>http://xkcd.com/rss.xml</url>
+	</feed>
+	<feed>
+		<name>The Oatmeal - Comics</name>
+		<url>http://theoatmeal.com/feed/rss</url>
+	</feed>
+	<feed>
+		<name>Dilbert Daily Strip </name>
+		<url>http://feeds.feedburner.com/DilbertDailyStrip</url>
+	</feed>
+	<feed>
+		<name>BuzzFeed Index - Latest</name>
+		<url>http://www.buzzfeed.com/index.xml</url>
+	</feed>
+	<feed>
+		<name>Penny Arcade  </name>
+		<url>http://www.penny-arcade.com/rss.xml</url>
+	</feed>
+	<feed>
+		<name>FAIL Blog  </name>
+		<url>http://feeds.feedburner.com/failblog</url>
+	</feed>
+	<feed>
+		<name>Saturday Morning Breakfast Cereal</name>
+		<url>http://www.smbc-comics.com/rss.php</url>
+	</feed>
+	<feed>
+		<name>PHD Comics  </name>
+		<url>http://www.phdcomics.com/gradfeed.php</url>
+	</feed>
+	<feed>
+		<name>The Daily WTF </name>
+		<url>http://syndication.thedailywtf.com/TheDailyWtf</url>
+	</feed>
+	<feed>
+		<name>PostSecret   </name>
+		<url>http://postsecret.blogspot.com/feeds/posts/default</url>
+	</feed>
+	<feed>
+		<name>Explosm.net   </name>
+		<url>http://feeds.feedburner.com/Explosm</url>
+	</feed>
+	<feed>
+		<name>The Onion  </name>
+		<url>http://feeds.theonion.com/theonion/daily</url>
+	</feed>
+	<feed>
+		<name>Cracked: All Posts </name>
+		<url>http://feeds.feedburner.com/CrackedRSS</url>
+	</feed>
+	<feed>
+		<name>I Can Has Cheezburger?</name>
+		<url>http://feeds.feedburner.com/ICanHasCheezburger</url>
+	</feed>
+	<feed>
+		<name>The Bloggess  </name>
+		<url>http://thebloggess.com/feed/</url>
+	</feed>
+	<feed>
+		<name>Funny &amp; Stupid Customer</name>
+		<url>http://notalwaysright.com/feed</url>
+	</feed>
+	<feed>
+		<name>People Of Walmart </name>
+		<url>http://www.peopleofwalmart.com/?feed=rss2</url>
+	</feed>
+	<feed>
+		<name>AwkwardFamilyPhotos.com AwkwardFamilyPhotos.com  </name>
+		<url>http://awkwardfamilyphotos.com/feed/</url>
+	</feed>
+	<feed>
+		<name>Funny or Die |</name>
+		<url>http://www.funnyordie.com/videos.rss</url>
+	</feed>
+</category>
+<category type="Beauty">
+<feed>
+		<name>Information Is Beautiful </name>
+		<url>http://feeds.feedburner.com/InformationIsBeautiful</url>
+	</feed>
+	<feed>
+		<name>Fashionista   </name>
+		<url>http://feeds.feedburner.com/fashionistacom</url>
+	</feed>
+	<feed>
+		<name>The Beauty Department </name>
+		<url>http://thebeautydepartment.com/feed/</url>
+	</feed>
+	<feed>
+		<name>Garance Doré  </name>
+		<url>http://www.garancedore.fr/en/feed/</url>
+	</feed>
+	<feed>
+		<name>Refinery29   </name>
+		<url>http://www.refinery29.com/index.xml</url>
+	</feed>
+	<feed>
+		<name>Into The Gloss </name>
+		<url>http://intothegloss.com/feed/</url>
+	</feed>
+	<feed>
+		<name>Beautiful Pixels  </name>
+		<url>http://beautifulpixels.com/feed/</url>
+	</feed>
 	<feed>
-		<name>Science</name>
-		<url>http://timesofindia.indiatimes.com/rssfeeds/-2128672765.cms</url>
+		<name>From Head To Toe</name>
+		<url>http://www.frmheadtotoe.com/feeds/posts/default</url>
 	</feed>
 	<feed>
-		<name>Environment</name>
-		<url>http://timesofindia.indiatimes.com/rssfeeds/2647163.cms</url>
+		<name>Temptalia   </name>
+		<url>http://www.temptalia.com/feed</url>
 	</feed>
 	<feed>
-		<name>Tech</name>
-		<url>http://timesofindia.indiatimes.com/rssfeeds/5880659.cms</url>
+		<name>Lisa Eldridge Make Up</name>
+		<url>http://feeds.feedburner.com/lisaeldridge</url>
 	</feed>
 	<feed>
-		<name>Education</name>
-		<url>http://timesofindia.indiatimes.com/rssfeeds/913168846.cms</url>
+		<name>Makeup and Beauty Blog</name>
+		<url>http://www.makeupandbeautyblog.com/feed/</url>
 	</feed>
 	<feed>
-		<name>Sunday TOI</name>
-		<url>http://timesofindia.indiatimes.com/rssfeeds/1945062111.cms</url>
+		<name>Beautiful/Decay   </name>
+		<url>http://beautifuldecay.com/feed/</url>
 	</feed>
 	<feed>
-		<name>Opinion</name>
-		<url>http://timesofindia.indiatimes.com/rssfeeds/784865811.cms</url>
+		<name>POPSUGAR Beauty  </name>
+		<url>http://feeds.feedburner.com/bellasugar</url>
 	</feed>
 	<feed>
-		<name>Entertainment</name>
-		<url>http://timesofindia.indiatimes.com/rssfeeds/1081479906.cms</url>
+		<name>Maskcara » Maskcara |</name>
+		<url>http://www.maskcara.com/feed/</url>
 	</feed>
 	<feed>
-		<name>Life &amp; Style</name>
-		<url>http://timesofindia.indiatimes.com/rssfeeds/2886704.cms</url>
+		<name>Oh So Beautiful Paper</name>
+		<url>http://ohsobeautifulpaper.com/feed/</url>
 	</feed>
 	<feed>
-		<name>Most Read</name>
-		<url>http://timesofindia.indiatimes.com/rssfeedmostread.cms</url>
+		<name>The Beauty Brains </name>
+		<url>http://thebeautybrains.com/feed/</url>
 	</feed>
 	<feed>
-		<name>Most Shared</name>
-		<url>http://timesofindia.indiatimes.com/rssfeedmostemailed.cms</url>
+		<name>Beauty Snob  </name>
+		<url>http://www.beautysnob.com/atom.xml</url>
 	</feed>
 	<feed>
-		<name>Most Commented</name>
-		<url>http://timesofindia.indiatimes.com/rssfeedmostcommented.cms</url>
+		<name>kandeej   </name>
+		<url>http://kandeethemakeupartist.blogspot.com/feeds/posts/default</url>
 	</feed>
 	<feed>
-		<name>Mumbai</name>
-		<url>http://timesofindia.indiatimes.com/rssfeeds/-2128838597.cms</url>
+		<name>The Beauty Look Book</name>
+		<url>http://www.thebeautylookbook.com/feeds/posts/default</url>
 	</feed>
+</category>
+<category type="DIY">
+<feed>
+		<name>Hackaday   </name>
+		<url>http://www.hackaday.com/rss.xml</url>
+	</feed>
+	<feed>
+		<name>IKEA Hackers  </name>
+		<url>http://feeds.feedburner.com/Ikeahacker</url>
+	</feed>
+	<feed>
+		<name>Apartment Therapy | Saving</name>
+		<url>http://www.apartmenttherapy.com/main/atom.xml</url>
+	</feed>
+	<feed>
+		<name>Instructables: exploring  </name>
+		<url>http://www.instructables.com/tag/type:instructable/rss.xml</url>
+	</feed>
+	<feed>
+		<name>How to of the</name>
+		<url>http://www.wikihow.com/feed.rss</url>
+	</feed>
+	<feed>
+		<name>Cool Tools  </name>
+		<url>http://feeds.feedburner.com/CoolTools</url>
+	</feed>
+	<feed>
+		<name>A Beautiful Mess </name>
+		<url>http://abeautifulmess.typepad.com/my_weblog/atom.xml</url>
+	</feed>
+	<feed>
+		<name>MakeUseOf   </name>
+		<url>http://feeds.feedburner.com/Makeuseof</url>
+	</feed>
+	<feed>
+		<name>How-To Geek  </name>
+		<url>http://feeds.howtogeek.com/HowToGeek</url>
+	</feed>
+	<feed>
+		<name>Oh Happy Day! </name>
+		<url>http://ohhappyday.com/feed/</url>
+	</feed>
+	<feed>
+		<name>DoItYourself.com | Latest Articles</name>
+		<url>http://www.doityourself.com/rss</url>
+	</feed>
+	<feed>
+		<name>IHeart Organizing  </name>
+		<url>http://iheartorganizing.blogspot.com/feeds/posts/default</url>
+	</feed>
+	<feed>
+		<name>videos   </name>
+		<url>http://gdata.youtube.com/feeds/base/videos/-/tech?orderby=published&amp;alt=rss&amp;client=ytapi-youtube-rss-redirect&amp;v=2</url>
+	</feed>
 	<feed>
-		<name>Delhi</name>
-		<url>http://timesofindia.indiatimes.com/rssfeeds/-2128839596.cms</url>
+		<name>The Etsy Blog </name>
+		<url>http://www.etsy.com/storque/feeds/latest/</url>
 	</feed>
 	<feed>
-		<name>Bangalore</name>
-		<url>http://timesofindia.indiatimes.com/rssfeeds/-2128833038.cms</url>
+		<name>Adafruit Industries - Makers</name>
+		<url>http://www.adafruit.com/blog/feed/</url>
 	</feed>
 	<feed>
-		<name>Hyderabad</name>
-		<url>http://timesofindia.indiatimes.com/rssfeeds/-2128816011.cms</url>
+		<name>Centsational Girl  </name>
+		<url>http://www.centsationalgirl.com/feed/</url>
 	</feed>
 	<feed>
-		<name>Chennai</name>
-		<url>http://timesofindia.indiatimes.com/rssfeeds/2950623.cms</url>
+		<name>a pair &amp; a</name>
+		<url>http://apair-andaspare.blogspot.com/feeds/posts/default</url>
 	</feed>
 	<feed>
-		<name>Ahemdabad</name>
-		<url>http://timesofindia.indiatimes.com/rssfeeds/-2128821153.cms</url>
+		<name>WonderHowTo   </name>
+		<url>http://www.wonderhowto.com/rss.xml</url>
 	</feed>
+</category>
+<category type="Design">
+<feed>
+		<name>Smashing Magazine  </name>
+		<url>http://www.smashingmagazine.com/feed/</url>
+	</feed>
+	<feed>
+		<name>Design Milk  </name>
+		<url>http://feeds.feedburner.com/design-milk</url>
+	</feed>
+	<feed>
+		<name>A List Apart: The</name>
+		<url>http://www.alistapart.com/rss.xml</url>
+	</feed>
+	<feed>
+		<name>Co.Design   </name>
+		<url>http://www.fastcodesign.com/rss.xml</url>
+	</feed>
+	<feed>
+		<name>Fresh Home  </name>
+		<url>http://feeds.feedburner.com/FreshInspirationForYourHome</url>
+	</feed>
+	<feed>
+		<name>Design*Sponge   </name>
+		<url>http://www.designsponge.com/feed/</url>
+	</feed>
+	<feed>
+		<name>Dezeen   </name>
+		<url>http://feeds.feedburner.com/dezeen</url>
+	</feed>
+	<feed>
+		<name>Tuts+ Design &amp; Illustration</name>
+		<url>http://psd.tutsplus.com/feed/</url>
+	</feed>
+	<feed>
+		<name>Young House Love </name>
+		<url>http://www.younghouselove.com/feed/</url>
+	</feed>
+	<feed>
+		<name>Yanko Design  </name>
+		<url>http://www.yankodesign.com/feed/</url>
+	</feed>
 	<feed>
-		<name>Allahabad</name>
-		<url>http://timesofindia.indiatimes.com/rssfeeds/3947060.cms</url>
+		<name>Home Designing  </name>
+		<url>http://www.home-designing.com/feed</url>
 	</feed>
 	<feed>
-		<name>Bhubaneswar</name>
-		<url>http://timesofindia.indiatimes.com/rssfeeds/4118235.cms</url>
+		<name>Core77   </name>
+		<url>http://feeds.feedburner.com/core77/blog</url>
 	</feed>
 	<feed>
-		<name>Coimbatore</name>
-		<url>http://timesofindia.indiatimes.com/rssfeeds/7503091.cms</url>
+		<name>Fubiz   </name>
+		<url>http://www.fubiz.net/en/feed/</url>
 	</feed>
 	<feed>
-		<name>Gurgaon</name>
-		<url>http://timesofindia.indiatimes.com/rssfeeds/6547154.cms</url>
+		<name>Better Living Through Design</name>
+		<url>http://www.betterlivingthroughdesign.com/atom.xml</url>
 	</feed>
 	<feed>
-		<name>Guwahati</name>
-		<url>http://timesofindia.indiatimes.com/rssfeeds/4118215.cms</url>
+		<name>Abduzeedo   </name>
+		<url>http://feeds.feedburner.com/abduzeedo?format=xml</url>
 	</feed>
 	<feed>
-		<name>Hubli</name>
-		<url>http://timesofindia.indiatimes.com/rssfeeds/3942695.cms</url>
+		<name>sfgirlbybay   </name>
+		<url>http://www.sfgirlbybay.com/feed/</url>
 	</feed>
 	<feed>
-		<name>Kanpur</name>
-		<url>http://timesofindia.indiatimes.com/rssfeeds/3947067.cms</url>
+		<name>NOTCOT   </name>
+		<url>http://www.notcot.com/atom.xml</url>
 	</feed>
 	<feed>
-		<name>Kolkata</name>
-		<url>http://timesofindia.indiatimes.com/rssfeeds/-2128830821.cms</url>
+		<name>JUST™ Creative  </name>
+		<url>http://feeds.feedburner.com/JustCreativeDesignBlog</url>
 	</feed>
 	<feed>
-		<name>Ludhiana</name>
-		<url>http://timesofindia.indiatimes.com/rssfeeds/3947051.cms</url>
+		<name>Yatzer   </name>
+		<url>http://www.yatzer.com/feed/index.php</url>
 	</feed>
 	<feed>
-		<name>Mangalore</name>
-		<url>http://timesofindia.indiatimes.com/rssfeeds/3942690.cms</url>
+		<name>Trendir   </name>
+		<url>http://www.trendir.com/atom.xml</url>
 	</feed>
+</category>
+<category type="Science">
+<feed>
+		<name>WIRED   </name>
+		<url>http://feeds.wired.com/wired/index</url>
+	</feed>
 	<feed>
-		<name>Mysore</name>
-		<url>http://timesofindia.indiatimes.com/rssfeeds/3942693.cms</url>
+		<name>TEDTalks (video)  </name>
+		<url>http://feeds.feedburner.com/tedtalks_video</url>
 	</feed>
 	<feed>
-		<name>Noida</name>
-		<url>http://timesofindia.indiatimes.com/rssfeeds/8021716.cms</url>
+		<name>National Geographic News </name>
+		<url>http://news.nationalgeographic.com/index.rss</url>
 	</feed>
 	<feed>
-		<name>Pune</name>
-		<url>http://timesofindia.indiatimes.com/rssfeeds/-2128821991.cms</url>
+		<name>io9   </name>
+		<url>http://feeds.gawker.com/io9/full</url>
 	</feed>
 	<feed>
-		<name>Goa</name>
-		<url>http://timesofindia.indiatimes.com/rssfeeds/3012535.cms</url>
+		<name>Science: Current Issue </name>
+		<url>http://www.sciencemag.org/rss/current.xml</url>
 	</feed>
 	<feed>
-		<name>Chandigarh</name>
-		<url>http://timesofindia.indiatimes.com/rssfeeds/-2128816762.cms</url>
+		<name>Scientific American Content: Global</name>
+		<url>http://www.sciam.com/xml/sciam.xml</url>
 	</feed>
 	<feed>
-		<name>Lucknow</name>
-		<url>http://timesofindia.indiatimes.com/rssfeeds/-2128819658.cms</url>
+		<name>Popular Science  </name>
+		<url>http://www.popsci.com/rss.xml</url>
 	</feed>
 	<feed>
-		<name>Patna</name>
-		<url>http://timesofindia.indiatimes.com/rssfeeds/-2128817995.cms</url>
+		<name>FlowingData   </name>
+		<url>http://feeds.feedburner.com/FlowingData</url>
 	</feed>
 	<feed>
-		<name>Jaipur</name>
-		<url>http://timesofindia.indiatimes.com/rssfeeds/3012544.cms</url>
+		<name>BBC News - Science</name>
+		<url>http://newsrss.bbc.co.uk/rss/newsonline_world_edition/science/nature/rss.xml</url>
 	</feed>
 	<feed>
-		<name>Nagpur</name>
-		<url>http://timesofindia.indiatimes.com/rssfeeds/442002.cms</url>
+		<name>Latest Science News --</name>
+		<url>http://www.sciencedaily.com/newsfeed.xml</url>
 	</feed>
 	<feed>
-		<name>Rajkot</name>
-		<url>http://timesofindia.indiatimes.com/rssfeeds/3942663.cms</url>
+		<name>Nature - Issue -</name>
+		<url>http://www.nature.com/nature/current_issue/rss</url>
 	</feed>
 	<feed>
-		<name>Ranchi</name>
-		<url>http://timesofindia.indiatimes.com/rssfeeds/4118245.cms</url>
+		<name>Science : NPR </name>
+		<url>http://www.npr.org/rss/rss.php?id=1007</url>
 	</feed>
 	<feed>
-		<name>Surat</name>
-		<url>http://timesofindia.indiatimes.com/rssfeeds/3942660.cms</url>
+		<name>NatureNews - Most recent</name>
+		<url>http://www.nature.com/news/rss.rdf</url>
 	</feed>
 	<feed>
-		<name>Vadodara</name>
-		<url>http://timesofindia.indiatimes.com/rssfeeds/3942666.cms</url>
+		<name>Christian Science Monitor |</name>
+		<url>http://www.csmonitor.com/rss/top.rss</url>
 	</feed>
 	<feed>
-		<name>Varanasi</name>
-		<url>http://timesofindia.indiatimes.com/rssfeeds/3947071.cms</url>
+		<name>Futurity   </name>
+		<url>http://www.futurity.org/feed/</url>
 	</feed>
 	<feed>
-		<name>Thane</name>
-		<url>http://timesofindia.indiatimes.com/rssfeeds/3831863.cms</url>
+		<name>SPACE.com   </name>
+		<url>http://www.space.com/syn/space.xml</url>
 	</feed>
 	<feed>
-		<name>Thiruvananthapuram</name>
-		<url>http://timesofindia.indiatimes.com/rssfeeds/878156304.cms</url>
+		<name>NYT &gt; Science </name>
+		<url>http://www.nytimes.com/services/xml/rss/nyt/Science.xml</url>
 	</feed>
- </category>
-   <category type="The Hindu">   
 	<feed>
-		<name> Home</name>
-		<url>http://www.thehindu.com/?service=rss</url>
+		<name>Phys.org - latest science</name>
+		<url>http://www.physorg.com/rss-feed/</url>
 	</feed>
 	<feed>
-		<name>  News</name>
-		<url>http://www.thehindu.com/news/?service=rss</url>
+		<name>Science-Based Medicine  </name>
+		<url>http://www.sciencebasedmedicine.org/?feed=rss2</url>
 	</feed>
+</category>
+<category type="Movies">
 	<feed>
-		<name>  Cities</name>
-		<url>http://www.thehindu.com/news/cities/?service=rss</url>
+		<name>Empire News  </name>
+		<url>http://www.empireonline.com/rss/rss.asp</url>
 	</feed>
 	<feed>
-		<name>  Bengaluru</name>
-		<url>http://www.thehindu.com/news/cities/bangalore/?service=rss</url>
+		<name>/Film   </name>
+		<url>http://feeds.feedburner.com/slashfilm</url>
 	</feed>
 	<feed>
-		<name>  Chennai</name>
-		<url>http://www.thehindu.com/news/cities/chennai/?service=rss</url>
+		<name>Latest Movie Trailers </name>
+		<url>http://trailers.apple.com/trailers/home/rss/newtrailers.rss</url>
 	</feed>
 	<feed>
-		<name>  Coimbatore</name>
-		<url>http://www.thehindu.com/news/cities/Coimbatore/?service=rss</url>
+		<name>News   </name>
+		<url>http://www.indiewire.com/index.xml</url>
 	</feed>
 	<feed>
-		<name>  Delhi</name>
-		<url>http://www.thehindu.com/news/cities/Delhi/?service=rss</url>
+		<name>The A.V. Club </name>
+		<url>http://www.avclub.com/feed/rss/</url>
 	</feed>
 	<feed>
-		<name>  Hyderabad</name>
-		<url>http://www.thehindu.com/news/cities/Hyderabad/?service=rss</url>
+		<name>FirstShowing.net   </name>
+		<url>http://www.firstshowing.net/feed/?full</url>
 	</feed>
 	<feed>
-		<name>  Kochi</name>
-		<url>http://www.thehindu.com/news/cities/Kochi/?service=rss</url>
+		<name>Vulture   </name>
+		<url>http://nymag.com/daily/entertainment/index.xml</url>
 	</feed>
 	<feed>
-		<name>  Kozhikode</name>
-		<url>http://www.thehindu.com/news/cities/kozhikode/?service=rss</url>
+		<name>Variety   </name>
+		<url>http://www.variety.com/rss.asp?categoryid=10</url>
 	</feed>
 	<feed>
-		<name>  Kolkata</name>
-		<url>http://www.thehindu.com/news/cities/kolkata/?service=rss</url>
+		<name>Ain't It Cool News</name>
+		<url>http://www.aintitcool.com/node/feed</url>
 	</feed>
 	<feed>
-		<name>  Madurai</name>
-		<url>http://www.thehindu.com/news/cities/Madurai/?service=rss</url>
+		<name>New Releases This Week</name>
+		<url>http://rss.netflix.com/NewReleasesRSS</url>
 	</feed>
 	<feed>
-		<name>  Mangaluru</name>
-		<url>http://www.thehindu.com/news/cities/Mangalore/?service=rss</url>
+		<name>Deadline   </name>
+		<url>http://www.deadline.com/feed/</url>
 	</feed>
 	<feed>
-		<name>  Mumbai</name>
-		<url>http://www.thehindu.com/news/cities/mumbai/?service=rss</url>
+		<name>Film School Rejects </name>
+		<url>http://feeds.feedburner.com/FilmSchoolRejects</url>
 	</feed>
 	<feed>
-		<name>  Bombay Showcase</name>
-		<url>http://www.thehindu.com/news/cities/mumbai/entertainment/?service=rss</url>
+		<name>Hollywood Reporter  </name>
+		<url>http://feeds.feedburner.com/thr/news</url>
 	</feed>
 	<feed>
-		<name>  Mumbai Capital</name>
-		<url>http://www.thehindu.com/news/cities/mumbai/business/?service=rss</url>
+		<name>ComingSoon.net   </name>
+		<url>http://feeds.feedburner.com/comingsoonnet30</url>
 	</feed>
 	<feed>
-		<name>  Mumbai Local</name>
-		<url>http://www.thehindu.com/news/cities/mumbai/news/?service=rss</url>
+		<name>Bleeding Cool Comic Book</name>
+		<url>http://www.bleedingcool.com/feed/</url>
 	</feed>
 	<feed>
-		<name>  Mumbai Sport</name>
-		<url>http://www.thehindu.com/news/cities/mumbai/sport/?service=rss</url>
+		<name>TVLine » TVLine </name>
+		<url>http://www.tvline.com/feed/</url>
 	</feed>
 	<feed>
-		<name>  Puducherry</name>
-		<url>http://www.thehindu.com/news/cities/puducherry/?service=rss</url>
+		<name>Latest Posts from What's</name>
+		<url>http://www.hitfix.com/blogs/whats-alan-watching.rss</url>
 	</feed>
 	<feed>
-		<name>  Thiruvananthapuram</name>
-		<url>http://www.thehindu.com/news/cities/Thiruvananthapuram/?service=rss</url>
+		<name>TVGuide.com: Breaking News </name>
+		<url>http://rss.tvguide.com/breakingnews</url>
 	</feed>
 	<feed>
-		<name>  Tiruchirapalli</name>
-		<url>http://www.thehindu.com/news/cities/Tiruchirapalli/?service=rss</url>
+		<name>Apple TV Hacks </name>
+		<url>http://www.appletvhacks.net/feed/</url>
 	</feed>
 	<feed>
-		<name>  Vijayawada</name>
-		<url>http://www.thehindu.com/news/cities/Vijayawada/?service=rss</url>
+		<name>the TV addict </name>
+		<url>http://feeds.feedburner.com/thetvaddict/AXob</url>
+	</feed>
+</category>
+<category type="Startups">
+<feed>
+		<name>Entrepreneur: Latest Articles </name>
+		<url>http://feeds.feedburner.com/entrepreneur/latest</url>
 	</feed>
 	<feed>
-		<name>  Visakhapatnam</name>
-		<url>http://www.thehindu.com/news/cities/Visakhapatnam/?service=rss</url>
+		<name>VentureBeat   </name>
+		<url>http://venturebeat.com/feed/</url>
 	</feed>
 	<feed>
-		<name>  National</name>
-		<url>http://www.thehindu.com/news/national/?service=rss</url>
+		<name>Inc.com   </name>
+		<url>http://www.inc.com/rss.xml</url>
 	</feed>
 	<feed>
-		<name>  Andhra Pradesh</name>
-		<url>http://www.thehindu.com/news/national/andhra-pradesh/?service=rss</url>
+		<name>Hacker News  </name>
+		<url>http://news.ycombinator.com/rss</url>
 	</feed>
 	<feed>
-		<name>  Karnataka</name>
-		<url>http://www.thehindu.com/news/national/karnataka/?service=rss</url>
+		<name>AVC   </name>
+		<url>http://feeds.feedburner.com/AVc</url>
 	</feed>
 	<feed>
-		<name>  Kerala</name>
-		<url>http://www.thehindu.com/news/national/kerala/?service=rss</url>
+		<name>andrewchen   </name>
+		<url>http://andrewchen.co/feed/</url>
 	</feed>
 	<feed>
-		<name>  Tamil Nadu</name>
-		<url>http://www.thehindu.com/news/national/tamil-nadu/?service=rss</url>
+		<name>Signal v. Noise </name>
+		<url>http://feeds.feedburner.com/37signals/beMH</url>
 	</feed>
 	<feed>
-		<name>  Telangana</name>
-		<url>http://www.thehindu.com/news/national/telangana/?service=rss</url>
+		<name>Forbes - Entrepreneurs </name>
+		<url>http://www.forbes.com/entrepreneurs/index.xml</url>
 	</feed>
 	<feed>
-		<name>  Other States</name>
-		<url>http://www.thehindu.com/news/national/other-states/?service=rss</url>
+		<name>Quick Sprout  </name>
+		<url>http://www.quicksprout.com/feed/</url>
 	</feed>
 	<feed>
-		<name>  International</name>
-		<url>http://www.thehindu.com/news/international/?service=rss</url>
+		<name>Lessons Learned  </name>
+		<url>http://www.startuplessonslearned.com/feeds/posts/default</url>
 	</feed>
 	<feed>
-		<name>  South Asia</name>
-		<url>http://www.thehindu.com/news/international/south-asia/?service=rss</url>
+		<name>Bothsides of the Table</name>
+		<url>http://feeds.feedburner.com/BothSidesOfTheTable</url>
 	</feed>
 	<feed>
-		<name>  World</name>
-		<url>http://www.thehindu.com/news/international/world/?service=rss</url>
+		<name>Springwise   </name>
+		<url>http://feeds.feedburner.com/springwise</url>
 	</feed>
 	<feed>
-		<name>  Opinion</name>
-		<url>http://www.thehindu.com/opinion/?service=rss</url>
+		<name>Small Business Trends </name>
+		<url>http://feeds.feedburner.com/SmallBusinessTrends</url>
 	</feed>
 	<feed>
-		<name>  Columns</name>
-		<url>http://www.thehindu.com/opinion/columns/?service=rss</url>
+		<name>Steve Blank  </name>
+		<url>http://steveblank.com/feed/</url>
 	</feed>
 	<feed>
-		<name>  Editorial</name>
-		<url>http://www.thehindu.com/opinion/editorial/?service=rss</url>
+		<name>Paul Graham: Essays </name>
+		<url>http://www.aaronsw.com/2002/feeds/pgessays.rss</url>
 	</feed>
 	<feed>
-		<name>  Interview</name>
-		<url>http://www.thehindu.com/opinion/interview/?service=rss</url>
+		<name>The Smart Passive Income</name>
+		<url>http://feeds.feedburner.com/smartpassiveincome</url>
 	</feed>
 	<feed>
-		<name>  Lead</name>
-		<url>http://www.thehindu.com/opinion/lead/?service=rss</url>
+		<name>Feld Thoughts  </name>
+		<url>http://feeds.feedburner.com/FeldThoughts</url>
 	</feed>
 	<feed>
-		<name>  Letters</name>
-		<url>http://www.thehindu.com/opinion/letters/?service=rss</url>
+		<name>Pando latest articles </name>
+		<url>http://pandodaily.com/feed/</url>
 	</feed>
 	<feed>
-		<name>  Comment</name>
-		<url>http://www.thehindu.com/opinion/op-ed/?service=rss</url>
+		<name>Press Information Bureau </name>
+		<url>http://pib.nic.in/newsite/rssenglish.aspx</url>
 	</feed>
 	<feed>
-		<name>  Open Page</name>
-		<url>http://www.thehindu.com/opinion/open-page/?service=rss</url>
+		<name>Inside Intercom  </name>
+		<url>http://feeds2.feedburner.com/contrast/blog</url>
 	</feed>
+</category>
+<category type="Cars">
+<feed>
+		<name>Autoblog   </name>
+		<url>http://www.autoblog.com/rss.xml</url>
+	</feed>
 	<feed>
-		<name>  Readers' Editor</name>
-		<url>http://www.thehindu.com/opinion/Readers-Editor/?service=rss</url>
+		<name>Jalopnik   </name>
+		<url>http://feeds.gawker.com/jalopnik/vip</url>
 	</feed>
 	<feed>
-		<name>  Corrections &amp; Clarifications</name>
-		<url>http://www.thehindu.com/opinion/Readers-Editor/corrections-and-clarifications/?service=rss</url>
+		<name>The Truth About Cars</name>
+		<url>http://www.thetruthaboutcars.com/?feed=rss2</url>
 	</feed>
 	<feed>
-		<name>  Business</name>
-		<url>http://www.thehindu.com/business/?service=rss</url>
+		<name>Car and Driver Blog</name>
+		<url>http://feeds.feedburner.com/caranddriver/blog</url>
 	</feed>
 	<feed>
-		<name>  Agri-Business</name>
-		<url>http://www.thehindu.com/business/agri-business/?service=rss</url>
+		<name>F1 news - AUTOSPORT.com</name>
+		<url>http://www.autosport.com/rss/f1news.xml</url>
 	</feed>
 	<feed>
-		<name>  Budget</name>
-		<url>http://www.thehindu.com/business/budget/?service=rss</url>
+		<name>Bike EXIF  </name>
+		<url>http://www.bikeexif.com/feed</url>
 	</feed>
 	<feed>
-		<name>  Industry</name>
-		<url>http://www.thehindu.com/business/Industry/?service=rss</url>
+		<name>Carscoops   </name>
+		<url>http://carscoop.blogspot.com/feeds/posts/default</url>
 	</feed>
 	<feed>
-		<name>  Economy</name>
-		<url>http://www.thehindu.com/business/Economy/?service=rss</url>
+		<name>Speedhunters   </name>
+		<url>http://feeds.feedburner.com/Speedhunters</url>
 	</feed>
 	<feed>
-		<name>  Markets</name>
-		<url>http://www.thehindu.com/business/markets/?service=rss</url>
+		<name>New and Used Car</name>
+		<url>http://www.leftlanenews.com/wp-rss2.php</url>
 	</feed>
 	<feed>
-		<name>  Sport</name>
-		<url>http://www.thehindu.com/sport/?service=rss</url>
+		<name>Automotive News Breaking News</name>
+		<url>http://www.autonews.com/apps/pbcs.dll/section?category=rss01&amp;mime=xml</url>
 	</feed>
 	<feed>
-		<name>  Cricket</name>
-		<url>http://www.thehindu.com/sport/cricket/?service=rss</url>
+		<name>All Motor Trend Stories</name>
+		<url>http://www.motortrend.com/widgetrss/motortrend-stories.xml</url>
 	</feed>
 	<feed>
-		<name>  World Cup</name>
-		<url>http://www.thehindu.com/sport/cricket/world-cup/?service=rss</url>
+		<name>BMW BLOG  </name>
+		<url>http://feeds.feedburner.com/BmwBlog</url>
 	</feed>
 	<feed>
-		<name>  Football</name>
-		<url>http://www.thehindu.com/sport/football/?service=rss</url>
+		<name>The best vintage and</name>
+		<url>http://bringatrailer.com/feed/</url>
 	</feed>
 	<feed>
-		<name>  Hockey</name>
-		<url>http://www.thehindu.com/sport/hockey/?service=rss</url>
+		<name>High Gear Media Network</name>
+		<url>http://feeds.feedburner.com/MotorAuthority2</url>
 	</feed>
 	<feed>
-		<name>  Tennis</name>
-		<url>http://www.thehindu.com/sport/tennis/?service=rss</url>
+		<name>Paul Tan's Automotive News</name>
+		<url>http://paultan.org/feed/</url>
 	</feed>
 	<feed>
-		<name>  Races</name>
-		<url>http://www.thehindu.com/sport/races/?service=rss</url>
+		<name>Autocar RSS Feed </name>
+		<url>http://www.autocar.co.uk/rss/latestnews/</url>
 	</feed>
 	<feed>
-		<name>  Other Sports</name>
-		<url>http://www.thehindu.com/sport/other-sports/?service=rss</url>
+		<name>Petrolicious   </name>
+		<url>http://www.petrolicious.com/?format=feed&amp;type=rss</url>
 	</feed>
 	<feed>
-		<name>  thREAD</name>
-		<url>http://www.thehindu.com/thread/?service=rss</url>
+		<name>Car Body Design »</name>
+		<url>http://feeds.feedburner.com/carbodydesign-news</url>
 	</feed>
 	<feed>
-		<name>  Features</name>
-		<url>http://www.thehindu.com/features/?service=rss</url>
+		<name>Cars and motorcycle reviews;</name>
+		<url>http://www.telegraph.co.uk/motoring/rss</url>
+	</feed>
+</category>
+<category type="Photography">
+<feed>
+		<name>National Geographic  </name>
+		<url>http://www.nationalgeographic.com/rss/photography/photo-of-the-day</url>
 	</feed>
 	<feed>
-		<name>  Cinema</name>
-		<url>http://www.thehindu.com/features/cinema/?service=rss</url>
+		<name>500px: Editors' Choice </name>
+		<url>http://feed.500px.com/500px-editors</url>
 	</feed>
 	<feed>
-		<name>  Columns</name>
-		<url>http://www.thehindu.com/features/cinema/cinema-columns/?service=rss</url>
+		<name>Digital Photography School </name>
+		<url>http://feeds.feedburner.com/DigitalPhotographySchool</url>
 	</feed>
 	<feed>
-		<name>  Reviews</name>
-		<url>http://www.thehindu.com/features/cinema/cinema-reviews/?service=rss</url>
+		<name>The Sartorialist  </name>
+		<url>http://feeds.feedburner.com/thesartorialist</url>
 	</feed>
 	<feed>
-		<name>  Downtown</name>
-		<url>http://www.thehindu.com/features/downtown/?service=rss</url>
+		<name>FFFFOUND! / EVERYONE </name>
+		<url>http://feeds.feedburner.com/ffffound/everyone</url>
 	</feed>
 	<feed>
-		<name>  Education Plus</name>
-		<url>http://www.thehindu.com/features/education/?service=rss</url>
+		<name>Strobist   </name>
+		<url>http://strobist.blogspot.com/feeds/posts/default</url>
 	</feed>
 	<feed>
-		<name>  Careers</name>
-		<url>http://www.thehindu.com/features/education/careers/?service=rss</url>
+		<name>DIYPhotography.net</name>
+		<url>http://www.diyphotography.net/node/feed</url>
 	</feed>
 	<feed>
-		<name>  Colleges</name>
-		<url>http://www.thehindu.com/features/education/college-and-university/?service=rss</url>
+		<name>Articles: Digital Photography Review</name>
+		<url>http://www.dpreview.com/feeds/news.xml</url>
 	</feed>
 	<feed>
-		<name>  Schools</name>
-		<url>http://www.thehindu.com/features/education/school/?service=rss</url>
+		<name>Cute Overload  </name>
+		<url>http://cuteoverload.com/feed/</url>
 	</feed>
 	<feed>
-		<name>  Friday Review</name>
-		<url>http://www.thehindu.com/features/friday-review/?service=rss</url>
+		<name>Photojojo   </name>
+		<url>http://www.photojojo.com/content/feed</url>
 	</feed>
 	<feed>
-		<name>  Art</name>
-		<url>http://www.thehindu.com/features/friday-review/art/?service=rss</url>
+		<name>Stuck in Customs </name>
+		<url>http://feeds.feedburner.com/stuckincustoms/EmRA</url>
 	</feed>
 	<feed>
-		<name>  Dance</name>
-		<url>http://www.thehindu.com/features/friday-review/dance/?service=rss</url>
+		<name>PetaPixel   </name>
+		<url>http://feeds.feedburner.com/PetaPixel</url>
 	</feed>
 	<feed>
-		<name>  Faith</name>
-		<url>http://www.thehindu.com/features/friday-review/religion/?service=rss</url>
+		<name>One Big Photo </name>
+		<url>http://feeds.feedburner.com/OneBigPhoto</url>
 	</feed>
 	<feed>
-		<name>  History &amp; Culture</name>
-		<url>http://www.thehindu.com/features/friday-review/history-and-culture/?service=rss</url>
+		<name>500px / Blog </name>
+		<url>http://500px.com/blog/rss</url>
 	</feed>
 	<feed>
-		<name>  Music</name>
-		<url>http://www.thehindu.com/features/friday-review/music/?service=rss</url>
+		<name>Canon Rumors  </name>
+		<url>http://feeds.feedburner.com/canonrumors/rss</url>
 	</feed>
 	<feed>
-		<name>  Theatre</name>
-		<url>http://www.thehindu.com/features/friday-review/theatre/?service=rss</url>
+		<name>Light Stalking  </name>
+		<url>http://feeds.feedburner.com/Light-Stalking</url>
 	</feed>
 	<feed>
-		<name>  Property Plus</name>
-		<url>http://www.thehindu.com/features/homes-and-gardens/?service=rss</url>
+		<name>Lightroom Killer Tips </name>
+		<url>http://feeds.feedburner.com/LightroomKillerTips</url>
 	</feed>
 	<feed>
-		<name>  Accessorize</name>
-		<url>http://www.thehindu.com/features/homes-and-gardens/accessorize/?service=rss</url>
+		<name>ShootTokyo   </name>
+		<url>http://feeds.feedburner.com/shoottokyo</url>
 	</feed>
 	<feed>
-		<name>  Design</name>
-		<url>http://www.thehindu.com/features/homes-and-gardens/design/?service=rss</url>
+		<name>Tuts+ Photo &amp; Video</name>
+		<url>http://feeds.feedburner.com/Phototuts</url>
 	</feed>
 	<feed>
-		<name>  Gardens</name>
-		<url>http://www.thehindu.com/features/homes-and-gardens/gardens/?service=rss</url>
+		<name>YellowKorner - Photography -</name>
+		<url>http://www.yellowkorner.com/all_items.rss</url>
 	</feed>
+</category>
+<category type="Food">
+<feed>
+		<name>smitten kitchen  </name>
+		<url>http://feeds.feedburner.com/smittenkitchen</url>
+	</feed>
 	<feed>
-		<name>  Green Living</name>
-		<url>http://www.thehindu.com/features/homes-and-gardens/green-living/?service=rss</url>
+		<name>SimplyRecipes.com   </name>
+		<url>http://feeds.feedburner.com/elise/simplyrecipes</url>
 	</feed>
 	<feed>
-		<name>  Home Finance</name>
-		<url>http://www.thehindu.com/features/homes-and-gardens/home-finance/?service=rss</url>
+		<name>101 Cookbooks  </name>
+		<url>http://feeds.101cookbooks.com/101cookbooks</url>
 	</feed>
 	<feed>
-		<name>  Q &amp; A</name>
-		<url>http://www.thehindu.com/features/homes-and-gardens/q-and-a/?service=rss</url>
+		<name>The Kitchn | Inspiring</name>
+		<url>http://feeds.feedburner.com/apartmenttherapy/thekitchn</url>
 	</feed>
 	<feed>
-		<name>  Metroplus</name>
-		<url>http://www.thehindu.com/features/metroplus/?service=rss</url>
+		<name>Joy the Baker </name>
+		<url>http://www.joythebaker.com/blog/feed/</url>
 	</feed>
 	<feed>
-		<name>  Events</name>
-		<url>http://www.thehindu.com/features/metroplus/events/?service=rss</url>
+		<name>Serious Eats  </name>
+		<url>http://feeds.seriouseats.com/seriouseatsfeaturesvideos</url>
 	</feed>
 	<feed>
-		<name>  Fashion</name>
-		<url>http://www.thehindu.com/features/metroplus/fashion/?service=rss</url>
+		<name>Food52   </name>
+		<url>http://feeds.feedburner.com/food52-TheAandMBlog</url>
 	</feed>
 	<feed>
-		<name>  Fitness</name>
-		<url>http://www.thehindu.com/features/metroplus/fitness/?service=rss</url>
+		<name>David Lebovitz  </name>
+		<url>http://www.davidlebovitz.com/archives/index.rdf</url>
 	</feed>
 	<feed>
-		<name>  Food</name>
-		<url>http://www.thehindu.com/features/metroplus/Food/?service=rss</url>
+		<name>Skinnytaste   </name>
+		<url>http://www.skinnytaste.com/feeds/posts/default</url>
 	</feed>
 	<feed>
-		<name>  Motoring</name>
-		<url>http://www.thehindu.com/features/metroplus/Motoring/?service=rss</url>
+		<name>FN Dish – Food</name>
+		<url>http://blog.foodnetwork.com/fn-dish/feed/</url>
 	</feed>
 	<feed>
-		<name>  Society</name>
-		<url>http://www.thehindu.com/features/metroplus/society/?service=rss</url>
+		<name>The Pioneer Woman »</name>
+		<url>http://thepioneerwoman.com/cooking/feed/</url>
 	</feed>
 	<feed>
-		<name>  Television</name>
-		<url>http://www.thehindu.com/features/metroplus/radio-and-tv/?service=rss</url>
+		<name>Sprouted Kitchen  </name>
+		<url>http://feeds2.feedburner.com/SproutedKitchen</url>
 	</feed>
 	<feed>
-		<name>  Travel</name>
-		<url>http://www.thehindu.com/features/metroplus/travel/?service=rss</url>
+		<name>Oh She Glows </name>
+		<url>http://ohsheglows.com/feed</url>
 	</feed>
 	<feed>
-		<name>  Magazine</name>
-		<url>http://www.thehindu.com/features/magazine/?service=rss</url>
+		<name>Chocolate &amp; Zucchini </name>
+		<url>http://chocolateandzucchini.com/index.rdf</url>
 	</feed>
 	<feed>
-		<name>  Columns</name>
-		<url>http://www.thehindu.com/features/magazine/mag-columns/?service=rss</url>
+		<name>Love and Olive Oil</name>
+		<url>http://www.loveandoliveoil.com/feed</url>
 	</feed>
 	<feed>
-		<name>  Young World</name>
-		<url>http://www.thehindu.com/features/kids/?service=rss</url>
+		<name>Green Kitchen Stories </name>
+		<url>http://www.greenkitchenstories.com/feed/</url>
 	</feed>
 	<feed>
-		<name>  Lit for Life</name>
-		<url>http://www.thehindu.com/features/lit-for-life/?service=rss</url>
+		<name>Orangette   </name>
+		<url>http://orangette.blogspot.com/feeds/posts/default</url>
 	</feed>
 	<feed>
-		<name>  November Fest</name>
-		<url>http://www.thehindu.com/features/november-fest/?service=rss</url>
+		<name>How Sweet It Is</name>
+		<url>http://www.howsweeteats.com/feed/</url>
 	</feed>
 	<feed>
-		<name>  Bengaluru</name>
-		<url>http://www.thehindu.com/features/november-fest/frnf-bangalore/?service=rss</url>
+		<name>Shutterbean   </name>
+		<url>http://www.shutterbean.com/feed/</url>
 	</feed>
 	<feed>
-		<name>  Chennai</name>
-		<url>http://www.thehindu.com/features/november-fest/frnf-chennai/?service=rss</url>
+		<name>Williams-Sonoma Taste  </name>
+		<url>http://blog.williams-sonoma.com/feed/</url>
 	</feed>
+</category>
+<category type="Sports">
 	<feed>
-		<name>  Coimbatore</name>
-		<url>http://www.thehindu.com/features/november-fest/frnf-coimbatore/?service=rss</url>
+		<name>ESPN.com   </name>
+		<url>http://sports.espn.go.com/espn/rss/news</url>
 	</feed>
 	<feed>
-		<name>  Sci-Tech</name>
-		<url>http://www.thehindu.com/sci-tech/?service=rss</url>
+		<name>Deadspin   </name>
+		<url>http://feeds.gawker.com/deadspin/vip</url>
 	</feed>
 	<feed>
-		<name>  Technology</name>
-		<url>http://www.thehindu.com/sci-tech/technology/?service=rss</url>
+		<name>Bleacher Report  </name>
+		<url>http://bleacherreport.com/articles/feed</url>
 	</feed>
 	<feed>
-		<name>  Gadgets</name>
-		<url>http://www.thehindu.com/sci-tech/technology/gadgets/?service=rss</url>
+		<name>BBC Sport - Sport</name>
+		<url>http://newsrss.bbc.co.uk/rss/sportonline_world_edition/front_page/rss.xml</url>
 	</feed>
 	<feed>
-		<name>  Internet</name>
-		<url>http://www.thehindu.com/sci-tech/technology/internet/?service=rss</url>
+		<name>Yahoo! Sports  </name>
+		<url>http://rss.news.yahoo.com/rss/sports</url>
 	</feed>
 	<feed>
-		<name>  Environment</name>
-		<url>http://www.thehindu.com/sci-tech/energy-and-environment/?service=rss</url>
+		<name>SkySports | News </name>
+		<url>http://www.skysports.com/rss/0205141109500.xml</url>
 	</feed>
 	<feed>
-		<name>  Health</name>
-		<url>http://www.thehindu.com/sci-tech/health/?service=rss</url>
+		<name>BBC Sport - Football</name>
+		<url>http://newsrss.bbc.co.uk/rss/sportonline_uk_edition/football/rss.xml</url>
 	</feed>
 	<feed>
-		<name>  Medicine</name>
-		<url>http://www.thehindu.com/sci-tech/health/medicine-and-research/?service=rss</url>
+		<name>FiveThirtyEight » Features |</name>
+		<url>http://fivethirtyeight.com/features/feed/</url>
 	</feed>
 	<feed>
-		<name>  Policy &amp; Issues</name>
-		<url>http://www.thehindu.com/sci-tech/health/policy-and-issues/?service=rss</url>
+		<name>Grantland: Home Page </name>
+		<url>http://feeds.feedburner.com/Grantland</url>
 	</feed>
 	<feed>
-		<name>  Science</name>
-		<url>http://www.thehindu.com/sci-tech/science/?service=rss</url>
+		<name>NFL.com   </name>
+		<url>http://www.nfl.com/rss/rsslanding?searchString=home</url>
 	</feed>
 	<feed>
-		<name>  Agriculture</name>
-		<url>http://www.thehindu.com/sci-tech/agriculture/?service=rss</url>
+		<name>NBA.com: News  </name>
+		<url>http://www.nba.com/rss/nba_rss.xml</url>
 	</feed>
 	<feed>
-		<name>  Entertainment</name>
-		<url>http://www.thehindu.com/entertainment/?service=rss</url>
+		<name>Football | The Guardian</name>
+		<url>http://www.theguardian.com/football/rss</url>
 	</feed>
 	<feed>
-		<name>  Art</name>
-		<url>http://www.thehindu.com/entertainment/entertainment-art/?service=rss</url>
+		<name>BBC Sport - Formula</name>
+		<url>http://newsrss.bbc.co.uk/rss/sportonline_world_edition/motorsport/formula_one/rss.xml</url>
 	</feed>
 	<feed>
-		<name>  Cinema</name>
-		<url>http://www.thehindu.com/entertainment/entertainment-cinema/?service=rss</url>
+		<name>ESPN FC News </name>
+		<url>http://soccernet.espn.go.com/rss/news?cc=5739</url>
 	</feed>
 	<feed>
-		<name>  Columns</name>
-		<url>http://www.thehindu.com/entertainment/entertainment-cinema/entertainment-columns/?service=rss</url>
+		<name>Puck Daddy - NHL</name>
+		<url>http://sports.yahoo.com/nhl/blog/puck_daddy/rss.xml</url>
 	</feed>
 	<feed>
-		<name>  Review</name>
-		<url>http://www.thehindu.com/entertainment/entertainment-cinema/entertainment-review/?service=rss</url>
+		<name>Bruins Nation  </name>
+		<url>http://www.bruinsnation.com/atom/</url>
 	</feed>
 	<feed>
-		<name>  Dance</name>
-		<url>http://www.thehindu.com/entertainment/entertainment-dance/?service=rss</url>
+		<name>Life Is Waves! on</name>
+		<url>http://vimeo.com/channels/111750/videos/rss</url>
 	</feed>
 	<feed>
-		<name>  History &amp; Culture</name>
-		<url>http://www.thehindu.com/entertainment/entertainment-history/?service=rss</url>
+		<name>WESTHESPORTSGUY.COM   </name>
+		<url>http://www.westhesportsguy.com/feeds/posts/default</url>
 	</feed>
 	<feed>
-		<name>  Music</name>
-		<url>http://www.thehindu.com/entertainment/entertainment-music/?service=rss</url>
+		<name>Frozen Royalty  </name>
+		<url>http://frozenroyalty.net/feed/</url>
 	</feed>
 	<feed>
-		<name>  Theatre</name>
-		<url>http://www.thehindu.com/entertainment/entertainment-theatre/?service=rss</url>
-	</feed>   
-    </category>
-</feeds>
+		<name>Angelswin.com   </name>
+		<url>http://feeds.feedburner.com/Angelswin</url>
+	</feed>
+</category>
