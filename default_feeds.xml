@@ -1,3 +1,4 @@
+<feeds>
 <category type="News">
 	<feed>
 		<name>The New York Times</name>
@@ -1238,3 +1239,4 @@
 		<url>http://feeds.feedburner.com/Angelswin</url>
 	</feed>
 </category>
+</feeds>
