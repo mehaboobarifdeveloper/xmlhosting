@@ -29,24 +29,12 @@
 		<url>http://rssfeeds.usatoday.com/usatoday-NewsTopStories</url>
 	</feed>
 	<feed>
-		<name>ABC News  </name>
-		<url>http://feeds.abcnews.com/abcnews/topstories</url>
-	</feed>
-	<feed>
 		<name>FOX News  </name>
 		<url>http://feeds.foxnews.com/foxnews/scitech</url>
 	</feed>
 	<feed>
-		<name>Slate Articles  </name>
-		<url>http://www.slate.com/rss</url>
-	</feed>
-	<feed>
 		<name>Top Stories - Google</name>
-		<url>http://news.google.com/?output=rss</url>
-	</feed>
-	<feed>
-		<name>Top Stories - Google</name>
-		<url>http://news.google.com/?topic=h&amp;num=3&amp;output=rss</url>
+		<url>https://news.google.co.in/?output=rss</url>
 	</feed>
 	<feed>
 		<name>Gawker   </name>
