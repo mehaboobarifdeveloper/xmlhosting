@@ -67,10 +67,6 @@
 		<url>http://feeds.feedburner.com/Techcrunch</url>
 	</feed>
 	<feed>
-		<name>The Verge  </name>
-		<url>http://www.theverge.com/rss/full.xml</url>
-	</feed>
-	<feed>
 		<name>Gizmodo   </name>
 		<url>http://feeds.gawker.com/gizmodo/full</url>
 	</feed>
@@ -87,14 +83,6 @@
 		<url>http://rss.slashdot.org/Slashdot/slashdot</url>
 	</feed>
 	<feed>
-		<name>Official Google Blog </name>
-		<url>http://googleblog.blogspot.com/atom.xml</url>
-	</feed>
-	<feed>
-		<name>CNET News  </name>
-		<url>http://news.com.com/2547-1_3-0-5.xml</url>
-	</feed>
-	<feed>
 		<name>ReadWrite   </name>
 		<url>http://www.readwriteweb.com/rss.xml</url>
 	</feed>
@@ -107,7 +95,7 @@
 		<url>http://feeds2.feedburner.com/thenextweb</url>
 	</feed>
 	<feed>
-		<name>TIME   </name>
+		<name>TIME</name>
 		<url>http://rss.time.com/web/time/rss/top/index.xml</url>
 	</feed>
 	<feed>
