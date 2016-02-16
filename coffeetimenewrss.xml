@@ -6,26 +6,26 @@
 <description>This are the feeds related to coffee time news</description>
 
 <item>
-<title>About</title>
+<title>Welcome to Coffee Time News</title>
 <link>Direct URL to content</link>
 <guid>Unique ID for content. Copy the URL again</guid>
-<pubDate>Wed, 27 Nov 2013 15:17:32 GMT</pubDate>
+<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+<description>A news reader application(RSS Reader) which brings you the latest breaking news from across the different news channels.</description>
+</item>
+
+<item>
+<title>Launch Channel</title>
+<link>ctn://fav/channelName</link>
+<guid>Unique ID for content. Copy the URL again</guid>
+<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
 <description>Description for your content.</description>
 </item>
 
 <item>
-<title>More</title>
-<link>Direct URL to content</link>
+<title>Create your channel list</title>
+<link>ctn://view/viewnumber</link>
 <guid>Unique ID for content. Copy the URL again</guid>
-<pubDate>Wed, 27 Nov 2013 15:17:32 GMT</pubDate>
-<description>Description for your content.</description>
-</item>
-
-<item>
-<title>Less</title>
-<link>Direct URL to content</link>
-<guid>Unique ID for content. Copy the URL again</guid>
-<pubDate>Wed, 27 Nov 2013 15:17:32 GMT</pubDate>
+<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
 <description>Description for your content.</description>
 </item>
 
