@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>Coffee Time News</title>
+<link>http://www.yourwebsite.com/</link>
+<description>This are the feeds related to coffee time news</description>
+
+<item>
+<title>About</title>
+<link>Direct URL to content</link>
+<guid>Unique ID for content. Copy the URL again</guid>
+<pubDate>Wed, 27 Nov 2013 15:17:32 GMT</pubDate>
+<description>Description for your content.</description>
+</item>
+
+<item>
+<title>More</title>
+<link>Direct URL to content</link>
+<guid>Unique ID for content. Copy the URL again</guid>
+<pubDate>Wed, 27 Nov 2013 15:17:32 GMT</pubDate>
+<description>Description for your content.</description>
+</item>
+
+<item>
+<title>Less</title>
+<link>Direct URL to content</link>
+<guid>Unique ID for content. Copy the URL again</guid>
+<pubDate>Wed, 27 Nov 2013 15:17:32 GMT</pubDate>
+<description>Description for your content.</description>
+</item>
+
+</channel>
+</rss>
