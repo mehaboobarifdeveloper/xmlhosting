@@ -8,15 +8,16 @@
 <item>
 <title>Welcome to Coffee Time News</title>
 <link>Direct URL to content</link>
-<guid>Unique ID for content. Copy the URL again</guid>
+<media:thumbnail url="https://raw.githubusercontent.com/mehaboobarifdeveloper/xmlhosting/master/photos/coffeetimenewshelp.jpg?w=150" />
+<guid>ttps://raw.githubusercontent.com/mehaboobarifdeveloper/xmlhosting/master/photos/coffeetimenewshelp.jpg</guid>
 <pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
 <description>A news reader application(RSS Reader) which brings you the latest breaking news from across the different news channels.</description>
 </item>
 
 <item>
-<title>Launch Channel</title>
-<link>ctn://fav/channelName</link>
-<guid>Unique ID for content. Copy the URL again</guid>
+<title>Check our default favorite channel list</title>
+<link>ctn://view/1</link>
+<guid>ctn://view/1</guid>
 <pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
 <description>Description for your content.</description>
 </item>
