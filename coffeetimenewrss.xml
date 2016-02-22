@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0" >
 <channel>
 <title>Coffee Time News</title>
 <link>http://www.yourwebsite.com/</link>
@@ -8,8 +8,8 @@
 <item>
 <title>Welcome to Coffee Time News</title>
 <link>Direct URL to content</link>
-<media:thumbnail url="https://raw.githubusercontent.com/mehaboobarifdeveloper/xmlhosting/master/photos/coffeetimenewshelp.jpg" height="75" width="75"/>
-<guid>ttps://raw.githubusercontent.com/mehaboobarifdeveloper/xmlhosting/master/photos/coffeetimenewshelp.jpg</guid>
+<media:thumbnail url='https://raw.githubusercontent.com/mehaboobarifdeveloper/xmlhosting/master/photos/coffeetimenewshelp.jpg' height='75' width='75' /> 
+<guid>https://raw.githubusercontent.com/mehaboobarifdeveloper/xmlhosting/master/photos/coffeetimenewshelp.jpg</guid>
 <pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
 <description>A news reader application(RSS Reader) which brings you the latest breaking news from across the different news channels.</description>
 </item>
