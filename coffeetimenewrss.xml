@@ -20,21 +20,20 @@
 <guid>ctn://view/1</guid>
 <pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
 <description>We have added few channels to your favorites. Check it out.</description>
-
 </item>
 <item>
-<title>Supported Features</title>
+<title>Supported Features</title>	
 <link>http://mehaboobarifdeveloper.github.io/xmlhosting/featurelist.html</link>
 <guid>http://mehaboobarifdeveloper.github.io/xmlhosting/featurelist.html</guid>
 <pubDate>Wed, 17 Feb 2016 15:17:32 GMT</pubDate>
-<description>Description for your content.</description>
+<description>Many features...</description>
 </item>
 <item>
 <title>Create your channel list</title>
 <link>ctn://view/8</link>
-<guid>Unique ID for content. Copy the URL again</guid>
+<guid>ctn://view/8</guid>
 <pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
-<description>Description for your content.</description>
+<description>Create your list of favorites for easy launch.</description>
 </item>
 <item>
 <title>License</title>
@@ -43,7 +42,6 @@
 <pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
 <description>Details about the license used</description>
 </item>
-
 
 </channel>
 </rss>
