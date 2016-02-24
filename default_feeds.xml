@@ -98,19 +98,11 @@
 		<name>TIME</name>
 		<url>http://rss.time.com/web/time/rss/top/index.xml</url>
 	</feed>
-	<feed>
-		<name>ThinkGeek - What's New</name>
-		<url>http://www.thinkgeek.com/thinkgeek.rss</url>
-	</feed>
 </category>
 <category type="Android">
 	<feed>
 		<name>Android Central  </name>
 		<url>http://www.androidcentral.com/feed</url>
-	</feed>
-	<feed>
-		<name>Android Developers Blog </name>
-		<url>http://feeds.feedburner.com/blogspot/hsDu</url>
 	</feed>
 	<feed>
 		<name>Android Police - Android</name>
@@ -137,14 +129,6 @@
 		<url>http://www.boygeniusreport.com/feed/</url>
 	</feed>
 	<feed>
-		<name>Android Authority  </name>
-		<url>http://feeds.feedburner.com/androidauthority</url>
-	</feed>
-	<feed>
-		<name>Official Android Blog </name>
-		<url>http://officialandroid.blogspot.com/feeds/posts/default</url>
-	</feed>
-	<feed>
 		<name>Droid Life  </name>
 		<url>http://www.droid-life.com/feed/</url>
 	</feed>
@@ -155,10 +139,6 @@
 	<feed>
 		<name>Hello Android  </name>
 		<url>http://www.helloandroid.com/rss.xml</url>
-	</feed>
-	<feed>
-		<name>Pocketnow   </name>
-		<url>http://feeds.feedburner.com/pocketnow</url>
 	</feed>
 	<feed>
 		<name>AndroidGuys   </name>
@@ -191,10 +171,6 @@
 		<url>http://www.macrumors.com/macrumors.xml</url>
 	</feed>
 	<feed>
-		<name>Daring Fireball  </name>
-		<url>http://daringfireball.net/index.xml</url>
-	</feed>
-	<feed>
 		<name>TUAW - The Unofficial</name>
 		<url>http://www.tuaw.com/rss.xml</url>
 	</feed>
@@ -219,16 +195,8 @@
 		<url>http://feeds.feedburner.com/theiphoneblog</url>
 	</feed>
 	<feed>
-		<name>Mark's Daily Apple </name>
-		<url>http://www.marksdailyapple.com/feed/</url>
-	</feed>
-	<feed>
 		<name>Marco.org   </name>
 		<url>http://www.marco.org/rss</url>
-	</feed>
-	<feed>
-		<name>Mac Life  </name>
-		<url>http://www.maclife.com/articles/all/feed</url>
 	</feed>
 	<feed>
 		<name>MacStories   </name>
@@ -237,10 +205,6 @@
 	<feed>
 		<name>Infinite Loop  </name>
 		<url>http://feeds.arstechnica.com/arstechnica/apple/</url>
-	</feed>
-	<feed>
-		<name>OS X Daily </name>
-		<url>http://osxdaily.com/feed/</url>
 	</feed>
 	<feed>
 		<name>MacNN | The Macintosh</name>
@@ -264,10 +228,6 @@
 	</feed>
 </category>
 <category type="Gaming">
-<feed>
-		<name>Kotaku   </name>
-		<url>http://feeds.gawker.com/kotaku/vip</url>
-	</feed>
 	<feed>
 		<name>Polygon   </name>
 		<url>http://www.polygon.com/rss/index.xml</url>
@@ -293,16 +253,8 @@
 		<url>http://www.gamespot.com/rss/game_updates.php</url>
 	</feed>
 	<feed>
-		<name>IndieGames   </name>
-		<url>http://www.indiegames.com/blog/atom.xml</url>
-	</feed>
-	<feed>
 		<name>Gamasutra News  </name>
 		<url>http://feeds.feedburner.com/GamasutraFeatureArticles/</url>
-	</feed>
-	<feed>
-		<name>Game Life  </name>
-		<url>http://www.wired.com/gamelife/feed/</url>
 	</feed>
 	<feed>
 		<name>Xbox Live's Major Nelson</name>
@@ -311,10 +263,6 @@
 	<feed>
 		<name>PC Gamer latest stories</name>
 		<url>http://www.pcgamer.com/feed/</url>
-	</feed>
-	<feed>
-		<name>destructoid   </name>
-		<url>http://www.destructoid.com/elephant/index.phtml?mode=atom</url>
 	</feed>
 	<feed>
 		<name>Zero Punctuation  </name>
@@ -347,14 +295,6 @@
 		<url>http://theoatmeal.com/feed/rss</url>
 	</feed>
 	<feed>
-		<name>Dilbert Daily Strip </name>
-		<url>http://feeds.feedburner.com/DilbertDailyStrip</url>
-	</feed>
-	<feed>
-		<name>BuzzFeed Index - Latest</name>
-		<url>http://www.buzzfeed.com/index.xml</url>
-	</feed>
-	<feed>
 		<name>Penny Arcade  </name>
 		<url>http://www.penny-arcade.com/rss.xml</url>
 	</feed>
@@ -375,10 +315,6 @@
 		<url>http://syndication.thedailywtf.com/TheDailyWtf</url>
 	</feed>
 	<feed>
-		<name>PostSecret   </name>
-		<url>http://postsecret.blogspot.com/feeds/posts/default</url>
-	</feed>
-	<feed>
 		<name>Explosm.net   </name>
 		<url>http://feeds.feedburner.com/Explosm</url>
 	</feed>
@@ -391,20 +327,12 @@
 		<url>http://feeds.feedburner.com/CrackedRSS</url>
 	</feed>
 	<feed>
-		<name>I Can Has Cheezburger?</name>
-		<url>http://feeds.feedburner.com/ICanHasCheezburger</url>
-	</feed>
-	<feed>
 		<name>The Bloggess  </name>
 		<url>http://thebloggess.com/feed/</url>
 	</feed>
 	<feed>
-		<name>Funny &amp; Stupid Customer</name>
+		<name>Funny and Stupid Customer</name>
 		<url>http://notalwaysright.com/feed</url>
-	</feed>
-	<feed>
-		<name>People Of Walmart </name>
-		<url>http://www.peopleofwalmart.com/?feed=rss2</url>
 	</feed>
 	<feed>
 		<name>AwkwardFamilyPhotos.com AwkwardFamilyPhotos.com  </name>
@@ -445,10 +373,6 @@
 		<url>http://beautifulpixels.com/feed/</url>
 	</feed>
 	<feed>
-		<name>From Head To Toe</name>
-		<url>http://www.frmheadtotoe.com/feeds/posts/default</url>
-	</feed>
-	<feed>
 		<name>Temptalia   </name>
 		<url>http://www.temptalia.com/feed</url>
 	</feed>
@@ -480,18 +404,6 @@
 		<name>The Beauty Brains </name>
 		<url>http://thebeautybrains.com/feed/</url>
 	</feed>
-	<feed>
-		<name>Beauty Snob  </name>
-		<url>http://www.beautysnob.com/atom.xml</url>
-	</feed>
-	<feed>
-		<name>kandeej   </name>
-		<url>http://kandeethemakeupartist.blogspot.com/feeds/posts/default</url>
-	</feed>
-	<feed>
-		<name>The Beauty Look Book</name>
-		<url>http://www.thebeautylookbook.com/feeds/posts/default</url>
-	</feed>
 </category>
 <category type="DIY">
 <feed>
@@ -519,10 +431,6 @@
 		<url>http://feeds.feedburner.com/CoolTools</url>
 	</feed>
 	<feed>
-		<name>A Beautiful Mess </name>
-		<url>http://abeautifulmess.typepad.com/my_weblog/atom.xml</url>
-	</feed>
-	<feed>
 		<name>MakeUseOf   </name>
 		<url>http://feeds.feedburner.com/Makeuseof</url>
 	</feed>
@@ -539,18 +447,6 @@
 		<url>http://www.doityourself.com/rss</url>
 	</feed>
 	<feed>
-		<name>IHeart Organizing  </name>
-		<url>http://iheartorganizing.blogspot.com/feeds/posts/default</url>
-	</feed>
-	<feed>
-		<name>videos   </name>
-		<url>http://gdata.youtube.com/feeds/base/videos/-/tech?orderby=published&amp;alt=rss&amp;client=ytapi-youtube-rss-redirect&amp;v=2</url>
-	</feed>
-	<feed>
-		<name>The Etsy Blog </name>
-		<url>http://www.etsy.com/storque/feeds/latest/</url>
-	</feed>
-	<feed>
 		<name>Adafruit Industries - Makers</name>
 		<url>http://www.adafruit.com/blog/feed/</url>
 	</feed>
@@ -561,10 +457,6 @@
 	<feed>
 		<name>a pair &amp; a</name>
 		<url>http://apair-andaspare.blogspot.com/feeds/posts/default</url>
-	</feed>
-	<feed>
-		<name>WonderHowTo   </name>
-		<url>http://www.wonderhowto.com/rss.xml</url>
 	</feed>
 </category>
 <category type="Design">
@@ -595,10 +487,6 @@
 	<feed>
 		<name>Dezeen   </name>
 		<url>http://feeds.feedburner.com/dezeen</url>
-	</feed>
-	<feed>
-		<name>Tuts+ Design &amp; Illustration</name>
-		<url>http://psd.tutsplus.com/feed/</url>
 	</feed>
 	<feed>
 		<name>Young House Love </name>
@@ -633,20 +521,12 @@
 		<url>http://www.sfgirlbybay.com/feed/</url>
 	</feed>
 	<feed>
-		<name>NOTCOT   </name>
-		<url>http://www.notcot.com/atom.xml</url>
-	</feed>
-	<feed>
 		<name>JUST™ Creative  </name>
 		<url>http://feeds.feedburner.com/JustCreativeDesignBlog</url>
 	</feed>
 	<feed>
 		<name>Yatzer   </name>
 		<url>http://www.yatzer.com/feed/index.php</url>
-	</feed>
-	<feed>
-		<name>Trendir   </name>
-		<url>http://www.trendir.com/atom.xml</url>
 	</feed>
 </category>
 <category type="Science">
@@ -685,10 +565,6 @@
 	<feed>
 		<name>BBC News - Science</name>
 		<url>http://newsrss.bbc.co.uk/rss/newsonline_world_edition/science/nature/rss.xml</url>
-	</feed>
-	<feed>
-		<name>Latest Science News --</name>
-		<url>http://www.sciencedaily.com/newsfeed.xml</url>
 	</feed>
 	<feed>
 		<name>Nature - Issue -</name>
@@ -757,10 +633,6 @@
 		<url>http://nymag.com/daily/entertainment/index.xml</url>
 	</feed>
 	<feed>
-		<name>Variety   </name>
-		<url>http://www.variety.com/rss.asp?categoryid=10</url>
-	</feed>
-	<feed>
 		<name>Ain't It Cool News</name>
 		<url>http://www.aintitcool.com/node/feed</url>
 	</feed>
@@ -771,10 +643,6 @@
 	<feed>
 		<name>Deadline   </name>
 		<url>http://www.deadline.com/feed/</url>
-	</feed>
-	<feed>
-		<name>Film School Rejects </name>
-		<url>http://feeds.feedburner.com/FilmSchoolRejects</url>
 	</feed>
 	<feed>
 		<name>Hollywood Reporter  </name>
@@ -847,10 +715,6 @@
 		<url>http://www.quicksprout.com/feed/</url>
 	</feed>
 	<feed>
-		<name>Lessons Learned  </name>
-		<url>http://www.startuplessonslearned.com/feeds/posts/default</url>
-	</feed>
-	<feed>
 		<name>Bothsides of the Table</name>
 		<url>http://feeds.feedburner.com/BothSidesOfTheTable</url>
 	</feed>
@@ -877,10 +741,6 @@
 	<feed>
 		<name>Feld Thoughts  </name>
 		<url>http://feeds.feedburner.com/FeldThoughts</url>
-	</feed>
-	<feed>
-		<name>Pando latest articles </name>
-		<url>http://pandodaily.com/feed/</url>
 	</feed>
 	<feed>
 		<name>Press Information Bureau </name>
@@ -1043,10 +903,6 @@
 		<url>http://feeds.feedburner.com/shoottokyo</url>
 	</feed>
 	<feed>
-		<name>Tuts+ Photo &amp; Video</name>
-		<url>http://feeds.feedburner.com/Phototuts</url>
-	</feed>
-	<feed>
 		<name>YellowKorner - Photography -</name>
 		<url>http://www.yellowkorner.com/all_items.rss</url>
 	</feed>
@@ -1073,20 +929,8 @@
 		<url>http://www.joythebaker.com/blog/feed/</url>
 	</feed>
 	<feed>
-		<name>Serious Eats  </name>
-		<url>http://feeds.seriouseats.com/seriouseatsfeaturesvideos</url>
-	</feed>
-	<feed>
 		<name>Food52   </name>
 		<url>http://feeds.feedburner.com/food52-TheAandMBlog</url>
-	</feed>
-	<feed>
-		<name>David Lebovitz  </name>
-		<url>http://www.davidlebovitz.com/archives/index.rdf</url>
-	</feed>
-	<feed>
-		<name>Skinnytaste   </name>
-		<url>http://www.skinnytaste.com/feeds/posts/default</url>
 	</feed>
 	<feed>
 		<name>FN Dish – Food</name>
@@ -1115,10 +959,6 @@
 	<feed>
 		<name>Green Kitchen Stories </name>
 		<url>http://www.greenkitchenstories.com/feed/</url>
-	</feed>
-	<feed>
-		<name>Orangette   </name>
-		<url>http://orangette.blogspot.com/feeds/posts/default</url>
 	</feed>
 	<feed>
 		<name>How Sweet It Is</name>
@@ -1155,10 +995,6 @@
 		<url>http://rss.news.yahoo.com/rss/sports</url>
 	</feed>
 	<feed>
-		<name>SkySports | News </name>
-		<url>http://www.skysports.com/rss/0205141109500.xml</url>
-	</feed>
-	<feed>
 		<name>BBC Sport - Football</name>
 		<url>http://newsrss.bbc.co.uk/rss/sportonline_uk_edition/football/rss.xml</url>
 	</feed>
@@ -1169,10 +1005,6 @@
 	<feed>
 		<name>Grantland: Home Page </name>
 		<url>http://feeds.feedburner.com/Grantland</url>
-	</feed>
-	<feed>
-		<name>NFL.com   </name>
-		<url>http://www.nfl.com/rss/rsslanding?searchString=home</url>
 	</feed>
 	<feed>
 		<name>NBA.com: News  </name>
@@ -1193,14 +1025,6 @@
 	<feed>
 		<name>Puck Daddy - NHL</name>
 		<url>http://sports.yahoo.com/nhl/blog/puck_daddy/rss.xml</url>
-	</feed>
-	<feed>
-		<name>Bruins Nation  </name>
-		<url>http://www.bruinsnation.com/atom/</url>
-	</feed>
-	<feed>
-		<name>Life Is Waves! on</name>
-		<url>http://vimeo.com/channels/111750/videos/rss</url>
 	</feed>
 	<feed>
 		<name>WESTHESPORTSGUY.COM   </name>
