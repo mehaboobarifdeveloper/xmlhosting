@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<item>
+		<title>IDE Features</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>Building Test Cases</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>Running Test Cases</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>Using Base URL to Run Test Cases in Different Domains</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>Selenium Commands – “Selenese”</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>Script Syntax</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>Test Suites</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>Commonly Used Selenium Commands</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>Verifying Page Elements</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>Assertion or Verification?</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>Locating Elements</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>Matching Text Patterns</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>The “AndWait” Commands</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>The waitFor Commands in AJAX applications</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>Sequence of Evaluation and Flow Control</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>Store Commands and Selenium Variables</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>JavaScript and Selenese Parameters</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>echo - The Selenese Print Command</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>Alerts, Popups, and Multiple Windows</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>Debugging</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>Writing a Test Suite</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>User Extensions</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>Format</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>Executing Selenium-IDE Tests on Different Browsers</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>Troubleshooting</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+</data-set>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<item>
+		<title>Migrating from Selenium 1.0</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>Selenium-WebDriver API by Example</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>Selenium-WebDriver API Commands and Operations</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>Handling Action Events</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>HtmlUnit Driver</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>Firefox Driver</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>Internet Explorer Driver</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>Chrome Driver</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>Opera Driver</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>iOS Driver</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>Android Driver</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>Mixing WebDriver and RC Technologies</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>Standalone Selenium Server with RemoteDrivers</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+</data-set>

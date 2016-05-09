@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<item>
+		<title>Introducing Test Design</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>Types of Tests</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>Validating Results</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>Location Strategies</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>Wrapping Selenium Calls</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>UI Mapping</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>Page Object Design Pattern</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>Data Driven Testing</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>Database Validation</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+</data-set>

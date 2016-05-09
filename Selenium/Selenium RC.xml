@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<item>
+		<title>Introduction</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>How Selenium RC Works</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>Installation</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>From Selenese to a Program</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>Programming Test</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>Learning the API</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>Reporting Results</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>Adding Some Spice to Tests</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>Server Options</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>Selenium Server Logging</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>Selenium RC Architecture</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>Handling HTTPS and Security Popups</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>Supporting Additional Browsers and Browser Configurations</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>Troubleshooting Common Problems</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+	<item>
+		<title>Debugging Selenium Tests</title>
+		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>-</description>
+	</item>
+</data-set>
