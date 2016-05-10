@@ -2,31 +2,26 @@
 <data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<item>
 		<title>Test Automation for Web Applications</title>
-		<link>http://www.seleniumhq.org/docs/01_introducing_selenium.jsp#test-automation-for-web-applications</link>
+		<link>http://www.exforsys.com/tutorials/testing/automated-testing-advantages-disadvantages-and-guidelines.html</link>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
-		<description><![CDATA["<p>Why Automation:</p>
-<p>Web-based applications are growing. These applications are very interactive and responsive and run on many platforms. So automation becomes essential for faster releases which is a need for agile process.</p>
-<p>Advantages of Automation:<br />1. Fast: Runs tests significantly faster than human users.<br />2. Repeatable: Testers can test how the website or software reacts after repeated execution of the same operation.<br />3. Run many times: Frequent regression testing<br />4. Faster results: Rapid feedback to developers<br />5. Run unlimited times: Virtually unlimited iterations of test case execution<br />6. Works in all processes: Support for Agile and extreme development methodologies<br />7. Documentation: Disciplined documentation of test cases<br />8. Auto Defect Report: Customized defect reporting<br />9. Comprehensive Coverage: Testers can build test suites of tests that covers every feature in software application. This helps in finding defects missed by manual testing</p>"
-]]></description>
+		<description>&lt;p&gt;Why Automation:&lt;/p&gt;
+&lt;p&gt;Web-based applications are growing. These applications are very interactive and responsive and run on many platforms. So automation becomes essential for faster releases which is a need for agile process.&lt;/p&gt;
+&lt;p&gt;Advantages of Automation:&lt;br /&gt;1. Fast: Runs tests significantly faster than human users.&lt;br /&gt;2. Repeatable: Testers can test how the website or software reacts after repeated execution of the same operation.&lt;br /&gt;3. Run many times: Frequent regression testing&lt;br /&gt;4. Faster results: Rapid feedback to developers&lt;br /&gt;5. Run unlimited times: Virtually unlimited iterations of test case execution&lt;br /&gt;6. Works in all processes: Support for Agile and extreme development methodologies&lt;br /&gt;7. Documentation: Disciplined documentation of test cases&lt;br /&gt;8. Auto Defect Report: Customized defect reporting&lt;br /&gt;9. Comprehensive Coverage: Testers can build test suites of tests that covers every feature in software application. This helps in finding defects missed by manual testing&lt;/p&gt;</description>
 	</item>
 	<item>
 		<title>To Automate or Not to Automate?</title>
 		<link>http://www.seleniumhq.org/docs/01_introducing_selenium.jsp#to-automate-or-not-to-automate</link>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
-		<description>Is automation always advantageous? When should one decide to automate test cases?
-
-It is not always advantageous to automate test cases. There are times when manual testing may be more appropriate. For instance, if the application’s user interface will change considerably in the near future, then any automation might need to be rewritten anyway. Also, sometimes there simply is not enough time to build test automation. For the short term, manual testing may be more effective. If an application has a very tight deadline, there is currently no test automation available, and it’s imperative that the testing get done within that time frame, then manual testing is the best solution.</description>
+		<description>&lt;p&gt;Why Automation:&lt;/p&gt;
+&lt;p&gt;Web-based applications are growing. These applications are very interactive and responsive and run on many platforms. So automation becomes essential for faster releases which is a need for agile process.&lt;/p&gt;
+&lt;p&gt;Advantages of Automation:&lt;br /&gt;1. Fast: Runs tests significantly faster than human users.&lt;br /&gt;2. Repeatable: Testers can test how the website or software reacts after repeated execution of the same operation.&lt;br /&gt;3. Run many times: Frequent regression testing&lt;br /&gt;4. Faster results: Rapid feedback to developers&lt;br /&gt;5. Run unlimited times: Virtually unlimited iterations of test case execution&lt;br /&gt;6. Works in all processes: Support for Agile and extreme development methodologies&lt;br /&gt;7. Documentation: Disciplined documentation of test cases&lt;br /&gt;8. Auto Defect Report: Customized defect reporting&lt;br /&gt;9. Comprehensive Coverage: Testers can build test suites of tests that covers every feature in software application. This helps in finding defects missed by manual testing&lt;/p&gt;</description>
 	</item>
 	<item>
 		<title>Introducing Selenium</title>
 		<link>http://www.guru99.com/introduction-to-selenium.html</link>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
-		<description>Selenium was originally developed by Jason Huggins in 2004 as an internal tool at ThoughtWorks. Huggins was later joined by other programmers and testers at ThoughtWorks., before Paul Hammant joined the team and steered the development of the second mode of operation that would later become 'Selenium Remote Control' (RC). The tool was open sourced that year.
-
-In 2005 Dan Fabulich and Nelson Sproul (with help from Pat Lightbody) made an offer to accept a series of patches that would transform Selenium-RC into what it became best known for. In the same meeting, the steering of Selenium as a project would continue as a committee, with Huggins and Hammant being the ThoughtWorks representatives.
-
-In 2007, Huggins joined Google. Together with others like Jennifer Bevan, he continued with the development and stabilization of Selenium RC. At the same time, Simon Stewart at ThoughtWorks developed a superior browser automation tool called WebDriver. In 2009, after a meeting between the developers at the Google Test Automation Conference, it was decided to merge the two projects, and call the new project Selenium WebDriver, or Selenium 2.0.
-In 2008, Philippe Hanrigou (then at ThoughtWorks) made 'Selenium Grid', which provides a hub allowing the running of multiple Selenium tests concurrently on any number of local or remote systems, thus minimizing test execution time. Grid offered, as open source, a similar capability to the internal/private Google cloud for Selenium RC. Pat Lightbody had already made a private cloud for 'HostedQA' which he went on to sell to Gomez, Inc.
-The name Selenium comes from a joke made by Huggins in an email, mocking a competitor named Mercury, saying that you can cure mercury poisoning by taking selenium supplements. The others that received the email took the name and ran with it.</description>
+		<description>&lt;p&gt;Why Automation:&lt;/p&gt;
+&lt;p&gt;Web-based applications are growing. These applications are very interactive and responsive and run on many platforms. So automation becomes essential for faster releases which is a need for agile process.&lt;/p&gt;
+&lt;p&gt;Advantages of Automation:&lt;br /&gt;1. Fast: Runs tests significantly faster than human users.&lt;br /&gt;2. Repeatable: Testers can test how the website or software reacts after repeated execution of the same operation.&lt;br /&gt;3. Run many times: Frequent regression testing&lt;br /&gt;4. Faster results: Rapid feedback to developers&lt;br /&gt;5. Run unlimited times: Virtually unlimited iterations of test case execution&lt;br /&gt;6. Works in all processes: Support for Agile and extreme development methodologies&lt;br /&gt;7. Documentation: Disciplined documentation of test cases&lt;br /&gt;8. Auto Defect Report: Customized defect reporting&lt;br /&gt;9. Comprehensive Coverage: Testers can build test suites of tests that covers every feature in software application. This helps in finding defects missed by manual testing&lt;/p&gt;</description>
 	</item>
 </data-set>
