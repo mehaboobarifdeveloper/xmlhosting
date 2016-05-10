@@ -4,10 +4,10 @@
 		<title>Test Automation for Web Applications</title>
 		<image>http://www.seleniumhq.org/images/big-logo.png</image>
 		<media:content
-		    url="http://www.seleniumhq.org/images/big-logo.png" 
+		    url="http://blog.parallelbranch.com/wp-content/uploads/2013/11/selenium.jpg" 
 		    type="image/jpeg" 
-		    height="768" 
-		    width="1024"/>
+		    height="200" 
+		    width="200"/>
 		    <enclosure url="http://www.seleniumhq.org/images/big-logo.png" length="12216320" type="image/png" />
 
 		<link>http://www.exforsys.com/tutorials/testing/automated-testing-advantages-disadvantages-and-guidelines.html</link>
