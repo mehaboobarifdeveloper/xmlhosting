@@ -2,13 +2,7 @@
 <data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<item>
 		<title>Test Automation for Web Applications</title>
-		<image>http://www.seleniumhq.org/images/big-logo.png</image>
-		<media:content
-		    url="http://blog.parallelbranch.com/wp-content/uploads/2013/11/selenium.jpg" 
-		    type="image/jpeg" 
-		    height="200" 
-		    width="200"/>
-		    <enclosure url="http://www.seleniumhq.org/images/big-logo.png" length="12216320" type="image/png" />
+		<enclosure url="http://blog.parallelbranch.com/wp-content/uploads/2013/11/selenium.jpg" length="12216320" type="image/png" />
 
 		<link>http://www.exforsys.com/tutorials/testing/automated-testing-advantages-disadvantages-and-guidelines.html</link>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
