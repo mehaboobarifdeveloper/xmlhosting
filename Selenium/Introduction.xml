@@ -10,18 +10,42 @@
 	</item>
 	<item>
 		<title>To Automate or Not to Automate?</title>
-		<link>http://www.seleniumhq.org/docs/01_introducing_selenium.jsp#to-automate-or-not-to-automate</link>
+		<link>http://ole-laursen.blogspot.in/2012/03/when-automated-tests-make-sense-and.html</link>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
-		<description>&lt;p&gt;Why Automation:&lt;/p&gt;
-&lt;p&gt;Web-based applications are growing. These applications are very interactive and responsive and run on many platforms. So automation becomes essential for faster releases which is a need for agile process.&lt;/p&gt;
-&lt;p&gt;Advantages of Automation:&lt;br /&gt;1. Fast: Runs tests significantly faster than human users.&lt;br /&gt;2. Repeatable: Testers can test how the website or software reacts after repeated execution of the same operation.&lt;br /&gt;3. Run many times: Frequent regression testing&lt;br /&gt;4. Faster results: Rapid feedback to developers&lt;br /&gt;5. Run unlimited times: Virtually unlimited iterations of test case execution&lt;br /&gt;6. Works in all processes: Support for Agile and extreme development methodologies&lt;br /&gt;7. Documentation: Disciplined documentation of test cases&lt;br /&gt;8. Auto Defect Report: Customized defect reporting&lt;br /&gt;9. Comprehensive Coverage: Testers can build test suites of tests that covers every feature in software application. This helps in finding defects missed by manual testing&lt;/p&gt;</description>
+		<description>&lt;p&gt;When not to automate:&lt;/p&gt;
+&lt;p&gt;1. User interface will change considerably in the near future&lt;br /&gt;2. Short term Project&lt;/p&gt;</description>
 	</item>
 	<item>
 		<title>Introducing Selenium</title>
-		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<link>http://www.gcreddy.com/2014/03/selenium-introduction.html</link>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
-		<description>&lt;p&gt;Why Automation:&lt;/p&gt;
-&lt;p&gt;Web-based applications are growing. These applications are very interactive and responsive and run on many platforms. So automation becomes essential for faster releases which is a need for agile process.&lt;/p&gt;
-&lt;p&gt;Advantages of Automation:&lt;br /&gt;1. Fast: Runs tests significantly faster than human users.&lt;br /&gt;2. Repeatable: Testers can test how the website or software reacts after repeated execution of the same operation.&lt;br /&gt;3. Run many times: Frequent regression testing&lt;br /&gt;4. Faster results: Rapid feedback to developers&lt;br /&gt;5. Run unlimited times: Virtually unlimited iterations of test case execution&lt;br /&gt;6. Works in all processes: Support for Agile and extreme development methodologies&lt;br /&gt;7. Documentation: Disciplined documentation of test cases&lt;br /&gt;8. Auto Defect Report: Customized defect reporting&lt;br /&gt;9. Comprehensive Coverage: Testers can build test suites of tests that covers every feature in software application. This helps in finding defects missed by manual testing&lt;/p&gt;</description>
+		<description>&lt;p&gt;1. It is a set of many software tools to perform test automation&lt;br /&gt;2. Entire suite of tools helps QA to automate web applications (note cannot automate native desktop apps)&lt;br /&gt;3. This tools help in locating user interface elements, performing action on it and then verifying the expected results with actual results&lt;br /&gt;4. Key feature of Selenium is QA can create test once and run it on multiple browsers&lt;/p&gt;</description>
+	</item>
+	<item>
+		<title>Brief History of The Selenium Project</title>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>&lt;p&gt;A Story of Marriage&lt;/p&gt;
+&lt;p&gt;Who did it and what was done:&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;1. First Creator: Jason Huggins&lt;br /&gt;2. First developed as a javascript library to interact with the web page and run tests against multiple browser&lt;br /&gt;3. The Javascript library created became Selenium Core(now it contains all functionality of RC and IDE)&lt;br /&gt;4. The above library could control a browser from the language of our choice&lt;/p&gt;
+&lt;p&gt;Why there was a need for more:&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;1. Since the library for automation was Javascript based, the security limitations provided by the browser against javascript resulted in limiting the power of the &lt;br /&gt;library.&lt;br /&gt;2. Web Applications became more powerful with newer features that are native to browser. Using external javascript programs to automate/control browser became more &lt;br /&gt;difficult&lt;/p&gt;
+&lt;p&gt;Who came for help:&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;1. Simon Stewart from google came up with WebDriver project that could solve many of the problems&lt;br /&gt;2. WebDriver can speak directly to browser using native methods of browser(no sandbox)&lt;br /&gt;3. In 2008, Selenium and webdriver got married :)&lt;/p&gt;</description>
+	</item>
+	<item>
+		<title>Selenium’s Tool Suite</title>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+	</item>
+	<item>
+		<title>Choosing Selenium Tool</title>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+	</item>
+	<item>
+		<title>Supported Browsers and Platforms</title>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+	</item>
+	<item>
+		<title>Flexibility and Extensibility</title>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
 	</item>
 </data-set>
