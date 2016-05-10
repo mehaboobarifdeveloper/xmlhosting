@@ -3,6 +3,11 @@
 	<item>
 		<title>Test Automation for Web Applications</title>
 		<image>http://www.seleniumhq.org/images/big-logo.png</image>
+		<media:content
+		    url="http://www.seleniumhq.org/images/big-logo.png" 
+		    type="image/jpeg" 
+		    height="768" 
+		    width="1024"/>
 		<link>http://www.exforsys.com/tutorials/testing/automated-testing-advantages-disadvantages-and-guidelines.html</link>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
 		<description>&lt;p&gt;Why Automation:&lt;/p&gt;
