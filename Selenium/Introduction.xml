@@ -4,26 +4,9 @@
 		<title>Test Automation for Web Applications</title>
 		<link>http://www.seleniumhq.org/docs/01_introducing_selenium.jsp#test-automation-for-web-applications</link>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
-		<description><![CDATA["<ol>
-<li>
-<p><strong>Why Automation:</strong></p>
-<p>&nbsp;</p>
+		<description><![CDATA["<p>Why Automation:</p>
 <p>Web-based applications are growing. These applications are very interactive and responsive and run on many platforms. So automation becomes essential for faster releases which is a need for agile process.</p>
-<p>&nbsp;</p>
-<p><strong>Advantages of Automation:</strong></p>
-<ol>
-<li><strong>Fast</strong>: Runs tests significantly faster than human users.</li>
-<li><strong>Repeatable</strong>: Testers can test how the website or software reacts after repeated execution of the same operation.</li>
-<li><strong>Run many times</strong>: Frequent regression testing</li>
-<li><strong>Faster results</strong>: Rapid feedback to developers</li>
-<li><strong>Run unlimited times</strong>: Virtually unlimited iterations of test case execution</li>
-<li><strong>Works in all processes</strong>: Support for Agile and extreme development methodologies</li>
-<li><strong>Documentation</strong>: Disciplined documentation of test cases</li>
-<li><strong>Auto Defect Report</strong>: Customized defect reporting</li>
-<li><strong>Comprehensive Coverage</strong>: Testers can build test suites of tests that covers every feature in software application. This helps in finding defects missed by manual testing</li>
-</ol>
-</li>
-</ol>"
+<p>Advantages of Automation:<br />1. Fast: Runs tests significantly faster than human users.<br />2. Repeatable: Testers can test how the website or software reacts after repeated execution of the same operation.<br />3. Run many times: Frequent regression testing<br />4. Faster results: Rapid feedback to developers<br />5. Run unlimited times: Virtually unlimited iterations of test case execution<br />6. Works in all processes: Support for Agile and extreme development methodologies<br />7. Documentation: Disciplined documentation of test cases<br />8. Auto Defect Report: Customized defect reporting<br />9. Comprehensive Coverage: Testers can build test suites of tests that covers every feature in software application. This helps in finding defects missed by manual testing</p>"
 ]]></description>
 	</item>
 	<item>
