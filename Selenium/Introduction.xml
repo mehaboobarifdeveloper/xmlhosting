@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<item>
-		<title>Brief History of The Selenium Project</title>
-		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
-		<description><![CDATA[<p><strong>What other automation tools available in Market</strong></p><ol><li>QTP</li><li>Test Complete</li></ol>]]></description>
-	</item>
-	<item>
 		<title>Test Automation for Web Applications</title>
-		<enclosure url="http://blog.parallelbranch.com/wp-content/uploads/2013/11/selenium.jpg" length="12216320" type="image/png" />
-
 		<link>http://www.exforsys.com/tutorials/testing/automated-testing-advantages-disadvantages-and-guidelines.html</link>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
-		<description>&lt;p&gt;Why Automation:&lt;/p&gt;
+		<description>&lt;enclosure url="http://blog.parallelbranch.com/wp-content/uploads/2013/11/selenium.jpg" length="12216320" type="image/png" /&gt;&lt;p&gt;Why Automation:&lt;/p&gt;
+&lt;enclosure url="http://blog.parallelbranch.com/wp-content/uploads/2013/11/selenium.jpg" length="12216320" type="image/png" /&gt;
 &lt;p&gt;Web-based applications are growing. These applications are very interactive and responsive and run on many platforms. So automation becomes essential for faster releases which is a need for agile process.&lt;/p&gt;
 &lt;p&gt;Advantages of Automation:&lt;br /&gt;1. Fast: Runs tests significantly faster than human users.&lt;br /&gt;2. Repeatable: Testers can test how the website or software reacts after repeated execution of the same operation.&lt;br /&gt;3. Run many times: Frequent regression testing&lt;br /&gt;4. Faster results: Rapid feedback to developers&lt;br /&gt;5. Run unlimited times: Virtually unlimited iterations of test case execution&lt;br /&gt;6. Works in all processes: Support for Agile and extreme development methodologies&lt;br /&gt;7. Documentation: Disciplined documentation of test cases&lt;br /&gt;8. Auto Defect Report: Customized defect reporting&lt;br /&gt;9. Comprehensive Coverage: Testers can build test suites of tests that covers every feature in software application. This helps in finding defects missed by manual testing&lt;/p&gt;</description>
 	</item>
@@ -30,6 +24,7 @@
 	</item>
 	<item>
 		<title>Brief History of The Selenium Project</title>
+		<link>http://www.slideshare.net/michael_palotas/jugs-selenium-eventbernnewtemplatenovideos</link>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
 		<description>&lt;p&gt;A Story of Marriage&lt;/p&gt;
 &lt;p&gt;Who did it and what was done:&lt;/p&gt;
@@ -41,24 +36,24 @@
 	</item>
 	<item>
 		<title>Selenium’s Tool Suite</title>
+		<link>http://blog.harbinger-systems.com/2014/05/getting-started-with-selenium-the-open-source-automation-testing-tool/</link>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>&lt;p&gt;Selenium toolset consists of following:&lt;/p&gt;
+&lt;p&gt;1. Selenium 2.0: Contains webdriver API + Selenium 1&lt;br /&gt;2. Selenium 1.0: It contains Selenium RC/Remote Control.Selenium 1 APIs(javascript bases) are deprecated and is not actively supported. It is in maintainance mode to support remote execution.&lt;br /&gt;3. Selenium IDE: Integrated Development Environment is a Firefox Plugin which is prototyping tool for building test scripts.It has an UI for developing automated tests where your can record user actions and play the actions.thods of browser(no sandbox)&lt;/p&gt;</description>
 	</item>
 	<item>
 		<title>Choosing Selenium Tool</title>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>&lt;p&gt;1. Beginner: Start with IDE. Learn how it works and its selenium commands underneath. If its very simple tests, use it. Dont use it for Test Automation for a project&lt;br /&gt;2. Use Selenium 2: If you are automating a project then start using Selenium 2.0&lt;/p&gt;</description>
 	</item>
 	<item>
 		<title>Supported Browsers and Platforms</title>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>&lt;p&gt;1. Google Chrome&lt;br /&gt;2. Internet Explorer 7, 8, 9, 10, and 11 on appropriate combinations of Vista, Windows 7, Windows 8, and Windows 8.1.As of April 15 2014, IE 6 is no longer supported. The driver supports running 32-bit and 64-bit versions of the browser where applicable&lt;br /&gt;3. Firefox: latest ESR, previous ESR, current release, one previous release&lt;br /&gt;4. Safari&lt;br /&gt;5. Opera&lt;br /&gt;6. HtmlUnit&lt;br /&gt;7. phantomjs&lt;br /&gt;8. Android (with Selendroid or appium)&lt;br /&gt;9. iOS (with ios-driver or appium)&lt;/p&gt;</description>
 	</item>
 	<item>
 		<title>Flexibility and Extensibility</title>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>&lt;p&gt;1. Selenium source code is open soure and available for download&lt;br /&gt;2. Its highly flexible and you can customize based on the project needsm)&lt;/p&gt;</description>
 	</item>
-		<item>
-		<title>Brief History of The Selenium Project</title>
-		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
-		<description><p><strong>What other automation tools available in Market</strong></p><ol><li>QTP</li><li>Test Complete</li></ol></description>
-	</item>
-	
 </data-set>
