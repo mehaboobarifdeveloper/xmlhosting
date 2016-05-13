@@ -1,153 +1,193 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<item>
-		<title>IDE Features</title>
-		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<title>Introduction</title>
+		<link>http://www.softwaretestingmentor.com/selenium-tutorials/what-is-selenium-ide/</link>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
-		<description>-</description>
+		<description>&lt;enclosure url="http://www.seleniumhq.org/projects/ide/selenium-ide.gif" length="12216320" type="image/gif" /&gt;&lt;p&gt;1. It&amp;rsquo;s a Firefox plugin which acts as a tool to record &amp;amp; play user generated actions&lt;/p&gt;
+&lt;p&gt;2. We can call it is a IDE(Integrated Development Environment) for development of selenium test cases&lt;/p&gt;
+&lt;p&gt;3. The tool has nice UI, which makes it easier for a user who doesn&amp;rsquo;t have programming knowledge&lt;/p&gt;</description>
+	</item>
+	<item>
+		<title>Installing the IDE</title>
+		<link>http://www.wikihow.com/Download-Selenium-IDE-Addon</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>&lt;p&gt;1. Install Firefox Browser&lt;/p&gt;
+&lt;p&gt;2. Go to&amp;nbsp;https://addons.mozilla.org/en-US/firefox/addon/selenium-ide/&lt;/p&gt;
+&lt;p&gt;3. Install the above add-on&lt;/p&gt;
+&lt;p&gt;4. Click on "Add to Firefox" option for installation. Once installed, restart you browser.&lt;/p&gt;
+&lt;p&gt;5. The Selenium IDE plugin will now be available. It will be visible in the browser tool bar or Go to Menu Bar-&amp;gt;Tools(If you are not able to see the&amp;nbsp;menu bar, then press ALT key in the keyboard)&lt;/p&gt;
+&lt;p&gt;For visual details, tap&amp;nbsp;on this card, and then tap more information button at the bottom.&lt;/p&gt;</description>
+	</item>
+	<item>
+		<title>Opening the IDE</title>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>&lt;p&gt;1. &amp;nbsp;From Firefox IDE, Go to Menu Bar-&amp;gt;Tools(If you are not able to see the&amp;nbsp;menu bar, then press ALT key in the keyboard)&lt;/p&gt;
+&lt;p&gt;2. Click on the Selenium IDE option&lt;/p&gt;</description>
+	</item>
+	<item>
+		<title>IDE Features</title>
+		<link>http://ttwhy.org/code/ui-doc.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>&lt;p&gt;&amp;gt;&amp;gt;&amp;gt;Test Case Pane:&lt;/p&gt;
+&lt;p&gt;Test Case Pane is the most important part of the UI.The automation script is displayed in the pane.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Test Case pane has 2 tabs(Readable Table Format, and Native Source format)&lt;/p&gt;
+&lt;p&gt;1. Table Format shows the commands in readable format where&amp;nbsp;Command, Target, and Value entry fields display the currently selected command along with its parameters. Table shows all the commands in keyword format. If you want to edit the commands, then you can use the editor found below the table. You can change Command, Target and value field which will get reflected in the Table.&lt;/p&gt;
+&lt;p&gt;2. Source Format displays the test case in the native format in which the file will be stored. By default, this is HTML. You can directly edit and make changes.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;gt;&amp;gt;&amp;gt;Log/Reference/UI-Element/Rollup Pane:&lt;/p&gt;
+&lt;p&gt;This pane has four functions:&lt;/p&gt;
+&lt;p&gt;1. Log: Logs the error, information messages when you run the test case(s)&lt;/p&gt;
+&lt;p&gt;2. Reference: Shows documentation when you select the command in the Table format of the Test Case Pane. you can consider this as a help provider which details about the selected command.&lt;/p&gt;
+&lt;p&gt;3. UI Element:&amp;nbsp;A mapping between a meaningful name for a page element, and the means to locate that page element's DOM node. The page element is located via a locator. UI elements belong to pagesets(meaning&amp;nbsp;A set of pages that share some set of common page elements)&lt;/p&gt;
+&lt;p&gt;4. Roll Up:&amp;nbsp;Logic that describes how one or more Selenium commands can be grouped into a single command, and how that single command may be expanded into its component Selenium commands. The single command is referred to simply as a "rollup".&lt;/p&gt;
+&lt;p&gt;I know UI Element and Roll Up is the only one you did not understand:) Tap here and in the window opened click on more information to get more details.&lt;/p&gt;</description>
+	</item>
+	<item>
+		<title>UI Element</title>
+		<link>http://qaselenium.blogspot.in/2011/03/sample-ui-element-mapping.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>&lt;p&gt;&lt;What&amp;nbsp;UI Element:&lt;br /&gt;1. it&amp;rsquo;s an extension to Selenium IDE&lt;br /&gt;2. it&amp;rsquo;s used to define a mapping between semantically meaningful names of elements on web page and the elements themselves. EX: Say we had a login button in the application. Assume that its ID is &amp;ldquo;txt_lgn&amp;rdquo;. When we record, all our operations are converted to a command which will include the object properties (in this case txt_lgn).If we UI map, a more meaningful name will be given and used in the commands (EX: ui:LoginPage::TextboxLogin()). Internally this new name will be mapped to name given by the developer(txt_Lgn)&lt;br /&gt;3. The above mapping is store in a JSON(JavaScript Object Notation) file&lt;br /&gt;4. Uses: The custom name will be easier to understand. Also Robust test case is created. If id changes from "txt_Lgn" to "txt_Login" We don't need to replace where ever we used this. Just update the mapping which can be done once.&lt;/p&gt;</description>
+	</item>
+	<item>
+		<title>RollUp</title>
+		<link>chrome://selenium-ide/content/selenium-core/scripts/ui-doc.html</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>&lt;p&gt;1. RollUp allows&amp;nbsp;repetitive sequences of Selenium commands to be grouped into a single action. For comparison, you can think this as a function which can be written once and can be called multiple times.&lt;/p&gt;
+&lt;p&gt;2. Rollup helps in better understanding and organised test cases.&lt;/p&gt;
+&lt;p&gt;3. It will also help in&amp;nbsp;abstracting the execution details for the action, such that if they were to change at some point, you would have a single point of update&lt;/p&gt;</description>
 	</item>
 	<item>
 		<title>Building Test Cases</title>
-		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<link>http://www.guru99.com/first-selenium-test-script.html</link>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
-		<description>-</description>
+		<description>&lt;p&gt;Just like developing a test case manually, automation also requires 2 things. one is set of actions and other is verifications.&lt;/p&gt;
+&lt;p&gt;Below are different ways to develop test cases:&lt;br /&gt;1. Recording for creating actions: Use Record button to automatically insert commands into your test case based on your actions. Below are the few commands:&lt;br /&gt; &amp;gt;clicking a link - click or clickAndWait commands&lt;br /&gt; &amp;gt;entering values - type command&lt;br /&gt; &amp;gt;selecting options from a drop-down listbox - select command&lt;br /&gt; &amp;gt;clicking checkboxes or radio buttons - click command&lt;br /&gt;2. Verification: While Selenium-IDE recording, go to the browser displaying your test application and right click anywhere on the page. You will see a context menu showing verify and/or assert commands.&lt;br /&gt;3. Editing required for changes/additions: Use Test Case Pane to edit using Table View or directly edit the code in Source view&lt;br /&gt;4. Comments: You can add comments to make your tests more readable.These are only for our understanding and will not be executed.&lt;br /&gt;5. Save: You can save individual test or whole test suites for further use.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;date&lt;/p&gt;</description>
 	</item>
 	<item>
 		<title>Running Test Cases</title>
-		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<link>http://seleniummaster.com/sitecontent/index.php/introduction-to-selenium-automation/selenium-ide/87-running-test-cases-in-selenium-ide</link>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
-		<description>-</description>
+		<description>&lt;p&gt;The IDE allows many options for running your test case. You can run a test case all at once, stop and start it, run it one line at a time, run a single command you are currently developing, and you can do a batch run of an entire test suite.&lt;/p&gt;
+&lt;p&gt;Run a Test Case: Click the Run button to run the currently displayed test case.&lt;br /&gt;Run a Test Suite: Click the Run All button to run all the test cases in the currently loaded test suite.&lt;br /&gt;Stop and Start: The Pause button can be used to stop the test case while it is running. The icon of this button then changes to indicate the Resume button. To continue click Resume.&lt;br /&gt;Stop in the Middle: You can set a breakpoint in the test case to cause it to stop on a particular command. This is useful for debugging your test case. To set a breakpoint, select a command, right-click, and from the context menu select Toggle Breakpoint.&lt;br /&gt;Start from the Middle: You can tell the IDE to begin running from a specific command in the middle of the test case. This also is used for debugging. To set a startpoint, select a command, right-click, and from the context menu select Set/Clear Start Point.&lt;br /&gt;Run Any Single Command: Double-click any single command to run it by itself. This is useful when writing a single command. It lets you immediately test a command you are constructing, when you are not sure if it is correct. You can double-click it to see if it runs correctly. This is also available from the context menu.&lt;/p&gt;</description>
 	</item>
 	<item>
 		<title>Using Base URL to Run Test Cases in Different Domains</title>
-		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<link>https://seleniumonlinetrainingexpert.wordpress.com/2012/11/26/how-base-url-and-open-command-work-together-in-selenium-ide/</link>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
-		<description>-</description>
+		<description>&lt;p&gt;&lt;br /&gt;1. Base URL can be used for allowing to run the tests in different domains.Usually while we are testing the website, it will be deployed in different environments like staging and production. So if you have recorded you steps in staging environment and want to run the same tests in production envrionment, then you change the base url and run the scripts.&lt;br /&gt;2. Selenium-IDE will create an absolute URL by appending the open command&amp;rsquo;s argument onto the end of the value of Base URL&lt;/p&gt;</description>
 	</item>
 	<item>
 		<title>Selenium Commands – “Selenese”</title>
-		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<link>http://www.seleniumhq.org/docs/02_selenium_ide.jsp#selenium-commands-selenese</link>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
-		<description>-</description>
+		<description>&lt;p&gt;Selenese means a set of selenium commands that run the tests.Its a command set.A command tells Selenium what to do.&lt;br /&gt;In Selenese following things can be done:&lt;br /&gt;1. Test Existence of UI elements based on their HTML Tags&lt;br /&gt;2. Test for specific content&lt;br /&gt;3. Test Broken Links&lt;br /&gt;4. Input fields&lt;br /&gt;5. Selection list options&lt;br /&gt;6. Submitting forms&lt;br /&gt;7. Table Data etc&lt;br /&gt;&lt;br /&gt;In Addition, following can be done:&lt;br /&gt;1. Testing window size&lt;br /&gt;2. Mouse Position&lt;br /&gt;3. Alerts&lt;br /&gt;4. Ajax Functionality&lt;br /&gt;5. Pop up Windows&lt;br /&gt;6. Event Handling&lt;br /&gt;7. Other web application features&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;There are three things in a Selenium commands:&lt;br /&gt;1. Actions: Command that manipulates the state of the application&lt;br /&gt;2. Accessors: Examine state of application and store the results. This can be used for assertions(checking the exp to &lt;br /&gt;&lt;br /&gt;actual)&lt;br /&gt;3. Assertions: Compare and conform that actual state of the application is same as expected.Assertions are of 3 &lt;br /&gt;&lt;br /&gt;modes.assert, verify and waitFor.&lt;br /&gt;&lt;br /&gt;Modes:&lt;br /&gt;1. Assert :&amp;nbsp; EX: assertText.When assert fails, the test is aborted&lt;br /&gt;2. Verify: EX: verifyText. When verify fails, the test will continue execution after logging the results&lt;br /&gt;3. &amp;nbsp;&amp;nbsp; &amp;nbsp;WaitFor: EX: waitForText. Waits for some condition to become true. It is pass, if the condition is true without &lt;br /&gt;&lt;br /&gt;waiting. If the condition is still not true, then it will wait till timeout(setTimeout paramter is used)&lt;/p&gt;</description>
 	</item>
 	<item>
 		<title>Script Syntax</title>
-		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<link>http://www.seleniumhq.org/docs/02_selenium_ide.jsp#script-syntax</link>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
-		<description>-</description>
+		<description>&lt;p&gt;1. Selenium command consists of command+2 Paramter(Optional based on type of command)&lt;br /&gt;2. Example: verifyText | //div//p//a[4]|Login.&amp;nbsp; That means you are verifying that there is an object which&amp;nbsp; has a text called Login&lt;br /&gt;3. Few commands do not require 2 parameters. For Example, goBackAndWait command do not require any paramter, since the command itself gives enough information for selenium to complete the action. For other command, like verifyTextPresent, takes only one paramter which will be the text to verify without details required about the object properties. Type takes 2 paramters(one which needs the references on where to type and what to type)&lt;br /&gt;4. So generally the selenese will include Command+Target(locators)+Value&lt;br /&gt;5. The selenium scripts that will run on IDE will be stored as HTML text file format. This consists of HTML table with 3 columns: Command+target+value&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;</description>
 	</item>
 	<item>
 		<title>Test Suites</title>
-		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<link>https://newcircle.com/bookshelf/selenium_tutorial/test_cases_and_test_suites</link>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
-		<description>-</description>
+		<description>&lt;p&gt;Test Suites: 1. Collection of tests 2. All can be run in a batch 3. When using Selenium-IDE, test suites also can be defined using a simple HTML file. This can be defined by using HTMl TABLE 4. When using Selenium-RC, test suites are maintained using Programming logic. Commonly Junit is used to maintain a test suite if one is using Selenium-RC with Java.If C# is the chosen language, Nunit could be employed. If using an interpreted language like Python with Selenium-RC then some simple programming would be involved in setting up a test suite&lt;/p&gt;</description>
 	</item>
 	<item>
 		<title>Commonly Used Selenium Commands</title>
-		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<link>http://www.seleniumhq.org/docs/02_selenium_ide.jsp#commonly-used-selenium-commands</link>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
-		<description>-</description>
+		<description>&lt;p&gt;open: opens a page using a URL.&lt;br /&gt;click/clickAndWait: performs a click operation, and optionally waits for a new page to load.&lt;br /&gt;verifyTitle/assertTitle: verifies an expected page title.&lt;br /&gt;verifyTextPresent: verifies expected text is somewhere on the page.&lt;br /&gt;verifyElementPresent: verifies an expected UI element, as defined by its HTML tag, is present on the page.&lt;br /&gt;verifyText: verifies expected text and its corresponding HTML tag are present on the page.&lt;br /&gt;verifyTable: verifies a table&amp;rsquo;s expected contents.&lt;br /&gt;waitForPageToLoad: pauses execution until an expected new page loads. Called automatically when clickAndWait is used.&lt;br /&gt;waitForElementPresent: pauses execution until an expected UI element, as defined by its HTML tag, is present on the page.&lt;/p&gt;</description>
 	</item>
 	<item>
 		<title>Verifying Page Elements</title>
-		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<link>http://seleniumshiv.blogspot.in/2012/05/checkpoints-in-selenium.html</link>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
-		<description>-</description>
+		<description>&lt;p&gt;1. While automating, there is a need to have checkpoints that tell the tests if its pass or fail. These checkpoints are creating by checking if particular element exists or by checking its status etc.&lt;br /&gt;2. In order to create these checkpoints, you need supporting functions that will help you in locating, comparing and then sending the results to logs&lt;br /&gt;3. So for verification you need locators(which will search &amp;amp; find the object that you want ), get the status of the object(ex:visible,exists,enabled etc), compare with the required status and report&lt;/p&gt;</description>
 	</item>
 	<item>
 		<title>Assertion or Verification?</title>
-		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<link>http://software-testing-tutorials-automation.blogspot.in/2012/11/different-between-verifytext-and.html</link>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
-		<description>-</description>
+		<description>&lt;p&gt;1. Assertion: When an "assert" fails, the test will be aborted.It is used when the check value has to pass for the test to be able to continue to run. EX: If login fails, then there is no use of running other tests.&lt;br /&gt;2. Verification: When an "verify" fails, the test will continue executing and logging the failure.EX: Verification of text fails that is non critical for execution of further tests.&lt;/p&gt;</description>
 	</item>
 	<item>
 		<title>Locating Elements</title>
-		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<link>https://newcircle.com/bookshelf/selenium_tutorial/locators</link>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
-		<description>-</description>
+		<description>&lt;p&gt;Locating Elements:&lt;br /&gt;Below are the different way to locate element:&lt;br /&gt;1. Locating by Identifier: Works with the id and name attributes. First ID is used to get the element. If not found then name attribute is used.EX: identifier=loginForm&lt;br /&gt;2. Locating by Id: Tries to find the element in the page having an id attribute.EX: id=loginForm &lt;br /&gt;3. Locating by Name: Tries to find the element in the page having an name attribute.EX: name=username&lt;br /&gt;4. Locating by XPath: It navigates through html page(with absolute or relative path) to gets its element.Absolute Path: xpath=/html/body/form[1].Relative://form[1] and xpath=//form[input/@name='username']&lt;br /&gt;5. Locating Hyperlinks by Link Text: It uses text of link to locate a hyperlink.EX: link=Cancel &lt;br /&gt;6. Locating by DOM: &lt;br /&gt;7. Locating by CSS:CSS (Cascading Style Sheets) is a language for describing the rendering of HTML and XML documents.It uses selectors to locate an element.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;Examples:XPath &amp;amp; CSS&lt;br /&gt;1. CSS locator by id - EX: XPATH is defined using: "[@id='login']" and in CSS using: "#"&lt;br /&gt;2. CSS locator by class - EX: XPATH: "[@class='login']" while in CSS it is a dot "."&lt;br /&gt;3. Direct Child - EX: XPATH: uses "/"(//div/a) and CSS uses "&amp;gt;"(css=div &amp;gt; a)&lt;br /&gt;4. Any Child - XPATH:"//"(//div//a) and in CSS by a whitespace(css=div a)&lt;/p&gt;</description>
 	</item>
 	<item>
 		<title>Matching Text Patterns</title>
-		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<link>https://eccentricabhi.wordpress.com/2011/07/19/selenium-pattern-matching-through-globs-i-e-globbing/</link>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
-		<description>-</description>
+		<description>&lt;p&gt;Patterns uses special characters to describe what text is expected rather than having to specify that text exactly. This is required when the object has dynamic content/naming/properties&lt;/p&gt;
+&lt;p&gt;3 types of patterns are available&lt;br /&gt;1. Globbing Patterns: Uses * (asterisk): match any number of characters or [ ] (square brackets): Range. Note: selenium DOESNOT contain ? pattern&lt;/p&gt;
+&lt;p&gt;EX: command-&amp;gt;verifyTextPresent| target-&amp;gt;Glob: reg*&lt;/p&gt;
+&lt;p&gt;2. Regular Expression Patterns: Selenese globbing patterns support only the * and [ ] (character class) features whereas Selenese regular expression patterns offer the same wide array of special characters that exist in JavaScript.&lt;/p&gt;
+&lt;p&gt;EX1: case-sensitive-&amp;gt;command-verifyTitle| target-&amp;gt;regexp:.*Film.*Television.*&lt;br /&gt;EX2: case-insensitive-&amp;gt;command-verifyTitle| target-&amp;gt;regexpi:.*Film.*Television.*&lt;/p&gt;
+&lt;p&gt;.(dot) means any single character&lt;br /&gt;[]: Any single character that appears inside the brackets&lt;br /&gt;*: quantifier: 0 or more of the preceding character&lt;br /&gt;+: 1 or more of the preceding character&lt;br /&gt;?: 0 or 1 of the preceding character&lt;br /&gt;|: Alternative&lt;/p&gt;
+&lt;p&gt;3. Exact Patterns: Generally used when special characters like *(which acts as an operator for regular expression) needs its exact meaning literally.EX: In exact:Real *, * doesnt act as a special character.&lt;/p&gt;</description>
 	</item>
 	<item>
 		<title>The “AndWait” Commands</title>
-		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<link>http://www.seleniumhq.org/docs/02_selenium_ide.jsp#the-andwait-commands</link>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
-		<description>-</description>
+		<description>&lt;p&gt;1. The difference between normal command and "AndWait" command is simple."AndWait" will wait for the page to load after the action has been done.&lt;br /&gt;2. "AndWait" should be used only when action triggers navigation or page refresh&lt;/p&gt;</description>
 	</item>
 	<item>
 		<title>The waitFor Commands in AJAX applications</title>
-		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<link>http://www.joecolantonio.com/2013/01/04/selenium-automation-101-how-to-use-waitfor-commands/</link>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
-		<description>-</description>
+		<description>&lt;p&gt;1. Since in AJAX application, only part of the page is reloaded when particular action is done . To make "AndWait" to work, page has to be navigated/refreshed. So "AndWait" usage will fail&lt;br /&gt;2. waitFor commands(like waitForElementPresent or waitForVisible) will wait dynamically, checking for the desired condition every second and continuing to the next command in the script as soon as the condition is met.&lt;br /&gt;3. WaitFor commands are not hard waits.So they will, by default, wait up to 30 seconds to find an element, but if they find an element before 30 seconds, they continue without waiting the remainder of the time&lt;/p&gt;</description>
 	</item>
 	<item>
 		<title>Sequence of Evaluation and Flow Control</title>
-		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<link>http://www.seleniumhq.org/docs/02_selenium_ide.jsp#sequence-of-evaluation-and-flow-control</link>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
-		<description>-</description>
+		<description>&lt;p&gt;1. Selenese runs only sequentially. There is no condition statements(if else etc) and no iterations(while, for etc)&lt;br /&gt;2. If condition statements &amp;amp; iterations are needed then we need to use selenium RC and Java. Java or any higher level langauge will provide this support. Or use Javascript using storeEval command.goto_sel_ide.js extension can also be used.&lt;/p&gt;</description>
 	</item>
 	<item>
 		<title>Store Commands and Selenium Variables</title>
-		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<link>http://seleniummaster.com/sitecontent/index.php/introduction-to-selenium-automation/selenium-ide/94-selenium-ide-store-commands-and-selenium-variables</link>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
-		<description>-</description>
+		<description>&lt;p&gt;1. Selenium variables can be used to store constants.&lt;br /&gt;2. store command---&amp;gt; takes 2 variables(target=&amp;gt;variable value and value=&amp;gt;variable name)&lt;br /&gt;3. Access the stored variable---&amp;gt;To access the value of a variable, enclose the variable in curly brackets ({}) and precede it with a dollar sign.EX: verifyText id=idname ${variable name}&lt;br /&gt;4. Other store commands includes storeElementPresent, storeText and storeEval&lt;/p&gt;</description>
 	</item>
 	<item>
 		<title>JavaScript and Selenese Parameters</title>
-		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<link>http://software-testing-tutorials-automation.blogspot.in/2013/06/use-storedvars-with-storeeval-command.html</link>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
-		<description>-</description>
+		<description>&lt;p&gt;1. We can use Javascript to access and/or manipulate a test case variable inside the JavaScript snippet used as a Selenese parameter&lt;br /&gt;2. All variables created in test case are stored in JavaScript associative array. An associative array has string indexes rather than sequential numeric indexes.&lt;br /&gt;3. The associative array containing your test case&amp;rsquo;s variables is named storedVars.&lt;br /&gt;4. To access or manipulate a variable within a JavaScript snippet, you must refer to it as storedVars[&amp;lsquo;yourVariableName&amp;rsquo;].&lt;br /&gt;5. Meaning: When you create variables(like store 10 in variable named Runs), then these variables are stored in background in Array with string index(array names as storedVars). To access this variable say for the purpose of changing this value, then use storedVars['Runs']&lt;br /&gt;6. storeEval command is consider as script command&lt;br /&gt;7. Without script command, we can use javascript in Value field using the syntax javascript{storedVars[&amp;lsquo;searchString&amp;rsquo;]}&lt;/p&gt;</description>
 	</item>
 	<item>
-		<title>echo - The Selenese Print Command</title>
-		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<title>echo - The Selenese Print Command</title>
+		<link>http://www.helloselenium.com/2013/04/how-to-use-echo-command-in-selenium-ide.html</link>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
-		<description>-</description>
+		<description>1. Command to allow you print text to test's output
+2. It can be used to show some information about the current operations/progress
+3. The information is displayed in the console logs</description>
 	</item>
 	<item>
 		<title>Alerts, Popups, and Multiple Windows</title>
-		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<link>http://www.seleniumhq.org/docs/02_selenium_ide.jsp#alerts-popups-and-multiple-windows</link>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
-		<description>-</description>
-	</item>
-	<item>
-		<title>Debugging</title>
-		<link>http://www.guru99.com/introduction-to-selenium.html</link>
-		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
-		<description>-</description>
-	</item>
-	<item>
-		<title>Writing a Test Suite</title>
-		<link>http://www.guru99.com/introduction-to-selenium.html</link>
-		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
-		<description>-</description>
+		<description>&lt;p&gt;1. Alerts: assertAlert (Checks the provided text and Selenium-IDE handles and closes the alert for you.)&lt;br /&gt;2. Confirmations: assertConfirmation.By default Selenium will select OK when a confirmation pops up. If cancel button needs to clicked then use chooseCancelOnNextConfirmation before the above command&lt;br /&gt;3. Prompts: assertPrompt someText&lt;/p&gt;</description>
 	</item>
 	<item>
 		<title>User Extensions</title>
-		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<link>http://www.seleniumhq.org/docs/08_user_extensions.jsp</link>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
-		<description>-</description>
-	</item>
-	<item>
-		<title>Format</title>
-		<link>http://www.guru99.com/introduction-to-selenium.html</link>
-		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
-		<description>-</description>
+		<description>&lt;p&gt;1. User Extensions are JavaScript files that allow others to create customizations and add functionalities&lt;br /&gt;2. These are nothing but customized commands&lt;br /&gt;3. One of the most popular user extension is flow control provider--&amp;gt; goto_sel_ide.js&lt;br /&gt;4. To install extensions, download the extension and give the path of .js in Selenium-IDE&amp;rsquo;s Options=&amp;gt;Options=&amp;gt;General tab.&lt;/p&gt;</description>
 	</item>
 	<item>
 		<title>Executing Selenium-IDE Tests on Different Browsers</title>
-		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<link>http://www.testingdiaries.com/selenium-ide-browsers-webdriver-playback/</link>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
-		<description>-</description>
-	</item>
-	<item>
-		<title>Troubleshooting</title>
-		<link>http://www.guru99.com/introduction-to-selenium.html</link>
-		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
-		<description>-</description>
+		<description>&lt;p&gt;1. Selenium IDE can only run on Firefox&lt;br /&gt;2. Selenium IDE tests can run on any browser&lt;br /&gt;3. To run scripts on other browsers, we need to use Command-Line Interface which will invode Selenium RC Server&lt;/p&gt;</description>
 	</item>
 </data-set>
