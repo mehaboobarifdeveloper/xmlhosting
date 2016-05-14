@@ -1,39 +1,657 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<item>
-		<title>Introduction</title>
-		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<title> Introduction</title>
+		<link>http://www.seleniumhq.org/docs/01_introducing_selenium.jsp</link>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
-		<description>-</description>
+		<description>|Direct|</description>
 	</item>
 	<item>
-		<title>Actions</title>
-		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<title> Test Automation for Web Applications</title>
+		<link>http://www.seleniumhq.org/docs/01_introducing_selenium.jsp#test-automation-for-web-applications</link>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
-		<description>-</description>
+		<description>|Direct|</description>
 	</item>
 	<item>
-		<title>Accessors/Assertions</title>
-		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<title> To Automate or Not to Automate?</title>
+		<link>http://www.seleniumhq.org/docs/01_introducing_selenium.jsp#to-automate-or-not-to-automate</link>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
-		<description>-</description>
+		<description>|Direct|</description>
 	</item>
 	<item>
-		<title>Locator Strategies</title>
-		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<title> Introducing Selenium</title>
+		<link>http://www.seleniumhq.org/docs/01_introducing_selenium.jsp#introducing-selenium</link>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
-		<description>-</description>
+		<description>|Direct|</description>
 	</item>
 	<item>
-		<title>Using User-Extensions With Selenium-IDE</title>
-		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<title> Brief History of The Selenium Project</title>
+		<link>http://www.seleniumhq.org/docs/01_introducing_selenium.jsp#brief-history-of-the-selenium-project</link>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
-		<description>-</description>
+		<description>|Direct|</description>
 	</item>
 	<item>
-		<title>Using User-Extensions With Selenium RC</title>
-		<link>http://www.guru99.com/introduction-to-selenium.html</link>
+		<title> Seleniums Tool Suite</title>
+		<link>http://www.seleniumhq.org/docs/01_introducing_selenium.jsp#selenium-s-tool-suite</link>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
-		<description>-</description>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Choosing Your Selenium Tool</title>
+		<link>http://www.seleniumhq.org/docs/01_introducing_selenium.jsp#choosing-your-selenium-tool</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Supported Browsers and Platforms</title>
+		<link>http://www.seleniumhq.org/docs/01_introducing_selenium.jsp#supported-browsers-and-platforms</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Flexibility and Extensibility</title>
+		<link>http://www.seleniumhq.org/docs/01_introducing_selenium.jsp#flexibility-and-extensibility</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> What's in this Book?</title>
+		<link>http://www.seleniumhq.org/docs/01_introducing_selenium.jsp#what-s-in-this-book</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> The Documentation Teamâ€“Authors Past and Present</title>
+		<link>http://www.seleniumhq.org/docs/01_introducing_selenium.jsp#the-documentation-team-authors-past-and-present</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Selenium-IDE</title>
+		<link>http://www.seleniumhq.org/docs/02_selenium_ide.jsp</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Introduction</title>
+		<link>http://www.seleniumhq.org/docs/02_selenium_ide.jsp#introduction</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Installing the IDE</title>
+		<link>http://www.seleniumhq.org/docs/02_selenium_ide.jsp#installing-the-ide</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Opening the IDE</title>
+		<link>http://www.seleniumhq.org/docs/02_selenium_ide.jsp#opening-the-ide</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> IDE Features</title>
+		<link>http://www.seleniumhq.org/docs/02_selenium_ide.jsp#ide-features</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Building Test Cases</title>
+		<link>http://www.seleniumhq.org/docs/02_selenium_ide.jsp#building-test-cases</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Running Test Cases</title>
+		<link>http://www.seleniumhq.org/docs/02_selenium_ide.jsp#running-test-cases</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Using Base URL to Run Test Cases in Different Domains</title>
+		<link>http://www.seleniumhq.org/docs/02_selenium_ide.jsp#using-base-url-to-run-test-cases-in-different-domains</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Selenium Commands â€“ â€œSeleneseâ€</title>
+		<link>http://www.seleniumhq.org/docs/02_selenium_ide.jsp#selenium-commands-selenese</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Script Syntax</title>
+		<link>http://www.seleniumhq.org/docs/02_selenium_ide.jsp#script-syntax</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Test Suites</title>
+		<link>http://www.seleniumhq.org/docs/02_selenium_ide.jsp#test-suites</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Commonly Used Selenium Commands</title>
+		<link>http://www.seleniumhq.org/docs/02_selenium_ide.jsp#commonly-used-selenium-commands</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Verifying Page Elements</title>
+		<link>http://www.seleniumhq.org/docs/02_selenium_ide.jsp#verifying-page-elements</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Assertion or Verification?</title>
+		<link>http://www.seleniumhq.org/docs/02_selenium_ide.jsp#assertion-or-verification</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Locating Elements</title>
+		<link>http://www.seleniumhq.org/docs/02_selenium_ide.jsp#locating-elements</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Matching Text Patterns</title>
+		<link>http://www.seleniumhq.org/docs/02_selenium_ide.jsp#matching-text-patterns</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> The â€œAndWaitâ€ Commands</title>
+		<link>http://www.seleniumhq.org/docs/02_selenium_ide.jsp#the-andwait-commands</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> The waitFor Commands in AJAX applications</title>
+		<link>http://www.seleniumhq.org/docs/02_selenium_ide.jsp#the-waitfor-commands-in-ajax-applications</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Sequence of Evaluation and Flow Control</title>
+		<link>http://www.seleniumhq.org/docs/02_selenium_ide.jsp#sequence-of-evaluation-and-flow-control</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Store Commands and Selenium Variables</title>
+		<link>http://www.seleniumhq.org/docs/02_selenium_ide.jsp#store-commands-and-selenium-variables</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> JavaScript and Selenese Parameters</title>
+		<link>http://www.seleniumhq.org/docs/02_selenium_ide.jsp#javascript-and-selenese-parameters</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> echo - The Selenese Print Command</title>
+		<link>http://www.seleniumhq.org/docs/02_selenium_ide.jsp#echo-the-selenese-print-command</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Alerts</title>
+		<link>http://www.seleniumhq.org/docs/02_selenium_ide.jsp#alerts-popups-and-multiple-windows</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Debugging</title>
+		<link>http://www.seleniumhq.org/docs/02_selenium_ide.jsp#debugging</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Writing a Test Suite</title>
+		<link>http://www.seleniumhq.org/docs/02_selenium_ide.jsp#writing-a-test-suite</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> User Extensions</title>
+		<link>http://www.seleniumhq.org/docs/02_selenium_ide.jsp#user-extensions</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Format</title>
+		<link>http://www.seleniumhq.org/docs/02_selenium_ide.jsp#format</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Executing Selenium-IDE Tests on Different Browsers</title>
+		<link>http://www.seleniumhq.org/docs/02_selenium_ide.jsp#executing-selenium-ide-tests-on-different-browsers</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Troubleshooting</title>
+		<link>http://www.seleniumhq.org/docs/02_selenium_ide.jsp#troubleshooting</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Selenium WebDriver</title>
+		<link>http://www.seleniumhq.org/docs/03_webdriver.jsp</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Introducing WebDriver</title>
+		<link>http://www.seleniumhq.org/docs/03_webdriver.jsp#introducing-webdriver</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> How Does WebDriver â€˜Driveâ€™ the Browser Compared to Selenium-RC?</title>
+		<link>http://www.seleniumhq.org/docs/03_webdriver.jsp#how-does-webdriver-drive-the-browser-compared-to-selenium-rc</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> WebDriver and the Selenium-Server</title>
+		<link>http://www.seleniumhq.org/docs/03_webdriver.jsp#webdriver-and-the-selenium-server</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Setting Up a Selenium-WebDriver Project</title>
+		<link>http://www.seleniumhq.org/docs/03_webdriver.jsp#setting-up-a-selenium-webdriver-project</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Migrating from Selenium 1.0</title>
+		<link>http://www.seleniumhq.org/docs/03_webdriver.jsp#migrating-from-selenium-1-0</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Introducing the Selenium-WebDriver API by Example</title>
+		<link>http://www.seleniumhq.org/docs/03_webdriver.jsp#introducing-the-selenium-webdriver-api-by-example</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Selenium-WebDriver API Commands and Operations</title>
+		<link>http://www.seleniumhq.org/docs/03_webdriver.jsp#selenium-webdriver-api-commands-and-operations</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Driver Specifics and Tradeoffs</title>
+		<link>http://www.seleniumhq.org/docs/03_webdriver.jsp#driver-specifics-and-tradeoffs</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Selenium-WebDriverâ€™s Drivers</title>
+		<link>http://www.seleniumhq.org/docs/03_webdriver.jsp#selenium-webdriver-s-drivers</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Alternative Back-Ends: Mixing WebDriver and RC Technologies</title>
+		<link>http://www.seleniumhq.org/docs/03_webdriver.jsp#alternative-back-ends-mixing-webdriver-and-rc-technologies</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Running Standalone Selenium Server for use with RemoteDrivers</title>
+		<link>http://www.seleniumhq.org/docs/03_webdriver.jsp#running-standalone-selenium-server-for-use-with-remotedrivers</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Additional Resources</title>
+		<link>http://www.seleniumhq.org/docs/03_webdriver.jsp#additional-resources</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Next Steps</title>
+		<link>http://www.seleniumhq.org/docs/03_webdriver.jsp#next-steps</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> WebDriver: Advanced Usage</title>
+		<link>http://www.seleniumhq.org/docs/04_webdriver_advanced.jsp</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Explicit and Implicit Waits</title>
+		<link>http://www.seleniumhq.org/docs/04_webdriver_advanced.jsp#explicit-and-implicit-waits</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> RemoteWebDriver</title>
+		<link>http://www.seleniumhq.org/docs/04_webdriver_advanced.jsp#remotewebdriver</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> AdvancedUserInteractions</title>
+		<link>http://www.seleniumhq.org/docs/04_webdriver_advanced.jsp#advanceduserinteractions</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Browser Startup Manipulation</title>
+		<link>http://www.seleniumhq.org/docs/04_webdriver_advanced.jsp#browser-startup-manipulation</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> HTML5</title>
+		<link>http://www.seleniumhq.org/docs/04_webdriver_advanced.jsp#html5</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Parallelizing Your Test Runs</title>
+		<link>http://www.seleniumhq.org/docs/04_webdriver_advanced.jsp#parallelizing-your-test-runs</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Selenium 1 (Selenium RC)</title>
+		<link>http://www.seleniumhq.org/docs/05_selenium_rc.jsp</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Introduction</title>
+		<link>http://www.seleniumhq.org/docs/05_selenium_rc.jsp#introduction</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> How Selenium RC Works</title>
+		<link>http://www.seleniumhq.org/docs/05_selenium_rc.jsp#how-selenium-rc-works</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Installation</title>
+		<link>http://www.seleniumhq.org/docs/05_selenium_rc.jsp#installation</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> From Selenese to a Program</title>
+		<link>http://www.seleniumhq.org/docs/05_selenium_rc.jsp#from-selenese-to-a-program</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Programming Your Test</title>
+		<link>http://www.seleniumhq.org/docs/05_selenium_rc.jsp#programming-your-test</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Learning the API</title>
+		<link>http://www.seleniumhq.org/docs/05_selenium_rc.jsp#learning-the-api</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Reporting Results</title>
+		<link>http://www.seleniumhq.org/docs/05_selenium_rc.jsp#reporting-results</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Adding Some Spice to Your Tests</title>
+		<link>http://www.seleniumhq.org/docs/05_selenium_rc.jsp#adding-some-spice-to-your-tests</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Server Options</title>
+		<link>http://www.seleniumhq.org/docs/05_selenium_rc.jsp#server-options</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Specifying the Path to a Specific Browser</title>
+		<link>http://www.seleniumhq.org/docs/05_selenium_rc.jsp#specifying-the-path-to-a-specific-browser</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Selenium RC Architecture</title>
+		<link>http://www.seleniumhq.org/docs/05_selenium_rc.jsp#selenium-rc-architecture</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Handling HTTPS and Security Popups</title>
+		<link>http://www.seleniumhq.org/docs/05_selenium_rc.jsp#handling-https-and-security-popups</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Supporting Additional Browsers and Browser Configurations</title>
+		<link>http://www.seleniumhq.org/docs/05_selenium_rc.jsp#supporting-additional-browsers-and-browser-configurations</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Troubleshooting Common Problems</title>
+		<link>http://www.seleniumhq.org/docs/05_selenium_rc.jsp#troubleshooting-common-problems</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Test Design Considerations</title>
+		<link>http://www.seleniumhq.org/docs/06_test_design_considerations.jsp</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Introducing Test Design</title>
+		<link>http://www.seleniumhq.org/docs/06_test_design_considerations.jsp#introducing-test-design</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Types of Tests</title>
+		<link>http://www.seleniumhq.org/docs/06_test_design_considerations.jsp#types-of-tests</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Validating Results</title>
+		<link>http://www.seleniumhq.org/docs/06_test_design_considerations.jsp#validating-results</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Location Strategies</title>
+		<link>http://www.seleniumhq.org/docs/06_test_design_considerations.jsp#location-strategies</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Wrapping Selenium Calls</title>
+		<link>http://www.seleniumhq.org/docs/06_test_design_considerations.jsp#wrapping-selenium-calls</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> UI Mapping</title>
+		<link>http://www.seleniumhq.org/docs/06_test_design_considerations.jsp#ui-mapping</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Page Object Design Pattern</title>
+		<link>http://www.seleniumhq.org/docs/06_test_design_considerations.jsp#page-object-design-pattern</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Data Driven Testing</title>
+		<link>http://www.seleniumhq.org/docs/06_test_design_considerations.jsp#data-driven-testing</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Database Validation</title>
+		<link>http://www.seleniumhq.org/docs/06_test_design_considerations.jsp#database-validation</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Selenium-Grid</title>
+		<link>http://www.seleniumhq.org/docs/07_selenium_grid.jsp</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Quick Start</title>
+		<link>http://www.seleniumhq.org/docs/07_selenium_grid.jsp#quick-start</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> What is Selenium-Grid?</title>
+		<link>http://www.seleniumhq.org/docs/07_selenium_grid.jsp#what-is-selenium-grid</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> When to Use It</title>
+		<link>http://www.seleniumhq.org/docs/07_selenium_grid.jsp#when-to-use-it</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Selenium-Grid 2.0</title>
+		<link>http://www.seleniumhq.org/docs/07_selenium_grid.jsp#selenium-grid-2-0</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> How Selenium-Grid Work With a Hub and Nodes</title>
+		<link>http://www.seleniumhq.org/docs/07_selenium_grid.jsp#how-selenium-grid-works-with-a-hub-and-nodes</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Installation</title>
+		<link>http://www.seleniumhq.org/docs/07_selenium_grid.jsp#installation</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Starting Selenium-Grid</title>
+		<link>http://www.seleniumhq.org/docs/07_selenium_grid.jsp#starting-selenium-grid</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Configuring Selenium-Grid</title>
+		<link>http://www.seleniumhq.org/docs/07_selenium_grid.jsp#configuring-selenium-grid</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Hub Configuration</title>
+		<link>http://www.seleniumhq.org/docs/07_selenium_grid.jsp#hub-configuration</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Node Configuration</title>
+		<link>http://www.seleniumhq.org/docs/07_selenium_grid.jsp#node-configuration</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Timing Parameters</title>
+		<link>http://www.seleniumhq.org/docs/07_selenium_grid.jsp#timing-parameters</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Customizing the Grid</title>
+		<link>http://www.seleniumhq.org/docs/07_selenium_grid.jsp#customizing-the-grid</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Getting Command-Line Help</title>
+		<link>http://www.seleniumhq.org/docs/07_selenium_grid.jsp#getting-command-line-help</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Common Errors</title>
+		<link>http://www.seleniumhq.org/docs/07_selenium_grid.jsp#common-errors</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Troubleshooting</title>
+		<link>http://www.seleniumhq.org/docs/07_selenium_grid.jsp#troubleshooting</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> User-Extensions</title>
+		<link>http://www.seleniumhq.org/docs/08_user_extensions.jsp</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Introduction</title>
+		<link>http://www.seleniumhq.org/docs/08_user_extensions.jsp#introduction</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Actions</title>
+		<link>http://www.seleniumhq.org/docs/08_user_extensions.jsp#actions</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Accessors/Assertions</title>
+		<link>http://www.seleniumhq.org/docs/08_user_extensions.jsp#accessors-assertions</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Locator Strategies</title>
+		<link>http://www.seleniumhq.org/docs/08_user_extensions.jsp#locator-strategies</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Using User-Extensions With Selenium-IDE</title>
+		<link>http://www.seleniumhq.org/docs/08_user_extensions.jsp#using-user-extensions-with-selenium-ide</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
+	</item>
+	<item>
+		<title> Using User-Extensions With Selenium RC</title>
+		<link>http://www.seleniumhq.org/docs/08_user_extensions.jsp#using-user-extensions-with-selenium-rc</link>
+		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
+		<description>|Direct|</description>
 	</item>
 </data-set>
