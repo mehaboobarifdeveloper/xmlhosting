@@ -4,246 +4,246 @@
 		<title>a. regexpi!b. exact!c. regexp!d. glob</title>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
 		<description> Which of the following does not use wildcards</description>
-		<category>b. exact</category>
+		<author>b. exact</author>
 	</item>
 	<item>
 		<title>a. extern!b. extends!c. error!d. exception</title>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
 		<description> Which of these not associated Java?</description>
-		<category>a. extern</category>
+		<author>a. extern</author>
 	</item>
 	<item>
 		<title>a. waitForPageToLoad!b. waitForAlertPresent!c. waitForTextPresent!d. waitForFramePresent</title>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
 		<description> What is applicable for waitFor command</description>
-		<category>c. waitForTextPresent</category>
+		<author>c. waitForTextPresent</author>
 	</item>
 	<item>
 		<title>a. Selects all of the siblings before the current element!b. Selects all elements that follow the closing tab of the current elements.!c. Selects all the siblings after the current element!d. Selects all elements that are before the current element</title>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
 		<description> Which of the following is related to Following Axis</description>
-		<category>b. Selects all elements that follow the closing tab of the current elements</category>
+		<author>b. Selects all elements that follow the closing tab of the current elements</author>
 	</item>
 	<item>
 		<title>a. Browserbot!b. DOMbot!c. HTTPbot!d. Windowbot</title>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
 		<description> What is the name of Javascript object which wraps the DOM in Selenium RC</description>
-		<category>a. Browserbot</category>
+		<author>a. Browserbot</author>
 	</item>
 	<item>
 		<title>a. Support for Selenium user- extensions .jr file!b. None of the above!c. Auto complete for all common Selenium commands!d. Intelligent field selection will use IDs, names, or XPath as needed.</title>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
 		<description> What is an disadvantage of Selenium IDE</description>
-		<category>a. Support for Selenium user- extensions .jr file</category>
+		<author>a. Support for Selenium user- extensions .jr file</author>
 	</item>
 	<item>
 		<title>a. Java!b. PHP!c. C#!d. ASP</title>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
 		<description> Which programming language is not supported by Selenium RC</description>
-		<category>d. ASP</category>
+		<author>d. ASP</author>
 	</item>
 	<item>
 		<title>a. It is similar to regular expressions.!b. Globs are used as default pattern matching technique.!c. None of the above!d. The syntax of Globs is much wider than Regular expression</title>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
 		<description> What is not applicable for Globs, in Selenium</description>
-		<category>d. The syntax of Globs is much wider than Regular expression</category>
+		<author>d. The syntax of Globs is much wider than Regular expression</author>
 	</item>
 	<item>
 		<title>a. Web application!b. Windows application!c. None of these!d. Firefox add-on</title>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
 		<description> What kind of application is the Selenium IDE?</description>
-		<category>d. Firefox add-on</category>
+		<author>d. Firefox add-on</author>
 	</item>
 	<item>
 		<title>a. :!b. -!c. _!d. ;</title>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
 		<description> What character is used to separate cookies, when accessed by selenium</description>
-		<category>d. ;</category>
+		<author>d. ;</author>
 	</item>
 	<item>
 		<title>a. 3333.0!b. 2222.0!c. 1111.0!d. 4444.0</title>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
 		<description> What is the port number assigned as default by hub</description>
-		<category>d. 4444.0</category>
+		<author>d. 4444.0</author>
 	</item>
 	<item>
 		<title>a. None of the above!b. No parameter is passed to the deleteCookie method!c. The first parameter is where it was created, and the second parameter is the name of cookie.!d. The first parameter is the name of the cookie, and the second parameter is where it was created.</title>
 		<pubDate> and the second parameter is where it was created.</pubDate>
 		<description> What is the use off parameters in the deleteCookie method</description>
-		<category>d. The first parameter is the name of the cookie</category>
+		<author>d. The first parameter is the name of the cookie</author>
 	</item>
 	<item>
 		<title>a. All of the above!b. Glob!c. Exact!The listed three options can be easily used in searching or locating the provided text</title>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
 		<description> What can easily be used to find the text 'A*b' ?</description>
-		<category>a. All of the above</category>
+		<author>a. All of the above</author>
 	</item>
 	<item>
 		<title>a. MS-Excel documents!b. XML documents!c. MS-Word documents!d. MS-PowerPoint documents</title>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
 		<description> Where is XPath used in ?</description>
-		<category>b. XML documents</category>
+		<author>b. XML documents</author>
 	</item>
 	<item>
 		<title>a. Run time events!b. Element formatting!c. Code injection!tag'&gt;d. &lt;'script'&gt; tag</title>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
 		<description> What does the runScript adds ?</description>
-		<category>d. &lt;'script'&gt; tag</category>
+		<author>d. &lt;'script'&gt; tag</author>
 	</item>
 	<item>
 		<title>a. VerifyElementPresent and assertElementPresent!b. VerifyTextPresent and assertTextPresent!c. VerifyAlert and assertAlert!d. VerifyAlertPresent and assertAlertPresent</title>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
 		<description> Which commands are used for a button validation</description>
-		<category>a. VerifyElementPresent and assertElementPresent</category>
+		<author>a. VerifyElementPresent and assertElementPresent</author>
 	</item>
 	<item>
 		<title>a. To design a test using selenese!b. To test a Web application against Firefox only.!c. To quickly create tests!d. To execute tests on the HtmlUnit browser.</title>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
 		<description> What is the utility of Selenium's Web driver</description>
-		<category>d. To execute tests on the HtmlUnit browser.</category>
+		<author>d. To execute tests on the HtmlUnit browser.</author>
 	</item>
 	<item>
 		<title>a. Multi platform support!b. Executing parallel tests!c. Real time updates!d. WebDriver integration</title>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
 		<description> What is the main advantage of Selenium Grid ?</description>
-		<category>b. Executing parallel tests</category>
+		<author>b. Executing parallel tests</author>
 	</item>
 	<item>
 		<title>a. yes!b. No!c. Only supports Modular framework!d. Only supports Keyword driven framework</title>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
 		<description> Does Selenium supports Data Driven Framework ?</description>
-		<category>a. yes</category>
+		<author>a. yes</author>
 	</item>
 	<item>
 		<title>a. true!b. Needs usage of @pointer directive!c. Needs usage of #pointer# directive!d. false</title>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
 		<description> Does Java support pointer?</description>
-		<category>d. false</category>
+		<author>d. false</author>
 	</item>
 	<item>
 		<title>a. $=!b. *=!c. ^=!d. &amp;=</title>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
 		<description> Which of the following is same as the XPath ends-with</description>
-		<category>a. $=</category>
+		<author>a. $=</author>
 	</item>
 	<item>
 		<title>a. SMB!b. SMTP!c. HTTP!d. FTP</title>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
 		<description> Which protocol is used to communicate between Hub and nodes ?</description>
-		<category>c. HTTP</category>
+		<author>c. HTTP</author>
 	</item>
 	<item>
 		<title>a. Internet Driver!b. Web Driver!c. Host Driver!d. None of the above</title>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
 		<description> Which of the following is a component of Selenium</description>
-		<category>b. Web Driver</category>
+		<author>b. Web Driver</author>
 	</item>
 	<item>
 		<title>a. 2006.0!b. 2005.0!c. 2004.0!d. 2003.0</title>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
 		<description> When did selenium came to life ?</description>
-		<category>c. 2004</category>
+		<author>c. 2004</author>
 	</item>
 	<item>
 		<title>a. waitForTextPresent!b. waitForTitle!c. waitForAlert!d. waitForActive</title>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
 		<description> Which of the following is not a wait command</description>
-		<category>d. waitForActive</category>
+		<author>d. waitForActive</author>
 	</item>
 	<item>
 		<title>a. Java jar file!b. JavaScript file!c. Windows executable!d. JavaScript library</title>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
 		<description> What is an Selenium RC Server ?</description>
-		<category>a. Java jar file</category>
+		<author>a. Java jar file</author>
 	</item>
 	<item>
 		<title>a. Document Flow object Model!b. Document object Model!c. Data Object Model!d. Dynamic object Model</title>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
 		<description> What does the term DOM expands to</description>
-		<category>b. Document object Model</category>
+		<author>b. Document object Model</author>
 	</item>
 	<item>
 		<title>a. Initiate!b. Start!c. Run!d. Go</title>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
 		<description> Which button on the toolbar starts the test ?</description>
-		<category>c. Run</category>
+		<author>c. Run</author>
 	</item>
 	<item>
 		<title>a. context.Click()!b. contextClick()!c. click_Context()!d. context_Click()</title>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
 		<description> Which Selenium method does a context-click at current mouse location</description>
-		<category>b. contextClick()</category>
+		<author>b. contextClick()</author>
 	</item>
 	<item>
 		<title>a. storedVariables!b. VariablesStore!c. All of the above!d. storedVars</title>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
 		<description> Which function in selenium is used to stores variables</description>
-		<category>d. storedVars</category>
+		<author>d. storedVars</author>
 	</item>
 	<item>
 		<title>a. Selenium run time parameters!b. A small sweet cake!c. Test script!d. Data stored in browser by website</title>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
 		<description> What is an cookie in Selenium ?</description>
-		<category>d. Data stored in browser by website</category>
+		<author>d. Data stored in browser by website</author>
 	</item>
 	<item>
 		<title>a. 100 seconds!b. 500 seconds!c. 300 seconds!d. 200 seconds</title>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
 		<description> What is the default timeout for Selenium grid</description>
-		<category>c. 300 seconds</category>
+		<author>c. 300 seconds</author>
 	</item>
 	<item>
 		<title>a. Regional Expression!b. Registered Expression!c. Regression Expression!d. Regular Expression</title>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
 		<description> What does the term regex expands to ?</description>
-		<category>c. Regression Expression</category>
+		<author>c. Regression Expression</author>
 	</item>
 	<item>
 		<title>a. Hadoop!b. Apache Beehive!c. Apache Ant!d. Apache Synapse</title>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
 		<description> Which Java based software is needed for Selenium Grid ?</description>
-		<category>c. Apache Ant</category>
+		<author>c. Apache Ant</author>
 	</item>
 	<item>
 		<title>a. CSS1.0, CSS 2.0, and CSS 3.0 selectors.!b. CSS1.0 and CSS 2.0,!c. CSS 2.0, and CSS 3.0 selectors.!d. CSS1.0, CSS 2.0, CSS 3.0 and CSS 4.0 selectors.</title>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
 		<description> Which CSS version does Selenium is compatible with</description>
-		<category>a. CSS1.0, CSS 2.0, and CSS 3.0 selectors.</category>
+		<author>a. CSS1.0, CSS 2.0, and CSS 3.0 selectors.</author>
 	</item>
 	<item>
 		<title>a. Selenium Grid!b. Selenium IDE!c. Selenium RC!d. Selenium Web</title>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
 		<description> Which of the following is not part of selenium suit</description>
-		<category>d. Selenium Web</category>
+		<author>d. Selenium Web</author>
 	</item>
 	<item>
 		<title>a. Name!b. Link Text!c. Password!d. ID</title>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
 		<description> Which of the following is not an locator</description>
-		<category>c. Password</category>
+		<author>c. Password</author>
 	</item>
 	<item>
 		<title>a. Associative array!b. String!c. Integer!d. Numeric Array</title>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
 		<description> Where are the variables in a test case in JavaScript stored as ?</description>
-		<category>a. Associative array</category>
+		<author>a. Associative array</author>
 	</item>
 	<item>
 		<title>b. Accumulated Java and XML!c. Asynchronous Java and XML!d. Asynchronous JavaScript and XML!AJAX expands to Asynchronous JavaScript and XML, remaining are wrong expansions.</title>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
 		<description> The term AJAX expands to ________</description>
-		<category>d. Asynchronous JavaScript and XML</category>
+		<author>d. Asynchronous JavaScript and XML</author>
 	</item>
 	<item>
 		<title>a. 2.0!b. 5.0!c. 3.0!d. 4.0</title>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
 		<description> How many parameters does an assessor can accept</description>
-		<category>a. 2.0</category>
+		<author>a. 2.0</author>
 	</item>
 	<item>
 		<title>a. Selenium Remote Contact!b. Selenium Rapid Contact!c. Selenium Rapid Control!d. Selenium Remote control</title>
 		<pubDate>Wed, 16 Feb 2016 15:17:32 GMT</pubDate>
 		<description> What is the term 'RC' refer to in Selenium RC ?</description>
-		<category>d. Selenium Remote control</category>
+		<author>d. Selenium Remote control</author>
 	</item>
 </data-set>
