@@ -70,7 +70,7 @@
 		<title>a. None of the above!b. No parameter is passed to the deleteCookie method!c. The first parameter is where it was created, and the second parameter is the name of cookie.!d. The first parameter is the name of the cookie, and the second parameter is where it was created.</title>
 		<pubDate> and the second parameter is where it was created.</pubDate>
 		<description> What is the use off parameters in the deleteCookie method</description>
-		<dc:creator>d. The first parameter is the name of the cookie</dc:creator>
+		<dc:creator>d. The first parameter is where it was created, and the second parameter is the name of cookie.</dc:creator>
 	</item>
 	<item>
 		<title>a. All of the above!b. Glob!c. Exact!The listed three options can be easily used in searching or locating the provided text</title>
